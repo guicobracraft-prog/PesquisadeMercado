@@ -41,10 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add historico/ catalogo_geral.csv catalogo_por_categoria.csv movimentacoes.csv vendas_acumuladas.csv produtos_sem_estoque.csv
-
+          git add -A -f
           git commit -m "Atualização automática do monitoramento [skip ci]" || exit 0
-
           git pull --rebase origin main
           git push origin main

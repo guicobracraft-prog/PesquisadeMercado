@@ -160,7 +160,6 @@ def migrar_vendas_acumuladas(produtos=None):
     if "CATEGORIA" in colunas_antigas and "VALOR_UNITARIO" in colunas_antigas:
         return
 
-    # Obter produtos para preencher categoria e valor unitário
     dict_produtos = {}
     if produtos is not None:
         dict_produtos = {str(p['id']): p for p in produtos}
@@ -173,7 +172,6 @@ def migrar_vendas_acumuladas(produtos=None):
         except:
             pass
 
-    # Índices antigos
     idx_data = colunas_antigas.index("DATA_HORA") if "DATA_HORA" in colunas_antigas else 0
     idx_id = colunas_antigas.index("ID") if "ID" in colunas_antigas else 1
     idx_nome = colunas_antigas.index("NOME") if "NOME" in colunas_antigas else 2
@@ -241,8 +239,16 @@ def gerar_relatorio_diario(data_alvo):
     with open(ARQUIVO_VENDAS_ACUMULADAS, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f, delimiter=';')
         for row in reader:
-            # Ignora linhas com valor total zero (produto sem nome)
-            if row.get('VALOR_TOTAL', '0').replace(',', '.') in ('0', '0.00'):
+            # Verifica se a linha tem todas as colunas necessárias
+            if len(row) < 7:
+                continue
+            # Verifica se VALOR_TOTAL é um número válido
+            valor_str = row.get('VALOR_TOTAL', '0').replace(',', '.')
+            try:
+                float(valor_str)
+            except (ValueError, TypeError):
+                continue
+            if valor_str in ('0', '0.00'):
                 continue
             data_venda = row.get('DATA_HORA', '')[:10]
             if data_venda == data_alvo:
@@ -261,10 +267,7 @@ def gerar_relatorio_diario(data_alvo):
             nome = "(Produto removido)"
         qtd = int(v.get('QUANTIDADE_VENDIDA', 0) or 0)
         valor_str = v.get('VALOR_TOTAL', '0').replace(',', '.')
-        try:
-            valor_total = float(valor_str)
-        except:
-            valor_total = 0.0
+        valor_total = float(valor_str)
 
         chave = (pid, nome)
         if chave not in por_produto:
@@ -280,10 +283,7 @@ def gerar_relatorio_diario(data_alvo):
             categoria = 'OUTROS'
         qtd = int(v.get('QUANTIDADE_VENDIDA', 0) or 0)
         valor_str = v.get('VALOR_TOTAL', '0').replace(',', '.')
-        try:
-            valor_total = float(valor_str)
-        except:
-            valor_total = 0.0
+        valor_total = float(valor_str)
 
         if categoria not in por_categoria:
             por_categoria[categoria] = {'qtd': 0, 'valor': 0.0}
@@ -421,7 +421,20 @@ def gerar_resumo_geral_markdown(arquivo_csv=ARQUIVO_VENDAS_ACUMULADAS):
 
     with open(arquivo_csv, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f, delimiter=';')
-        linhas = [row for row in reader if row.get('VALOR_TOTAL', '0').replace(',', '.') not in ('0', '0.00')]
+        linhas = []
+        for row in reader:
+            # Ignora linhas com número incorreto de colunas
+            if len(row) < 7:
+                continue
+            # Tenta converter VALOR_TOTAL, se falhar ignora a linha
+            valor_str = row.get('VALOR_TOTAL', '0').replace(',', '.')
+            try:
+                float(valor_str)
+            except (ValueError, TypeError):
+                continue
+            if valor_str in ('0', '0.00'):
+                continue
+            linhas.append(row)
 
     if not linhas:
         print("ℹ️ Nenhuma venda válida para gerar resumo.")

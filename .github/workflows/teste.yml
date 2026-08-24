@@ -1,0 +1,15 @@
+name: Verificar IP e organização
+
+on: [push, pull_request]
+
+jobs:
+  check-info:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verificar IP e organização
+        run: |
+          echo "IP público:"
+          curl -s ifconfig.me
+          echo ""
+          echo "Informações da organização:"
+          curl -s ipinfo.io/json

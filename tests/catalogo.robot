@@ -46,6 +46,7 @@ Processar Catalogo Completo Automaticamente
         ${qtd_produtos} =    Get Length    ${produtos_estoque}
         
         Log    \n📦 Estoque ${estoque_id} (${qtd_produtos} produtos):    console=True
+        ${'-' * 50}    Set Variable    value
         Log    ${'-' * 50}    console=True
         
         FOR    ${produto}    IN    @{produtos_estoque}

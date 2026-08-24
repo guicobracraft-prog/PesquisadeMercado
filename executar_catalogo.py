@@ -2,6 +2,7 @@ import sys
 import os
 import json
 import csv
+import re
 from datetime import datetime, timezone, timedelta
 
 sys.path.append(os.path.join(os.path.dirname(__file__), 'resources'))
@@ -10,7 +11,7 @@ from catalogo_api import CatalogoAPI
 HISTORICO_DIR = "historico"
 ULTIMO_SNAPSHOT = os.path.join(HISTORICO_DIR, "ultimo_snapshot.json")
 ARQUIVO_VENDAS_ACUMULADAS = "vendas_acumuladas.csv"
-FUSO_HORARIO = timezone(timedelta(hours=-3))  # Horário de Brasília
+FUSO_HORARIO = timezone(timedelta(hours=-3))
 
 # ----------------------------------------------------------------------
 # Funções auxiliares
@@ -60,6 +61,24 @@ def formatar_moeda(valor):
         return f"R$ {float(valor):.2f}"
     except:
         return "R$ 0.00"
+
+def extrair_numero(texto):
+    """
+    Extrai apenas a parte numérica de uma string, aceitando 
+    vírgula ou ponto como separador decimal.
+    """
+    numeros = re.sub(r'[^\d.,]', '', str(texto))
+    if ',' in numeros and '.' in numeros:
+        if numeros.rfind(',') > numeros.rfind('.'):
+            numeros = numeros.replace('.', '').replace(',', '.')
+        else:
+            numeros = numeros.replace(',', '')
+    elif ',' in numeros:
+        numeros = numeros.replace(',', '.')
+    try:
+        return float(numeros)
+    except:
+        return 0.0
 
 def gerar_relatorio_vendas(snapshot_anterior, produtos_atuais):
     vendas = []
@@ -115,9 +134,6 @@ def gerar_relatorio_vendas(snapshot_anterior, produtos_atuais):
     return vendas, reposicoes, sem_mudanca
 
 def registrar_vendas_acumuladas(vendas, arquivo=ARQUIVO_VENDAS_ACUMULADAS):
-    """
-    Registra as vendas no arquivo acumulado, com colunas organizadas.
-    """
     if not vendas:
         return
 
@@ -140,9 +156,6 @@ def registrar_vendas_acumuladas(vendas, arquivo=ARQUIVO_VENDAS_ACUMULADAS):
     print(f"📁 Vendas acumuladas salvas em: {arquivo}")
 
 def migrar_vendas_acumuladas(produtos=None):
-    """
-    Migra o arquivo de vendas acumuladas do formato antigo para o novo.
-    """
     if not os.path.exists(ARQUIVO_VENDAS_ACUMULADAS):
         return
 
@@ -156,7 +169,6 @@ def migrar_vendas_acumuladas(produtos=None):
     colunas_antigas = cabecalho.split(';')
     colunas_novas = ["DATA_HORA", "ID", "NOME", "CATEGORIA", "QUANTIDADE_VENDIDA", "VALOR_UNITARIO", "VALOR_TOTAL"]
 
-    # Se já estiver no formato novo, não faz nada
     if "CATEGORIA" in colunas_antigas and "VALOR_UNITARIO" in colunas_antigas:
         return
 
@@ -189,12 +201,7 @@ def migrar_vendas_acumuladas(produtos=None):
         pid = partes[idx_id]
         nome = partes[idx_nome]
         qtd = partes[idx_qtd]
-        valor_total_str = partes[idx_valor_total].replace(',', '.')
-
-        try:
-            valor_total = float(valor_total_str)
-        except:
-            valor_total = 0.0
+        valor_total = extrair_numero(partes[idx_valor_total])
 
         categoria = ""
         valor_unitario = 0.0
@@ -228,9 +235,6 @@ def migrar_vendas_acumuladas(produtos=None):
     print(f"🔄 Arquivo {ARQUIVO_VENDAS_ACUMULADAS} migrado para o novo formato.")
 
 def gerar_relatorio_diario(data_alvo):
-    """
-    Gera um relatório diário em TXT com tabelas alinhadas e totais.
-    """
     if not os.path.exists(ARQUIVO_VENDAS_ACUMULADAS):
         print("⚠️ Nenhum arquivo de vendas acumuladas encontrado.")
         return
@@ -239,16 +243,10 @@ def gerar_relatorio_diario(data_alvo):
     with open(ARQUIVO_VENDAS_ACUMULADAS, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f, delimiter=';')
         for row in reader:
-            # Verifica se a linha tem todas as colunas necessárias
             if len(row) < 7:
                 continue
-            # Verifica se VALOR_TOTAL é um número válido
-            valor_str = row.get('VALOR_TOTAL', '0').replace(',', '.')
-            try:
-                float(valor_str)
-            except (ValueError, TypeError):
-                continue
-            if valor_str in ('0', '0.00'):
+            valor_total = extrair_numero(row.get('VALOR_TOTAL', '0'))
+            if valor_total == 0.0:
                 continue
             data_venda = row.get('DATA_HORA', '')[:10]
             if data_venda == data_alvo:
@@ -258,7 +256,6 @@ def gerar_relatorio_diario(data_alvo):
         print(f"ℹ️ Nenhuma venda registrada em {data_alvo}.")
         return
 
-    # Agregar por produto
     por_produto = {}
     for v in vendas_dia:
         pid = v.get('ID', '?')
@@ -266,8 +263,7 @@ def gerar_relatorio_diario(data_alvo):
         if not nome:
             nome = "(Produto removido)"
         qtd = int(v.get('QUANTIDADE_VENDIDA', 0) or 0)
-        valor_str = v.get('VALOR_TOTAL', '0').replace(',', '.')
-        valor_total = float(valor_str)
+        valor_total = extrair_numero(v.get('VALOR_TOTAL', '0'))
 
         chave = (pid, nome)
         if chave not in por_produto:
@@ -275,15 +271,13 @@ def gerar_relatorio_diario(data_alvo):
         por_produto[chave]['qtd'] += qtd
         por_produto[chave]['valor'] += valor_total
 
-    # Agregar por categoria
     por_categoria = {}
     for v in vendas_dia:
         categoria = v.get('CATEGORIA', 'OUTROS')
         if not categoria:
             categoria = 'OUTROS'
         qtd = int(v.get('QUANTIDADE_VENDIDA', 0) or 0)
-        valor_str = v.get('VALOR_TOTAL', '0').replace(',', '.')
-        valor_total = float(valor_str)
+        valor_total = extrair_numero(v.get('VALOR_TOTAL', '0'))
 
         if categoria not in por_categoria:
             por_categoria[categoria] = {'qtd': 0, 'valor': 0.0}
@@ -329,9 +323,6 @@ def gerar_relatorio_diario(data_alvo):
     gerar_relatorio_diario_markdown(data_alvo, por_produto, por_categoria, total_qtd, total_valor)
 
 def gerar_relatorio_diario_html(data_alvo, por_produto, por_categoria, total_qtd, total_valor):
-    """
-    Gera um relatório diário em HTML com estilo visual agradável.
-    """
     nome_arquivo = f"relatorio_diario_{data_alvo}.html"
 
     linhas_produtos = ""
@@ -382,9 +373,6 @@ def gerar_relatorio_diario_html(data_alvo, por_produto, por_categoria, total_qtd
     print(f"🖥️ Relatório diário HTML gerado: {nome_arquivo}")
 
 def gerar_relatorio_diario_markdown(data_alvo, por_produto, por_categoria, total_qtd, total_valor):
-    """
-    Gera um relatório diário em Markdown (.md) para visualização bonita no GitHub.
-    """
     nome_arquivo = f"relatorio_diario_{data_alvo}.md"
 
     with open(nome_arquivo, 'w', encoding='utf-8') as f:
@@ -411,10 +399,6 @@ def gerar_relatorio_diario_markdown(data_alvo, por_produto, por_categoria, total
     print(f"📝 Relatório diário Markdown gerado: {nome_arquivo}")
 
 def gerar_resumo_geral_markdown(arquivo_csv=ARQUIVO_VENDAS_ACUMULADAS):
-    """
-    Gera um resumo geral das vendas acumuladas em Markdown (.md)
-    com visual bonito e organizado.
-    """
     if not os.path.exists(arquivo_csv):
         print("⚠️ Nenhum arquivo de vendas acumuladas para resumir.")
         return
@@ -423,16 +407,10 @@ def gerar_resumo_geral_markdown(arquivo_csv=ARQUIVO_VENDAS_ACUMULADAS):
         reader = csv.DictReader(f, delimiter=';')
         linhas = []
         for row in reader:
-            # Ignora linhas com número incorreto de colunas
             if len(row) < 7:
                 continue
-            # Tenta converter VALOR_TOTAL, se falhar ignora a linha
-            valor_str = row.get('VALOR_TOTAL', '0').replace(',', '.')
-            try:
-                float(valor_str)
-            except (ValueError, TypeError):
-                continue
-            if valor_str in ('0', '0.00'):
+            valor_total = extrair_numero(row.get('VALOR_TOTAL', '0'))
+            if valor_total == 0.0:
                 continue
             linhas.append(row)
 
@@ -450,7 +428,7 @@ def gerar_resumo_geral_markdown(arquivo_csv=ARQUIVO_VENDAS_ACUMULADAS):
         categoria = v.get('CATEGORIA', 'OUTROS')
         data = v.get('DATA_HORA', '')[:10]
         qtd = int(v.get('QUANTIDADE_VENDIDA', 0) or 0)
-        valor_total = float(v.get('VALOR_TOTAL', '0').replace(',', '.') or 0)
+        valor_total = extrair_numero(v.get('VALOR_TOTAL', '0'))
 
         chave_produto = (pid, nome)
         por_produto.setdefault(chave_produto, {'qtd': 0, 'valor': 0.0})
@@ -502,7 +480,6 @@ def gerar_resumo_geral_markdown(arquivo_csv=ARQUIVO_VENDAS_ACUMULADAS):
     print(f"🖥️ Resumo geral em Markdown gerado: {nome_arquivo}")
 
 def obter_data_local_snapshot(snapshot):
-    """Extrai a data local (YYYY-MM-DD) de um snapshot."""
     timestamp_iso = snapshot.get('timestamp_iso')
     if timestamp_iso:
         dt = datetime.fromisoformat(timestamp_iso)
@@ -532,7 +509,6 @@ def main():
     produtos = api.extrair_produtos(catalogo)
     print(f"✅ {len(produtos)} produtos encontrados")
 
-    # Migrar vendas acumuladas se necessário
     migrar_vendas_acumuladas(produtos)
 
     com_estoque = [p for p in produtos if p.get('estoque') is not None and int(p['estoque']) > 0]
@@ -540,7 +516,6 @@ def main():
 
     snap_anterior = carregar_ultimo_snapshot()
 
-    # Verifica virada de dia e gera relatório diário
     data_local_atual = datetime.now(FUSO_HORARIO).strftime("%Y-%m-%d")
     if snap_anterior:
         data_snapshot_anterior = obter_data_local_snapshot(snap_anterior)
@@ -594,7 +569,6 @@ def main():
     else:
         print("\n📌 Primeira execução: nenhum snapshot anterior para comparar.")
 
-    # Agrupar por categoria para exibição
     categorias = {}
     for p in com_estoque:
         cat = p.get('categoria', 'OUTROS')
@@ -646,7 +620,6 @@ def main():
             f.write(f"{p['id']};{p.get('nome','')};{p.get('estoque', 0)};{p.get('valor', 0)};{p.get('categoria','')}\n")
     print("📁 CSV geral salvo: catalogo_geral.csv")
 
-    # Gerar resumo geral em Markdown
     gerar_resumo_geral_markdown()
 
     print("\n✅ Execução concluída!")

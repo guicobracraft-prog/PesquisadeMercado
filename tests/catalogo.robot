@@ -42,7 +42,7 @@ Processar Catalogo Completo Automaticamente
     ${estoque_ids} =    Evaluate    list($estoques_organizados.keys())
     
     FOR    ${estoque_id}    IN    @{estoque_ids}
-        ${produtos_estoque} =    Evaluate    $estoques_organizados[$estoque_id]
+        ${produtos_estoque} =    Evaluate    $estoques_organizados[str($estoque_id)]
         ${qtd_produtos} =    Get Length    ${produtos_estoque}
         
         Log    \n📦 Estoque ${estoque_id} (${qtd_produtos} produtos):    console=True

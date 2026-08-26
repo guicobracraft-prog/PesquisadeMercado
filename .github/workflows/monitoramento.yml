@@ -3,7 +3,6 @@ name: Monitoramento de Catálogo e Vendas
 on:
   schedule:
     - cron: '0 * * * *'
-      timezone: 'America/Sao_Paulo'
 
   workflow_dispatch:
 

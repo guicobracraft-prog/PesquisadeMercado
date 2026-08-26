@@ -40,13 +40,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add -A -f
+
           git commit -m "Atualização automática do monitoramento [skip ci]" || exit 0
-<<<<<<< HEAD
-          git pull origin main --rebase -X ours
-          git push origin main || true
-=======
-          git fetch origin main
-          git merge -X theirs origin/main --no-edit || exit 0
-          git push origin main || true
->>>>>>> 980ea09 (Salva alterações locais)
+
+          git pull --rebase origin main
+
+          git push origin main

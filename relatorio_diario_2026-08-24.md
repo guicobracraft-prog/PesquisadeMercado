@@ -1,0 +1,39 @@
+# 📊 Relatório Diário de Vendas - 2026-08-24
+
+**Total de unidades vendidas:** 40
+**Valor total vendido:** R$ 285.33
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
+| 18 | CHOCOLATE LOLLO 28G | 4 | R$ 17.92 |
+| 1400 | GOMETS GOMA TUBO FRUTAS 32G | 3 | R$ 5.64 |
+| 1464 | COCA COLA ZERO AÇUCAR  2L | 2 | R$ 25.76 |
+| 275 | ACHOCOLATADO NESCAU 350G | 2 | R$ 30.96 |
+| 163 | BATATA QUEIJO PRINGLES 109G | 1 | R$ 15.98 |
+| 1385 | GUARANA ANTARCTICA PET 2L | 1 | R$ 11.48 |
+| 1539 | DENTADURAS 100G | 1 | R$ 7.49 |
+| 1398 | CERVEJA EISENBAHN 269ML | 1 | R$ 4.78 |
+| 55 | REFRIGERANTE COCA COLA LATA 310ML | 1 | R$ 5.49 |
+| 132 | PAÇOQUITA SANTA HELENA 20G | 1 | R$ 1.98 |
+| 1378 | ENERGÉTICO MONSTER 473ML | 1 | R$ 11.68 |
+| 1450 | QUALY LIGHT 250 G COM SAL | 1 | R$ 6.68 |
+| 1470 | ENERGETICO BALY FRUTAS TROPICAIS 2L | 1 | R$ 18.00 |
+| 44 | H2O LIMONETO 500ML | 1 | R$ 7.48 |
+| 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 1 | R$ 2.99 |
+| 1538 | TUBES TWISTER 80G | 1 | R$ 7.49 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA ALCÓLICA | 18 | R$ 108.31 |
+| DOCES | 11 | R$ 43.51 |
+| BEBIDA NÃO ALCÓLICA | 7 | R$ 79.89 |
+| MERCEARIA | 2 | R$ 30.96 |
+| SALGADOS E SNACKS | 1 | R$ 15.98 |
+| FRIOS E LATICINIOS | 1 | R$ 6.68 |
+
+*Gerado em 26/08/2026 20:13:33*

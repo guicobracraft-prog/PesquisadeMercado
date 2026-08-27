@@ -1,0 +1,61 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-08-26
+======================================================================
+
+Total de unidades vendidas: 58
+Valor total vendido: R$ 539.16
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1322   PIZZA SABORES                               15    R$ 127.35
+55     REFRIGERANTE COCA COLA LATA 310ML            3     R$ 16.47
+1410   COXINHA ASA LEVO PCT 1KG                     3     R$ 47.94
+1409   FILE PEITO CANCAO SEM PELE E OSSO 1KG        3     R$ 59.94
+1450   QUALY LIGHT 250 G COM SAL                    2     R$ 13.36
+1400   GOMETS GOMA TUBO FRUTAS 32G                  2      R$ 3.76
+1407   GUARANA ANTARCTICA LATA 350 ML               2     R$ 10.96
+1411   LEITE DE COCO MENINA  200ML                  2     R$ 11.96
+1592   PIPOCA DOCE - BEBELA 90G                     2      R$ 7.78
+281    BALA MENTOS SABOR FANTA LARANJA 37,5G        2      R$ 5.98
+1509   LASANHA BOLONHESA FORNO DE MINAS 600GR       2     R$ 32.96
+8      TRIDENT MENTA 8G                             1      R$ 3.99
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+1474   SALG YOKITOS 45G(QUEIJO TUBINHO)             1      R$ 4.49
+1456   LEITE INTEGRAL PIRACANJUBA 1L                1      R$ 7.98
+1375   BATATA PALHA TRADICIONAL 90G                 1     R$ 12.98
+1304   GELEIA DE MORANGO 230G SAINT PAU             1     R$ 21.48
+1332   CREME DE AVELA COM CACAU NUTELLA 350G        1     R$ 32.98
+265    MILHO EM CONSERVA PREDILECTA 170G            1      R$ 4.98
+272    BARRA DE PROTEINA ABSOLUT AMENDOIM COM..     1     R$ 10.98
+1335   GOMA DE TAPIOCA AKIO 320G                    1      R$ 5.98
+1344   PAO DE FORMA TRADICIONAL 400G                1      R$ 8.98
+1470   ENERGETICO BALY FRUTAS TROPICAIS 2L          1     R$ 18.00
+44     H2O LIMONETO 500ML                           1      R$ 7.89
+1445   CREME DE QUEIJO TRAD COPO 180 GR QUATA       1     R$ 10.68
+1328   HASTES FLEX COTON LINE 75UN                  1      R$ 3.38
+1593   AGUA MARIZA SEM GAS 500 ML                   1      R$ 3.49
+1454   SUCO NUTRI MANGA 1L                          1      R$ 6.98
+1469   ENERG BALY CAIPIRINHA 2L                     1     R$ 18.00
+274    ENERGETICO BALY ABACAXI COM HORTELA 47..     1     R$ 10.98
+1327   FERMENTO BIOLOGICO SECO INSTANTANEO PA..     1      R$ 2.49
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+ARTESANAIS                                  15    R$ 127.35
+BEBIDA NÃO ALCÓLICA                         11     R$ 92.77
+MERCEARIA                                   10    R$ 109.81
+DOCES                                        8     R$ 25.50
+CARNES                                       6    R$ 107.88
+FRIOS E LATICINIOS                           5     R$ 57.00
+SALGADOS E SNACKS                            1      R$ 4.49
+LINHA FIT                                    1     R$ 10.98
+HIGIENE E LIMPEZA                            1      R$ 3.38
+----------------------------------------------------------------------
+
+Gerado em: 27/08/2026 02:26:52
+======================================================================

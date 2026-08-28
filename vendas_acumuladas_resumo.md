@@ -1,22 +1,22 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 170
+**Total de unidades vendidas:** 183
 
-**Valor total vendido:** R$ 1320.91
+**Valor total vendido:** R$ 1424.08
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 48 | R$ 200.47 |
-| BEBIDA NÃO ALCÓLICA | 37 | R$ 356.62 |
+| DOCES | 54 | R$ 221.21 |
+| BEBIDA NÃO ALCÓLICA | 39 | R$ 381.00 |
 | BEBIDA ALCÓLICA | 28 | R$ 155.21 |
+| MERCEARIA | 19 | R$ 210.46 |
 | ARTESANAIS | 19 | R$ 161.31 |
-| MERCEARIA | 18 | R$ 202.47 |
+| SALGADOS E SNACKS | 8 | R$ 67.50 |
 | FRIOS E LATICINIOS | 6 | R$ 63.68 |
 | CARNES | 6 | R$ 107.88 |
-| SALGADOS E SNACKS | 5 | R$ 43.93 |
-| HIGIENE E LIMPEZA | 2 | R$ 18.36 |
+| HIGIENE E LIMPEZA | 3 | R$ 44.85 |
 | LINHA FIT | 1 | R$ 10.98 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
@@ -28,13 +28,13 @@
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 18 | CHOCOLATE LOLLO 28G | 8 | R$ 35.84 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
+| 132 | PAÇOQUITA SANTA HELENA 20G | 8 | R$ 14.67 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 7 | R$ 38.43 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
-| 132 | PAÇOQUITA SANTA HELENA 20G | 5 | R$ 9.90 |
+| 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
+| 1385 | GUARANA ANTARCTICA PET 2L | 4 | R$ 45.93 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
-| 131 | TRIDENT MORANGO 8G | 4 | R$ 15.96 |
-| 1385 | GUARANA ANTARCTICA PET 2L | 3 | R$ 34.44 |
 | 8 | TRIDENT MENTA 8G | 3 | R$ 11.97 |
 | 1450 | QUALY LIGHT 250 G COM SAL | 3 | R$ 20.04 |
 | 1410 | COXINHA ASA LEVO PCT 1KG | 3 | R$ 47.94 |
@@ -52,6 +52,6 @@
 | 2026-08-24 | 40 | R$ 285.33 |
 | 2026-08-26 | 58 | R$ 539.16 |
 | 2026-08-27 | 51 | R$ 347.64 |
-| 2026-08-28 | 6 | R$ 34.43 |
+| 2026-08-28 | 19 | R$ 137.60 |
 
-*Última atualização: 28/08/2026 10:27:55*
+*Última atualização: 28/08/2026 20:15:16*

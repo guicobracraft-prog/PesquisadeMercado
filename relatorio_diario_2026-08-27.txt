@@ -1,0 +1,59 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-08-27
+======================================================================
+
+Total de unidades vendidas: 51
+Valor total vendido: R$ 347.64
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   AMSTEL PURO MALTE LATA 269ML AMSTEL PR..     5     R$ 23.45
+132    PAÇOQUITA SANTA HELENA 20G                   4      R$ 7.92
+1322   PIZZA SABORES                                4     R$ 33.96
+131    TRIDENT MORANGO 8G                           3     R$ 11.97
+252    TORRONE COM AMENDOIM 45G                     3     R$ 13.47
+1400   GOMETS GOMA TUBO FRUTAS 32G                  3      R$ 5.64
+281    BALA MENTOS SABOR FANTA LARANJA 37,5G        3      R$ 8.97
+18     CHOCOLATE LOLLO 28G                          2      R$ 8.96
+1464   COCA COLA ZERO AÇUCAR  2L                    2     R$ 25.76
+1364   FARINHA DE TRIGO ESPECIAL DE 1 KG            1      R$ 4.98
+43     SUCO DAFRUTA NECTAR DE LARANJA 1L            1      R$ 6.98
+1593   AGUA MARIZA SEM GAS 500 ML                   1      R$ 3.49
+1408   DUCOCO AGUA DE COCO 1L                       1     R$ 12.98
+277    CREME DE LEITE PIRACANJUBA 200G              1      R$ 3.49
+1466   MONSTER ULTR FIESTA MANGO 473ML              1     R$ 11.68
+1512   TORCIDA 60G QUEIJO                           1      R$ 3.79
+1544   LEITE CONDENSADO PIRACANJUBA 395G            1      R$ 7.89
+1515   BEIJOS DE MORANGO 100G                       1      R$ 7.49
+1521   CHOCOLATE MEIO AMARGO 80G                    1     R$ 10.98
+55     REFRIGERANTE COCA COLA LATA 310ML            1      R$ 5.49
+1467   ENERGETICO MONSTER ULTRA LATA DESCARTA..     1     R$ 11.68
+190    REFRIGERANTE COCA COLA ZERO 310 ML           1      R$ 5.48
+1347   CHOC KINDER BUENO WHITE 39G                  1     R$ 10.98
+1505   TORRONE ARCOR 25G                            1      R$ 1.99
+1332   CREME DE AVELA COM CACAU NUTELLA 350G        1     R$ 32.98
+1472   RENATA DIVERTIX MACARRAO INSTANTANEO G..     1      R$ 2.38
+1517   CHICLE SALADA FRUTAS 80G                     1      R$ 7.49
+1420   COCA COLA PET 2L                             1     R$ 12.88
+59     BATATA PRINGLES ORIGINAL 104G                1     R$ 15.98
+1349   ABSORVENTE FEM INTIMUS GEL SECA C/16         1     R$ 14.98
+1385   GUARANA ANTARCTICA PET 2L                    1     R$ 11.48
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                       23     R$ 95.86
+BEBIDA NÃO ALCÓLICA                         11    R$ 107.90
+MERCEARIA                                    5     R$ 51.72
+BEBIDA ALCÓLICA                              5     R$ 23.45
+ARTESANAIS                                   4     R$ 33.96
+SALGADOS E SNACKS                            2     R$ 19.77
+HIGIENE E LIMPEZA                            1     R$ 14.98
+----------------------------------------------------------------------
+
+Gerado em: 28/08/2026 10:27:55
+======================================================================

@@ -1,16 +1,16 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 164
+**Total de unidades vendidas:** 170
 
-**Valor total vendido:** R$ 1286.48
+**Valor total vendido:** R$ 1320.91
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 47 | R$ 189.49 |
+| DOCES | 48 | R$ 200.47 |
 | BEBIDA NÃO ALCÓLICA | 37 | R$ 356.62 |
-| BEBIDA ALCÓLICA | 23 | R$ 131.76 |
+| BEBIDA ALCÓLICA | 28 | R$ 155.21 |
 | ARTESANAIS | 19 | R$ 161.31 |
 | MERCEARIA | 18 | R$ 202.47 |
 | FRIOS E LATICINIOS | 6 | R$ 63.68 |
@@ -25,13 +25,13 @@
 |----|---------|-----------:|------------:|
 | 1322 | PIZZA SABORES | 19 | R$ 161.31 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
+| 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 18 | CHOCOLATE LOLLO 28G | 8 | R$ 35.84 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 7 | R$ 38.43 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 5 | R$ 9.90 |
-| 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 5 | R$ 23.45 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
 | 131 | TRIDENT MORANGO 8G | 4 | R$ 15.96 |
 | 1385 | GUARANA ANTARCTICA PET 2L | 3 | R$ 34.44 |
@@ -52,5 +52,6 @@
 | 2026-08-24 | 40 | R$ 285.33 |
 | 2026-08-26 | 58 | R$ 539.16 |
 | 2026-08-27 | 51 | R$ 347.64 |
+| 2026-08-28 | 6 | R$ 34.43 |
 
-*Última atualização: 27/08/2026 22:15:25*
+*Última atualização: 28/08/2026 10:27:55*

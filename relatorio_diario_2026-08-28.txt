@@ -1,0 +1,39 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-08-28
+======================================================================
+
+Total de unidades vendidas: 19
+Valor total vendido: R$ 137.60
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   AMSTEL PURO MALTE LATA 269ML AMSTEL PR..     5     R$ 23.45
+132    PAÇOQUITA SANTA HELENA 20G                   3      R$ 4.77
+189    TORCIDA COSTELA COM LIMAO 60G                2      R$ 7.58
+1347   CHOC KINDER BUENO WHITE 39G                  1     R$ 10.98
+57     BATATA PRINGLES CREME E CEBOLA 109G          1     R$ 15.99
+1385   GUARANA ANTARCTICA PET 2L                    1     R$ 11.49
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+90     BONO DOCE DE LEITE 90G                       1      R$ 4.49
+1516   BALA FINI BANANAS 100G                       1      R$ 7.49
+1485   PIPOCA DE MICROONDAS MANTEIGA DE CINEM..     1      R$ 7.99
+1308   PAPEL HIGIENICO DELICATTO PREMIUM 16 R..     1     R$ 26.49
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 12.89
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        7     R$ 31.72
+BEBIDA ALCÓLICA                              5     R$ 23.45
+SALGADOS E SNACKS                            3     R$ 23.57
+BEBIDA NÃO ALCÓLICA                          2     R$ 24.38
+MERCEARIA                                    1      R$ 7.99
+HIGIENE E LIMPEZA                            1     R$ 26.49
+----------------------------------------------------------------------
+
+Gerado em: 29/08/2026 08:23:58
+======================================================================

@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 208
+**Total de unidades vendidas:** 212
 
-**Valor total vendido:** R$ 1582.73
+**Valor total vendido:** R$ 1604.79
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 61 | R$ 248.74 |
-| BEBIDA NÃO ALCÓLICA | 45 | R$ 443.54 |
+| DOCES | 64 | R$ 265.31 |
+| BEBIDA NÃO ALCÓLICA | 46 | R$ 449.03 |
 | BEBIDA ALCÓLICA | 33 | R$ 184.06 |
 | MERCEARIA | 22 | R$ 231.43 |
 | ARTESANAIS | 20 | R$ 169.80 |
@@ -25,7 +25,7 @@
 |----|---------|-----------:|------------:|
 | 1322 | PIZZA SABORES | 20 | R$ 169.80 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
-| 132 | PAÇOQUITA SANTA HELENA 20G | 10 | R$ 17.85 |
+| 132 | PAÇOQUITA SANTA HELENA 20G | 11 | R$ 19.44 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 18 | CHOCOLATE LOLLO 28G | 8 | R$ 35.84 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 8 | R$ 43.92 |
@@ -35,7 +35,7 @@
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 1385 | GUARANA ANTARCTICA PET 2L | 4 | R$ 45.93 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
-| 8 | TRIDENT MENTA 8G | 3 | R$ 11.97 |
+| 8 | TRIDENT MENTA 8G | 4 | R$ 15.96 |
 | 1450 | QUALY LIGHT 250 G COM SAL | 3 | R$ 20.04 |
 | 1410 | COXINHA ASA LEVO PCT 1KG | 3 | R$ 47.94 |
 | 1409 | FILE PEITO CANCAO SEM PELE E OSSO 1KG | 3 | R$ 59.94 |
@@ -53,6 +53,6 @@
 | 2026-08-26 | 58 | R$ 539.16 |
 | 2026-08-27 | 51 | R$ 347.64 |
 | 2026-08-28 | 19 | R$ 137.60 |
-| 2026-08-29 | 25 | R$ 158.65 |
+| 2026-08-29 | 29 | R$ 180.71 |
 
-*Última atualização: 29/08/2026 12:51:41*
+*Última atualização: 29/08/2026 15:57:34*

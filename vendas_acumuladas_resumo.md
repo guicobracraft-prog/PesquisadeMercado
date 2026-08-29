@@ -1,23 +1,23 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 201
+**Total de unidades vendidas:** 208
 
-**Valor total vendido:** R$ 1530.50
+**Valor total vendido:** R$ 1582.73
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 59 | R$ 230.06 |
-| BEBIDA NÃO ALCÓLICA | 43 | R$ 423.76 |
+| DOCES | 61 | R$ 248.74 |
+| BEBIDA NÃO ALCÓLICA | 45 | R$ 443.54 |
 | BEBIDA ALCÓLICA | 33 | R$ 184.06 |
-| MERCEARIA | 21 | R$ 223.44 |
+| MERCEARIA | 22 | R$ 231.43 |
 | ARTESANAIS | 20 | R$ 169.80 |
 | SALGADOS E SNACKS | 9 | R$ 71.99 |
 | FRIOS E LATICINIOS | 6 | R$ 63.68 |
 | CARNES | 6 | R$ 107.88 |
+| LINHA FIT | 3 | R$ 16.76 |
 | HIGIENE E LIMPEZA | 3 | R$ 44.85 |
-| LINHA FIT | 1 | R$ 10.98 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
@@ -42,7 +42,7 @@
 | 252 | TORRONE COM AMENDOIM 45G | 3 | R$ 13.47 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 3 | R$ 14.07 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 3 | R$ 5.67 |
-| 1512 | TORCIDA 60G QUEIJO | 2 | R$ 7.48 |
+| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 2 | R$ 15.37 |
 
 ## 📅 Vendas por Dia
 
@@ -53,6 +53,6 @@
 | 2026-08-26 | 58 | R$ 539.16 |
 | 2026-08-27 | 51 | R$ 347.64 |
 | 2026-08-28 | 19 | R$ 137.60 |
-| 2026-08-29 | 18 | R$ 106.42 |
+| 2026-08-29 | 25 | R$ 158.65 |
 
-*Última atualização: 29/08/2026 08:23:58*
+*Última atualização: 29/08/2026 12:51:41*

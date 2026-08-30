@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 291
+**Total de unidades vendidas:** 300
 
-**Valor total vendido:** R$ 2289.20
+**Valor total vendido:** R$ 2345.71
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 74 | R$ 333.51 |
-| BEBIDA NÃO ALCÓLICA | 73 | R$ 717.36 |
+| DOCES | 78 | R$ 354.67 |
+| BEBIDA NÃO ALCÓLICA | 74 | R$ 725.25 |
 | BEBIDA ALCÓLICA | 48 | R$ 279.21 |
-| MERCEARIA | 32 | R$ 300.63 |
-| ARTESANAIS | 23 | R$ 195.27 |
-| SALGADOS E SNACKS | 14 | R$ 93.14 |
+| MERCEARIA | 33 | R$ 306.52 |
+| ARTESANAIS | 25 | R$ 212.25 |
+| SALGADOS E SNACKS | 15 | R$ 97.73 |
 | FRIOS E LATICINIOS | 8 | R$ 82.66 |
 | CARNES | 8 | R$ 136.86 |
 | HIGIENE E LIMPEZA | 8 | R$ 133.80 |
@@ -23,9 +23,9 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1322 | PIZZA SABORES | 23 | R$ 195.27 |
+| 1322 | PIZZA SABORES | 25 | R$ 212.25 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
-| 132 | PAÇOQUITA SANTA HELENA 20G | 12 | R$ 21.03 |
+| 132 | PAÇOQUITA SANTA HELENA 20G | 14 | R$ 24.21 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
@@ -54,6 +54,6 @@
 | 2026-08-27 | 51 | R$ 347.64 |
 | 2026-08-28 | 19 | R$ 137.60 |
 | 2026-08-29 | 69 | R$ 491.21 |
-| 2026-08-30 | 39 | R$ 373.91 |
+| 2026-08-30 | 48 | R$ 430.42 |
 
-*Última atualização: 30/08/2026 18:42:42*
+*Última atualização: 30/08/2026 20:59:45*

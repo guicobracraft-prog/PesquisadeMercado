@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 284
+**Total de unidades vendidas:** 291
 
-**Valor total vendido:** R$ 2237.37
+**Valor total vendido:** R$ 2289.20
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 74 | R$ 333.51 |
-| BEBIDA NÃO ALCÓLICA | 70 | R$ 694.89 |
+| BEBIDA NÃO ALCÓLICA | 73 | R$ 717.36 |
 | BEBIDA ALCÓLICA | 48 | R$ 279.21 |
 | MERCEARIA | 32 | R$ 300.63 |
-| ARTESANAIS | 20 | R$ 169.80 |
-| SALGADOS E SNACKS | 13 | R$ 89.25 |
+| ARTESANAIS | 23 | R$ 195.27 |
+| SALGADOS E SNACKS | 14 | R$ 93.14 |
 | FRIOS E LATICINIOS | 8 | R$ 82.66 |
 | CARNES | 8 | R$ 136.86 |
 | HIGIENE E LIMPEZA | 8 | R$ 133.80 |
@@ -23,7 +23,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1322 | PIZZA SABORES | 20 | R$ 169.80 |
+| 1322 | PIZZA SABORES | 23 | R$ 195.27 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 12 | R$ 21.03 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
@@ -35,9 +35,9 @@
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 7 | R$ 90.23 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
+| 1385 | GUARANA ANTARCTICA PET 2L | 5 | R$ 57.42 |
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 5 | R$ 27.45 |
-| 1385 | GUARANA ANTARCTICA PET 2L | 4 | R$ 45.93 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
 | 8 | TRIDENT MENTA 8G | 4 | R$ 15.96 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 4 | R$ 31.95 |
@@ -54,6 +54,6 @@
 | 2026-08-27 | 51 | R$ 347.64 |
 | 2026-08-28 | 19 | R$ 137.60 |
 | 2026-08-29 | 69 | R$ 491.21 |
-| 2026-08-30 | 32 | R$ 322.08 |
+| 2026-08-30 | 39 | R$ 373.91 |
 
-*Última atualização: 30/08/2026 15:13:41*
+*Última atualização: 30/08/2026 18:42:42*

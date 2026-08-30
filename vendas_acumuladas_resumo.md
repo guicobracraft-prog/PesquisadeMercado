@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 263
+**Total de unidades vendidas:** 265
 
-**Valor total vendido:** R$ 2046.98
+**Valor total vendido:** R$ 2065.96
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 73 | R$ 322.52 |
+| DOCES | 74 | R$ 333.51 |
 | BEBIDA NÃO ALCÓLICA | 65 | R$ 630.44 |
 | BEBIDA ALCÓLICA | 38 | R$ 207.51 |
-| MERCEARIA | 29 | R$ 276.36 |
+| MERCEARIA | 30 | R$ 284.35 |
 | ARTESANAIS | 20 | R$ 169.80 |
 | SALGADOS E SNACKS | 13 | R$ 89.25 |
 | CARNES | 8 | R$ 136.86 |
@@ -40,9 +40,9 @@
 | 8 | TRIDENT MENTA 8G | 4 | R$ 15.96 |
 | 1450 | QUALY LIGHT 250 G COM SAL | 3 | R$ 20.04 |
 | 1407 | GUARANA ANTARCTICA LATA 350 ML | 3 | R$ 16.45 |
+| 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 3 | R$ 23.96 |
 | 1410 | COXINHA ASA LEVO PCT 1KG | 3 | R$ 47.94 |
 | 1409 | FILE PEITO CANCAO SEM PELE E OSSO 1KG | 3 | R$ 59.94 |
-| 252 | TORRONE COM AMENDOIM 45G | 3 | R$ 13.47 |
 
 ## 📅 Vendas por Dia
 
@@ -54,6 +54,6 @@
 | 2026-08-27 | 51 | R$ 347.64 |
 | 2026-08-28 | 19 | R$ 137.60 |
 | 2026-08-29 | 69 | R$ 491.21 |
-| 2026-08-30 | 11 | R$ 131.69 |
+| 2026-08-30 | 13 | R$ 150.67 |
 
-*Última atualização: 30/08/2026 05:36:45*
+*Última atualização: 30/08/2026 11:02:42*

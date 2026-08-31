@@ -1,0 +1,54 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-08-30
+======================================================================
+
+Total de unidades vendidas: 48
+Valor total vendido: R$ 430.42
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1395   CERVEJA HEINEKEN LATA 350ML                  8     R$ 59.12
+1322   PIZZA SABORES                                5     R$ 42.45
+1420   REFRIGERANTE COCA COLA 2L                    4     R$ 51.56
+213    H2O LIMÃO 500ML                              3     R$ 23.67
+1441   SALSICHA SUINO AURORA 500G                   2     R$ 28.98
+236    BALA DE GOMA IOGURTE 32G                     2      R$ 3.98
+1468   ENERGETICO CEREJA ZERO ACUCAR BALY 2L        2     R$ 31.98
+1456   LEITE INTEGRAL PIRACANJUBA 1L                2     R$ 15.98
+1393   ICE 51 LIMAO 275ML                           2     R$ 12.58
+190    REFRIGERANTE COCA COLA ZERO 310ML            2     R$ 10.98
+132    PAÇOQUITA SANTA HELENA 20G                   2      R$ 3.18
+205    ENERGETICO MONSTER MANGO 473ML               1     R$ 13.99
+274    ENERGETICO ABACAXI COM HORTELA BALY 47..     1     R$ 11.99
+1470   ENERGETICO FRUTAS TROPICAIS BALY 2L          1     R$ 15.99
+1518   CHOCOLATE GALAK NESTLE 80G                   1     R$ 10.99
+1500   BISCOITO BAUDUCCO AMANTEIGADO BANANA C..     1     R$ 10.99
+1531   QUEIJO MUSSARELA TIROLEZ 150G FATIADO        1      R$ 8.49
+1661   PRESUNTO FAT VACUO PT 200G PERD              1     R$ 10.49
+1464   REFRIGERANTE COCA COLA ZERO ACUCAR  2L       1     R$ 12.89
+1345   CATCHUP PREDILECTA 400G                      1      R$ 8.29
+189    SALGADINHO TORCIDA COSTELA COM LIMAO 60G     1      R$ 3.89
+1385   GUARANA ANTARCTICA PET 2L                    1     R$ 11.49
+1622   SALGADINHO YOKITOS 45G (QUEIJO/LUA)          1      R$ 4.59
+1335   GOMA DE TAPIOCA AKIO 320G                    1      R$ 5.89
+1487   BOLO DUPLO CHOCOLATE 200G BAUDUCCO           1     R$ 15.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         16    R$ 184.54
+BEBIDA ALCÓLICA                             10     R$ 71.70
+DOCES                                        7     R$ 45.13
+ARTESANAIS                                   5     R$ 42.45
+MERCEARIA                                    4     R$ 30.16
+CARNES                                       2     R$ 28.98
+FRIOS E LATICINIOS                           2     R$ 18.98
+SALGADOS E SNACKS                            2      R$ 8.48
+----------------------------------------------------------------------
+
+Gerado em: 31/08/2026 01:08:24
+======================================================================

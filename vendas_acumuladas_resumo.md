@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 300
+**Total de unidades vendidas:** 313
 
-**Valor total vendido:** R$ 2345.71
+**Valor total vendido:** R$ 2424.38
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 78 | R$ 354.67 |
-| BEBIDA NÃO ALCÓLICA | 74 | R$ 725.25 |
-| BEBIDA ALCÓLICA | 48 | R$ 279.21 |
-| MERCEARIA | 33 | R$ 306.52 |
+| BEBIDA NÃO ALCÓLICA | 78 | R$ 763.61 |
+| BEBIDA ALCÓLICA | 55 | R$ 312.04 |
+| MERCEARIA | 34 | R$ 310.11 |
 | ARTESANAIS | 25 | R$ 212.25 |
-| SALGADOS E SNACKS | 15 | R$ 97.73 |
+| SALGADOS E SNACKS | 16 | R$ 101.62 |
 | FRIOS E LATICINIOS | 8 | R$ 82.66 |
 | CARNES | 8 | R$ 136.86 |
 | HIGIENE E LIMPEZA | 8 | R$ 133.80 |
@@ -25,24 +25,24 @@
 |----|---------|-----------:|------------:|
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
+| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 15 | R$ 70.35 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 14 | R$ 24.21 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
-| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 8 | R$ 37.52 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 8 | R$ 103.12 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 7 | R$ 90.23 |
+| 1385 | GUARANA ANTARCTICA PET 2L | 6 | R$ 68.91 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
-| 1385 | GUARANA ANTARCTICA PET 2L | 5 | R$ 57.42 |
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 5 | R$ 27.45 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
 | 8 | TRIDENT MENTA 8G | 4 | R$ 15.96 |
+| 1407 | GUARANA ANTARCTICA LATA 350 ML | 4 | R$ 21.94 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 4 | R$ 31.95 |
-| 1450 | QUALY LIGHT 250 G COM SAL | 3 | R$ 20.04 |
-| 1407 | GUARANA ANTARCTICA LATA 350 ML | 3 | R$ 16.45 |
+| 277 | CREME DE LEITE PIRACANJUBA 200G | 4 | R$ 14.26 |
 
 ## 📅 Vendas por Dia
 
@@ -55,5 +55,6 @@
 | 2026-08-28 | 19 | R$ 137.60 |
 | 2026-08-29 | 69 | R$ 491.21 |
 | 2026-08-30 | 48 | R$ 430.42 |
+| 2026-08-31 | 13 | R$ 78.67 |
 
-*Última atualização: 30/08/2026 20:59:45*
+*Última atualização: 31/08/2026 01:08:24*

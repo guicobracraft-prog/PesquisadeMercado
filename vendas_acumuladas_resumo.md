@@ -1,22 +1,22 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 361
+**Total de unidades vendidas:** 364
 
-**Valor total vendido:** R$ 2695.90
+**Valor total vendido:** R$ 2725.27
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 102 | R$ 438.83 |
-| BEBIDA NÃO ALCÓLICA | 89 | R$ 850.90 |
+| BEBIDA NÃO ALCÓLICA | 91 | R$ 875.28 |
 | BEBIDA ALCÓLICA | 56 | R$ 316.73 |
 | MERCEARIA | 37 | R$ 327.28 |
 | ARTESANAIS | 25 | R$ 212.25 |
 | SALGADOS E SNACKS | 20 | R$ 117.18 |
 | FRIOS E LATICINIOS | 10 | R$ 101.64 |
+| HIGIENE E LIMPEZA | 10 | R$ 159.68 |
 | CARNES | 9 | R$ 156.75 |
-| HIGIENE E LIMPEZA | 9 | R$ 154.69 |
 | LINHA FIT | 4 | R$ 19.65 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
@@ -40,9 +40,9 @@
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 6 | R$ 32.94 |
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
+| 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 5 | R$ 64.45 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
 | 8 | TRIDENT MENTA 8G | 4 | R$ 15.96 |
-| 1407 | GUARANA ANTARCTICA LATA 350 ML | 4 | R$ 21.94 |
 
 ## 📅 Vendas por Dia
 
@@ -56,6 +56,6 @@
 | 2026-08-29 | 69 | R$ 491.21 |
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
-| 2026-09-01 | 3 | R$ 13.47 |
+| 2026-09-01 | 6 | R$ 42.84 |
 
-*Última atualização: 01/09/2026 10:45:19*
+*Última atualização: 01/09/2026 14:28:59*

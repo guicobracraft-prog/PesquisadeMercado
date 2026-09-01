@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 358
+**Total de unidades vendidas:** 361
 
-**Valor total vendido:** R$ 2682.43
+**Valor total vendido:** R$ 2695.90
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 101 | R$ 436.84 |
-| BEBIDA NÃO ALCÓLICA | 88 | R$ 847.41 |
+| DOCES | 102 | R$ 438.83 |
+| BEBIDA NÃO ALCÓLICA | 89 | R$ 850.90 |
 | BEBIDA ALCÓLICA | 56 | R$ 316.73 |
-| MERCEARIA | 36 | R$ 319.29 |
+| MERCEARIA | 37 | R$ 327.28 |
 | ARTESANAIS | 25 | R$ 212.25 |
 | SALGADOS E SNACKS | 20 | R$ 117.18 |
 | FRIOS E LATICINIOS | 10 | R$ 101.64 |
@@ -28,9 +28,9 @@
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 16 | R$ 75.04 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
+| 236 | BALA DE GOMA IOGURTE 32G | 11 | R$ 21.89 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
-| 236 | BALA DE GOMA IOGURTE 32G | 10 | R$ 19.90 |
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 8 | R$ 103.12 |
@@ -39,10 +39,10 @@
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 6 | R$ 32.94 |
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
+| 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
 | 8 | TRIDENT MENTA 8G | 4 | R$ 15.96 |
 | 1407 | GUARANA ANTARCTICA LATA 350 ML | 4 | R$ 21.94 |
-| 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 4 | R$ 31.95 |
 
 ## 📅 Vendas por Dia
 
@@ -56,5 +56,6 @@
 | 2026-08-29 | 69 | R$ 491.21 |
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
+| 2026-09-01 | 3 | R$ 13.47 |
 
-*Última atualização: 01/09/2026 05:03:15*
+*Última atualização: 01/09/2026 10:45:19*

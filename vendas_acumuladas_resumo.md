@@ -1,20 +1,20 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 364
+**Total de unidades vendidas:** 377
 
-**Valor total vendido:** R$ 2725.27
+**Valor total vendido:** R$ 2805.64
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 102 | R$ 438.83 |
-| BEBIDA NÃO ALCÓLICA | 91 | R$ 875.28 |
-| BEBIDA ALCÓLICA | 56 | R$ 316.73 |
-| MERCEARIA | 37 | R$ 327.28 |
+| DOCES | 103 | R$ 449.82 |
+| BEBIDA NÃO ALCÓLICA | 95 | R$ 897.14 |
+| BEBIDA ALCÓLICA | 61 | R$ 340.18 |
+| MERCEARIA | 38 | R$ 336.27 |
 | ARTESANAIS | 25 | R$ 212.25 |
-| SALGADOS E SNACKS | 20 | R$ 117.18 |
-| FRIOS E LATICINIOS | 10 | R$ 101.64 |
+| SALGADOS E SNACKS | 21 | R$ 121.77 |
+| FRIOS E LATICINIOS | 11 | R$ 112.13 |
 | HIGIENE E LIMPEZA | 10 | R$ 159.68 |
 | CARNES | 9 | R$ 156.75 |
 | LINHA FIT | 4 | R$ 19.65 |
@@ -24,16 +24,16 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
+| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 21 | R$ 98.49 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 16 | R$ 75.04 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 236 | BALA DE GOMA IOGURTE 32G | 11 | R$ 21.89 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 9 | R$ 116.01 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 8 | R$ 103.12 |
 | 1385 | GUARANA ANTARCTICA PET 2L | 7 | R$ 80.40 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
@@ -41,8 +41,8 @@
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
 | 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 5 | R$ 64.45 |
+| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 5 | R$ 14.95 |
 | 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
-| 8 | TRIDENT MENTA 8G | 4 | R$ 15.96 |
 
 ## 📅 Vendas por Dia
 
@@ -56,6 +56,6 @@
 | 2026-08-29 | 69 | R$ 491.21 |
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
-| 2026-09-01 | 6 | R$ 42.84 |
+| 2026-09-01 | 19 | R$ 123.21 |
 
-*Última atualização: 01/09/2026 14:28:59*
+*Última atualização: 01/09/2026 17:14:55*

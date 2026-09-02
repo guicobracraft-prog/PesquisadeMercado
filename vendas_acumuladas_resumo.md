@@ -1,33 +1,33 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 382
+**Total de unidades vendidas:** 399
 
-**Valor total vendido:** R$ 2850.39
+**Valor total vendido:** R$ 2944.12
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 106 | R$ 473.79 |
-| BEBIDA NÃO ALCÓLICA | 97 | R$ 917.92 |
-| BEBIDA ALCÓLICA | 61 | R$ 340.18 |
-| MERCEARIA | 38 | R$ 336.27 |
+| DOCES | 111 | R$ 500.14 |
+| BEBIDA NÃO ALCÓLICA | 98 | R$ 929.41 |
+| BEBIDA ALCÓLICA | 66 | R$ 363.63 |
+| MERCEARIA | 40 | R$ 344.95 |
 | ARTESANAIS | 25 | R$ 212.25 |
-| SALGADOS E SNACKS | 21 | R$ 121.77 |
-| FRIOS E LATICINIOS | 11 | R$ 112.13 |
+| SALGADOS E SNACKS | 23 | R$ 134.15 |
+| FRIOS E LATICINIOS | 12 | R$ 120.62 |
 | HIGIENE E LIMPEZA | 10 | R$ 159.68 |
 | CARNES | 9 | R$ 156.75 |
-| LINHA FIT | 4 | R$ 19.65 |
+| LINHA FIT | 5 | R$ 22.54 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
+| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 26 | R$ 121.94 |
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
-| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 21 | R$ 98.49 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 236 | BALA DE GOMA IOGURTE 32G | 12 | R$ 23.88 |
+| 236 | BALA DE GOMA IOGURTE 32G | 14 | R$ 27.86 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 10 | R$ 128.90 |
@@ -41,8 +41,8 @@
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
 | 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 5 | R$ 64.45 |
+| 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 5 | R$ 54.95 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 5 | R$ 14.95 |
-| 44 | H2O LIMONETO 500ML | 4 | R$ 30.33 |
 
 ## 📅 Vendas por Dia
 
@@ -57,5 +57,6 @@
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
+| 2026-09-02 | 17 | R$ 93.73 |
 
-*Última atualização: 01/09/2026 21:37:59*
+*Última atualização: 02/09/2026 02:12:21*

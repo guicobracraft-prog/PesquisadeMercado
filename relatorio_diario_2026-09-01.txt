@@ -1,0 +1,44 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-01
+======================================================================
+
+Total de unidades vendidas: 24
+Valor total vendido: R$ 167.96
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA AMSTEL PURO MALTE 269ML              5     R$ 23.45
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     3      R$ 8.97
+236    BALA DE GOMA IOGURTE 32G                     2      R$ 3.98
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 25.78
+1456   LEITE INTEGRAL PIRACANJUBA 1L                1      R$ 7.99
+1593   AGUA MINERAL NATURAL MARIZA 500ML            1      R$ 3.49
+1464   REFRIGERANTE COCA COLA ZERO ACUCAR  2L       1     R$ 12.89
+1406   GUARANA ANTARCTICA DIET 2L                   1     R$ 11.49
+152    APARELHO DE BARBEAR 3 LAMINAS FIAT LUX       1      R$ 4.99
+1622   SALGADINHO YOKITOS 45G (QUEIJO/LUA)          1      R$ 4.59
+1344   PAO DE FORMA TRADICIONAL VISCONTI 400G       1      R$ 8.99
+1501   BISCOITO BAUDUCCO LEITE COM GOTAS 335G       1     R$ 10.99
+1661   PRESUNTO FAT VACUO PT 200G PERD              1     R$ 10.49
+213    H2O LIMÃO 500ML                              1      R$ 7.89
+1347   CHOCOLATE KINDER BUENO WHITE 39G             1     R$ 10.99
+1521   CHOCOLATE MEIO AMARGO NESTLE 80G             1     R$ 10.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                          9     R$ 70.51
+DOCES                                        5     R$ 36.95
+BEBIDA ALCÓLICA                              5     R$ 23.45
+MERCEARIA                                    2     R$ 16.98
+HIGIENE E LIMPEZA                            1      R$ 4.99
+SALGADOS E SNACKS                            1      R$ 4.59
+FRIOS E LATICINIOS                           1     R$ 10.49
+----------------------------------------------------------------------
+
+Gerado em: 02/09/2026 02:12:21
+======================================================================

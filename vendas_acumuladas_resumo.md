@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 402
+**Total de unidades vendidas:** 407
 
-**Valor total vendido:** R$ 2979.09
+**Valor total vendido:** R$ 3010.94
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 113 | R$ 532.12 |
-| BEBIDA NÃO ALCÓLICA | 99 | R$ 932.40 |
-| BEBIDA ALCÓLICA | 66 | R$ 363.63 |
+| DOCES | 114 | R$ 543.11 |
+| BEBIDA NÃO ALCÓLICA | 100 | R$ 939.29 |
+| BEBIDA ALCÓLICA | 68 | R$ 373.01 |
 | MERCEARIA | 40 | R$ 344.95 |
 | ARTESANAIS | 25 | R$ 212.25 |
-| SALGADOS E SNACKS | 23 | R$ 134.15 |
+| SALGADOS E SNACKS | 24 | R$ 138.74 |
 | FRIOS E LATICINIOS | 12 | R$ 120.62 |
 | HIGIENE E LIMPEZA | 10 | R$ 159.68 |
 | CARNES | 9 | R$ 156.75 |
@@ -23,7 +23,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 26 | R$ 121.94 |
+| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 28 | R$ 131.32 |
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
@@ -57,6 +57,6 @@
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
-| 2026-09-02 | 20 | R$ 128.70 |
+| 2026-09-02 | 25 | R$ 160.55 |
 
-*Última atualização: 02/09/2026 15:12:43*
+*Última atualização: 02/09/2026 18:24:50*

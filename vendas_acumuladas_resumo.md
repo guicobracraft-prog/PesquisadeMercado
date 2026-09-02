@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 399
+**Total de unidades vendidas:** 401
 
-**Valor total vendido:** R$ 2944.12
+**Valor total vendido:** R$ 2968.10
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 111 | R$ 500.14 |
-| BEBIDA NÃO ALCÓLICA | 98 | R$ 929.41 |
+| DOCES | 112 | R$ 521.13 |
+| BEBIDA NÃO ALCÓLICA | 99 | R$ 932.40 |
 | BEBIDA ALCÓLICA | 66 | R$ 363.63 |
 | MERCEARIA | 40 | R$ 344.95 |
 | ARTESANAIS | 25 | R$ 212.25 |
@@ -38,11 +38,11 @@
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 6 | R$ 32.94 |
+| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 6 | R$ 17.94 |
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
 | 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 5 | R$ 64.45 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 5 | R$ 54.95 |
-| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 5 | R$ 14.95 |
 
 ## 📅 Vendas por Dia
 
@@ -57,6 +57,6 @@
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
-| 2026-09-02 | 17 | R$ 93.73 |
+| 2026-09-02 | 19 | R$ 117.71 |
 
-*Última atualização: 02/09/2026 07:04:56*
+*Última atualização: 02/09/2026 11:47:23*

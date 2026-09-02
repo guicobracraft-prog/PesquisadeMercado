@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 407
+**Total de unidades vendidas:** 409
 
-**Valor total vendido:** R$ 3010.94
+**Valor total vendido:** R$ 3029.32
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 114 | R$ 543.11 |
-| BEBIDA NÃO ALCÓLICA | 100 | R$ 939.29 |
+| BEBIDA NÃO ALCÓLICA | 102 | R$ 957.67 |
 | BEBIDA ALCÓLICA | 68 | R$ 373.01 |
 | MERCEARIA | 40 | R$ 344.95 |
 | ARTESANAIS | 25 | R$ 212.25 |
@@ -36,12 +36,12 @@
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
 | 1385 | GUARANA ANTARCTICA PET 2L | 7 | R$ 80.40 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
+| 54 | REFRIGERANTE FANTA LARANJA 310ML | 7 | R$ 38.43 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
-| 54 | REFRIGERANTE FANTA LARANJA 310ML | 6 | R$ 32.94 |
+| 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 6 | R$ 77.34 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 6 | R$ 17.94 |
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
-| 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 5 | R$ 64.45 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 5 | R$ 54.95 |
 
 ## 📅 Vendas por Dia
@@ -57,6 +57,6 @@
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
-| 2026-09-02 | 25 | R$ 160.55 |
+| 2026-09-02 | 27 | R$ 178.93 |
 
-*Última atualização: 02/09/2026 18:24:50*
+*Última atualização: 02/09/2026 20:39:46*

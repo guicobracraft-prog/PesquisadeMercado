@@ -1,20 +1,20 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 417
+**Total de unidades vendidas:** 425
 
-**Valor total vendido:** R$ 3104.84
+**Valor total vendido:** R$ 3158.66
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 115 | R$ 548.40 |
+| DOCES | 116 | R$ 552.39 |
 | BEBIDA NÃO ALCÓLICA | 106 | R$ 995.53 |
 | BEBIDA ALCÓLICA | 68 | R$ 373.01 |
-| MERCEARIA | 41 | R$ 353.94 |
+| MERCEARIA | 47 | R$ 395.28 |
 | SALGADOS E SNACKS | 25 | R$ 144.93 |
 | ARTESANAIS | 25 | R$ 212.25 |
-| FRIOS E LATICINIOS | 12 | R$ 120.62 |
+| FRIOS E LATICINIOS | 13 | R$ 129.11 |
 | CARNES | 10 | R$ 173.94 |
 | HIGIENE E LIMPEZA | 10 | R$ 159.68 |
 | LINHA FIT | 5 | R$ 22.54 |
@@ -38,9 +38,9 @@
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 7 | R$ 38.43 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
+| 131 | TRIDENT MORANGO 8G | 6 | R$ 23.94 |
 | 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 6 | R$ 77.34 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 6 | R$ 17.94 |
-| 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
 | 1407 | GUARANA ANTARCTICA LATA 350 ML | 5 | R$ 27.43 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
 
@@ -58,6 +58,6 @@
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
 | 2026-09-02 | 33 | R$ 242.27 |
-| 2026-09-03 | 2 | R$ 12.18 |
+| 2026-09-03 | 10 | R$ 66.00 |
 
-*Última atualização: 03/09/2026 08:48:33*
+*Última atualização: 03/09/2026 12:22:46*

@@ -1,23 +1,24 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 429
+**Total de unidades vendidas:** 450
 
-**Valor total vendido:** R$ 3196.42
+**Valor total vendido:** R$ 3308.21
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 117 | R$ 563.38 |
-| BEBIDA NÃO ALCÓLICA | 108 | R$ 1019.91 |
-| BEBIDA ALCÓLICA | 68 | R$ 373.01 |
-| MERCEARIA | 48 | R$ 397.67 |
-| SALGADOS E SNACKS | 25 | R$ 144.93 |
+| DOCES | 125 | R$ 597.10 |
+| BEBIDA NÃO ALCÓLICA | 112 | R$ 1037.87 |
+| BEBIDA ALCÓLICA | 72 | R$ 392.57 |
+| MERCEARIA | 49 | R$ 401.26 |
+| SALGADOS E SNACKS | 27 | R$ 165.51 |
 | ARTESANAIS | 25 | R$ 212.25 |
 | FRIOS E LATICINIOS | 13 | R$ 129.11 |
+| HIGIENE E LIMPEZA | 11 | R$ 169.57 |
 | CARNES | 10 | R$ 173.94 |
-| HIGIENE E LIMPEZA | 10 | R$ 159.68 |
 | LINHA FIT | 5 | R$ 22.54 |
+| DESCARTÁVEIS E UTILIDADES | 1 | R$ 6.49 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
@@ -27,7 +28,7 @@
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 236 | BALA DE GOMA IOGURTE 32G | 14 | R$ 27.86 |
+| 236 | BALA DE GOMA IOGURTE 32G | 16 | R$ 31.84 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 10 | R$ 128.90 |
@@ -40,9 +41,9 @@
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 7 | R$ 38.43 |
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
 | 131 | TRIDENT MORANGO 8G | 6 | R$ 23.94 |
+| 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 6 | R$ 65.94 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 6 | R$ 17.94 |
-| 1407 | GUARANA ANTARCTICA LATA 350 ML | 5 | R$ 27.43 |
-| 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
+| 1398 | CERVEJA EISENBAHN 269ML | 5 | R$ 24.34 |
 
 ## 📅 Vendas por Dia
 
@@ -58,6 +59,6 @@
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
 | 2026-09-02 | 33 | R$ 242.27 |
-| 2026-09-03 | 14 | R$ 103.76 |
+| 2026-09-03 | 35 | R$ 215.55 |
 
-*Última atualização: 03/09/2026 15:57:20*
+*Última atualização: 03/09/2026 20:37:50*

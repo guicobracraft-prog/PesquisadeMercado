@@ -1,22 +1,22 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 409
+**Total de unidades vendidas:** 415
 
-**Valor total vendido:** R$ 3029.32
+**Valor total vendido:** R$ 3092.66
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 114 | R$ 543.11 |
-| BEBIDA NÃO ALCÓLICA | 102 | R$ 957.67 |
+| BEBIDA NÃO ALCÓLICA | 105 | R$ 988.64 |
 | BEBIDA ALCÓLICA | 68 | R$ 373.01 |
-| MERCEARIA | 40 | R$ 344.95 |
+| MERCEARIA | 41 | R$ 353.94 |
+| SALGADOS E SNACKS | 25 | R$ 144.93 |
 | ARTESANAIS | 25 | R$ 212.25 |
-| SALGADOS E SNACKS | 24 | R$ 138.74 |
 | FRIOS E LATICINIOS | 12 | R$ 120.62 |
+| CARNES | 10 | R$ 173.94 |
 | HIGIENE E LIMPEZA | 10 | R$ 159.68 |
-| CARNES | 9 | R$ 156.75 |
 | LINHA FIT | 5 | R$ 22.54 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
@@ -41,8 +41,8 @@
 | 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 6 | R$ 77.34 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 6 | R$ 17.94 |
 | 131 | TRIDENT MORANGO 8G | 5 | R$ 19.95 |
+| 1407 | GUARANA ANTARCTICA LATA 350 ML | 5 | R$ 27.43 |
 | 1456 | LEITE INTEGRAL PIRACANJUBA 1L | 5 | R$ 39.94 |
-| 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 5 | R$ 54.95 |
 
 ## 📅 Vendas por Dia
 
@@ -57,6 +57,6 @@
 | 2026-08-30 | 48 | R$ 430.42 |
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
-| 2026-09-02 | 27 | R$ 178.93 |
+| 2026-09-02 | 33 | R$ 242.27 |
 
-*Última atualização: 02/09/2026 20:39:46*
+*Última atualização: 02/09/2026 22:48:45*

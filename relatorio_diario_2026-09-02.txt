@@ -1,0 +1,52 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-02
+======================================================================
+
+Total de unidades vendidas: 33
+Valor total vendido: R$ 242.27
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA AMSTEL PURO MALTE 269ML              7     R$ 32.83
+82     AMENDOIM JAPONES DORI 75GR                   3     R$ 18.57
+236    BALA DE GOMA IOGURTE 32G                     2      R$ 3.98
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO A..     2     R$ 22.98
+1411   LEITE DE COCO MENINA  200ML                  1      R$ 6.29
+1538   BALA FINI TUBES TWISTER 80G                  1      R$ 7.49
+1347   CHOCOLATE KINDER BUENO WHITE 39G             1     R$ 10.99
+1533   MACARRAO INSTANTANEO CARNE RENATA 85G        1      R$ 2.39
+209    BARRA DE CEREAL AVELA COM CHOCOLATE NU..     1      R$ 2.89
+1592   PIPOCA DOCE BEBELA 90G                       1      R$ 3.89
+1531   QUEIJO MUSSARELA TIROLEZ 150G                1      R$ 8.49
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     1      R$ 2.99
+1399   CAIXA DE BOMBOM NESTLE 220G                  1     R$ 20.99
+1458   CHOCOLATE CRUNCH NESTLE 80G                  1     R$ 10.99
+43     SUCO DE LARANJA DAFRUTA 1L                   1      R$ 6.89
+1536   CHOCOLATE PRESTIGIO NESTLE 80G               1     R$ 10.99
+1475   SALGADINHO YOKITOS 45G (QUEIJO REDINHA)      1      R$ 4.59
+54     REFRIGERANTE FANTA LARANJA 310ML             1      R$ 5.49
+1464   REFRIGERANTE COCA COLA ZERO ACUCAR  2L       1     R$ 12.89
+1407   GUARANA ANTARCTICA LATA 350 ML               1      R$ 5.49
+1437   LINGUICA FRANGO COPACOL 700G                 1     R$ 17.19
+1344   PAO DE FORMA TRADICIONAL VISCONTI 400G       1      R$ 8.99
+1467   ENERGETICO MONSTER ULTRA 473ML               1     R$ 13.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        8     R$ 69.32
+BEBIDA NÃO ALCÓLICA                          8     R$ 70.72
+BEBIDA ALCÓLICA                              7     R$ 32.83
+SALGADOS E SNACKS                            4     R$ 23.16
+MERCEARIA                                    3     R$ 17.67
+LINHA FIT                                    1      R$ 2.89
+FRIOS E LATICINIOS                           1      R$ 8.49
+CARNES                                       1     R$ 17.19
+----------------------------------------------------------------------
+
+Gerado em: 03/09/2026 03:36:32
+======================================================================

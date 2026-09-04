@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 460
+**Total de unidades vendidas:** 471
 
-**Valor total vendido:** R$ 3398.81
+**Valor total vendido:** R$ 3493.00
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 125 | R$ 597.10 |
-| BEBIDA NÃO ALCÓLICA | 113 | R$ 1049.36 |
+| DOCES | 127 | R$ 615.08 |
+| BEBIDA NÃO ALCÓLICA | 120 | R$ 1111.19 |
 | BEBIDA ALCÓLICA | 81 | R$ 471.68 |
-| MERCEARIA | 49 | R$ 401.26 |
-| SALGADOS E SNACKS | 27 | R$ 165.51 |
+| MERCEARIA | 50 | R$ 409.45 |
+| SALGADOS E SNACKS | 28 | R$ 171.70 |
 | ARTESANAIS | 25 | R$ 212.25 |
 | FRIOS E LATICINIOS | 13 | R$ 129.11 |
 | HIGIENE E LIMPEZA | 11 | R$ 169.57 |
@@ -28,11 +28,11 @@
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 236 | BALA DE GOMA IOGURTE 32G | 16 | R$ 31.84 |
+| 236 | BALA DE GOMA IOGURTE 32G | 17 | R$ 33.83 |
 | 1398 | CERVEJA EISENBAHN 269ML | 13 | R$ 63.46 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 11 | R$ 141.79 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 10 | R$ 128.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
@@ -43,7 +43,7 @@
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
 | 131 | TRIDENT MORANGO 8G | 6 | R$ 23.94 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 6 | R$ 65.94 |
-| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 6 | R$ 17.94 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 6 | R$ 32.94 |
 
 ## 📅 Vendas por Dia
 
@@ -60,5 +60,6 @@
 | 2026-09-01 | 24 | R$ 167.96 |
 | 2026-09-02 | 33 | R$ 242.27 |
 | 2026-09-03 | 45 | R$ 306.15 |
+| 2026-09-04 | 11 | R$ 94.19 |
 
-*Última atualização: 03/09/2026 22:42:44*
+*Última atualização: 04/09/2026 03:39:08*

@@ -1,24 +1,24 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 501
+**Total de unidades vendidas:** 511
 
-**Valor total vendido:** R$ 3693.90
+**Valor total vendido:** R$ 3762.00
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 134 | R$ 663.11 |
+| DOCES | 138 | R$ 682.47 |
 | BEBIDA NÃO ALCÓLICA | 122 | R$ 1138.07 |
 | BEBIDA ALCÓLICA | 90 | R$ 513.89 |
-| MERCEARIA | 55 | R$ 431.80 |
+| MERCEARIA | 56 | R$ 457.69 |
 | SALGADOS E SNACKS | 32 | R$ 204.86 |
 | ARTESANAIS | 25 | R$ 212.25 |
 | FRIOS E LATICINIOS | 14 | R$ 135.90 |
 | CARNES | 11 | R$ 188.43 |
 | HIGIENE E LIMPEZA | 11 | R$ 169.57 |
-| LINHA FIT | 5 | R$ 22.54 |
-| DESCARTÁVEIS E UTILIDADES | 2 | R$ 13.48 |
+| LINHA FIT | 6 | R$ 25.43 |
+| DESCARTÁVEIS E UTILIDADES | 6 | R$ 33.44 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
@@ -26,7 +26,7 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
-| 236 | BALA DE GOMA IOGURTE 32G | 18 | R$ 35.82 |
+| 236 | BALA DE GOMA IOGURTE 32G | 20 | R$ 39.80 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
 | 1398 | CERVEJA EISENBAHN 269ML | 13 | R$ 63.46 |
@@ -60,6 +60,6 @@
 | 2026-09-01 | 24 | R$ 167.96 |
 | 2026-09-02 | 33 | R$ 242.27 |
 | 2026-09-03 | 45 | R$ 306.15 |
-| 2026-09-04 | 41 | R$ 295.09 |
+| 2026-09-04 | 51 | R$ 363.19 |
 
-*Última atualização: 04/09/2026 18:07:03*
+*Última atualização: 04/09/2026 20:29:59*

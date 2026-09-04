@@ -1,16 +1,16 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 450
+**Total de unidades vendidas:** 460
 
-**Valor total vendido:** R$ 3308.21
+**Valor total vendido:** R$ 3398.81
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 125 | R$ 597.10 |
-| BEBIDA NÃO ALCÓLICA | 112 | R$ 1037.87 |
-| BEBIDA ALCÓLICA | 72 | R$ 392.57 |
+| BEBIDA NÃO ALCÓLICA | 113 | R$ 1049.36 |
+| BEBIDA ALCÓLICA | 81 | R$ 471.68 |
 | MERCEARIA | 49 | R$ 401.26 |
 | SALGADOS E SNACKS | 27 | R$ 165.51 |
 | ARTESANAIS | 25 | R$ 212.25 |
@@ -29,6 +29,7 @@
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
 | 236 | BALA DE GOMA IOGURTE 32G | 16 | R$ 31.84 |
+| 1398 | CERVEJA EISENBAHN 269ML | 13 | R$ 63.46 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 10 | R$ 128.90 |
@@ -43,7 +44,6 @@
 | 131 | TRIDENT MORANGO 8G | 6 | R$ 23.94 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 6 | R$ 65.94 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 6 | R$ 17.94 |
-| 1398 | CERVEJA EISENBAHN 269ML | 5 | R$ 24.34 |
 
 ## 📅 Vendas por Dia
 
@@ -59,6 +59,6 @@
 | 2026-08-31 | 58 | R$ 336.72 |
 | 2026-09-01 | 24 | R$ 167.96 |
 | 2026-09-02 | 33 | R$ 242.27 |
-| 2026-09-03 | 35 | R$ 215.55 |
+| 2026-09-03 | 45 | R$ 306.15 |
 
-*Última atualização: 03/09/2026 20:37:50*
+*Última atualização: 03/09/2026 22:42:44*

@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 496
+**Total de unidades vendidas:** 501
 
-**Valor total vendido:** R$ 3670.45
+**Valor total vendido:** R$ 3693.90
 
 ## 🏷️ Vendas por Categoria
 
@@ -10,7 +10,7 @@
 |-----------|-----------:|------------:|
 | DOCES | 134 | R$ 663.11 |
 | BEBIDA NÃO ALCÓLICA | 122 | R$ 1138.07 |
-| BEBIDA ALCÓLICA | 85 | R$ 490.44 |
+| BEBIDA ALCÓLICA | 90 | R$ 513.89 |
 | MERCEARIA | 55 | R$ 431.80 |
 | SALGADOS E SNACKS | 32 | R$ 204.86 |
 | ARTESANAIS | 25 | R$ 212.25 |
@@ -24,7 +24,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 32 | R$ 150.08 |
+| 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
 | 236 | BALA DE GOMA IOGURTE 32G | 18 | R$ 35.82 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
@@ -60,6 +60,6 @@
 | 2026-09-01 | 24 | R$ 167.96 |
 | 2026-09-02 | 33 | R$ 242.27 |
 | 2026-09-03 | 45 | R$ 306.15 |
-| 2026-09-04 | 36 | R$ 271.64 |
+| 2026-09-04 | 41 | R$ 295.09 |
 
-*Última atualização: 04/09/2026 15:38:37*
+*Última atualização: 04/09/2026 18:07:03*

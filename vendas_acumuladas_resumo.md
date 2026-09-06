@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 642
+**Total de unidades vendidas:** 650
 
-**Valor total vendido:** R$ 4808.89
+**Valor total vendido:** R$ 4876.21
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 180 | R$ 1790.79 |
-| DOCES | 162 | R$ 756.63 |
+| BEBIDA NÃO ALCÓLICA | 184 | R$ 1836.15 |
+| DOCES | 166 | R$ 778.59 |
 | BEBIDA ALCÓLICA | 116 | R$ 667.03 |
 | MERCEARIA | 70 | R$ 541.25 |
 | SALGADOS E SNACKS | 36 | R$ 223.42 |
@@ -25,9 +25,9 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 31 | R$ 399.59 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 32 | R$ 412.48 |
+| 236 | BALA DE GOMA IOGURTE 32G | 27 | R$ 53.73 |
 | 1322 | PIZZA SABORES | 25 | R$ 212.25 |
-| 236 | BALA DE GOMA IOGURTE 32G | 24 | R$ 47.76 |
 | 1398 | CERVEJA EISENBAHN 269ML | 18 | R$ 87.91 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
@@ -40,10 +40,10 @@
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
 | 1395 | CERVEJA HEINEKEN 350ML | 9 | R$ 66.51 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 8 | R$ 111.92 |
 | 1385 | GUARANA ANTARCTICA PET 2L | 7 | R$ 80.40 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
 | 277 | CREME DE LEITE PIRACANJUBA 200G | 7 | R$ 25.03 |
-| 1464 | REFRIGERANTE COCA COLA ZERO ACUCAR  2L | 7 | R$ 90.23 |
 
 ## 📅 Vendas por Dia
 
@@ -62,6 +62,6 @@
 | 2026-09-03 | 45 | R$ 306.15 |
 | 2026-09-04 | 56 | R$ 426.14 |
 | 2026-09-05 | 30 | R$ 141.90 |
-| 2026-09-06 | 96 | R$ 842.04 |
+| 2026-09-06 | 104 | R$ 909.36 |
 
-*Última atualização: 06/09/2026 15:42:28*
+*Última atualização: 06/09/2026 17:54:40*

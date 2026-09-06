@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 537
+**Total de unidades vendidas:** 546
 
-**Valor total vendido:** R$ 3942.94
+**Valor total vendido:** R$ 3966.85
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 144 | R$ 692.01 |
-| BEBIDA NÃO ALCÓLICA | 127 | R$ 1193.42 |
+| DOCES | 149 | R$ 699.96 |
+| BEBIDA NÃO ALCÓLICA | 131 | R$ 1209.38 |
 | BEBIDA ALCÓLICA | 96 | R$ 558.23 |
 | MERCEARIA | 62 | R$ 494.43 |
 | SALGADOS E SNACKS | 34 | R$ 213.34 |
@@ -32,6 +32,7 @@
 | 1398 | CERVEJA EISENBAHN 269ML | 13 | R$ 63.46 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 11 | R$ 141.79 |
+| 132 | PACOQUITA SANTA HELENA 20G | 11 | R$ 17.49 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
@@ -43,7 +44,6 @@
 | 281 | BALA MENTOS SABOR FANTA LARANJA 37,5G | 6 | R$ 17.94 |
 | 131 | TRIDENT MORANGO 8G | 6 | R$ 23.94 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 6 | R$ 65.94 |
-| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 6 | R$ 32.94 |
 
 ## 📅 Vendas por Dia
 
@@ -61,6 +61,6 @@
 | 2026-09-02 | 33 | R$ 242.27 |
 | 2026-09-03 | 45 | R$ 306.15 |
 | 2026-09-04 | 56 | R$ 426.14 |
-| 2026-09-05 | 21 | R$ 117.99 |
+| 2026-09-05 | 30 | R$ 141.90 |
 
-*Última atualização: 05/09/2026 19:25:33*
+*Última atualização: 05/09/2026 21:19:53*

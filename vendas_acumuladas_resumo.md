@@ -1,16 +1,16 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 611
+**Total de unidades vendidas:** 615
 
-**Valor total vendido:** R$ 4573.70
+**Valor total vendido:** R$ 4620.36
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 172 | R$ 1698.57 |
+| BEBIDA NÃO ALCÓLICA | 175 | R$ 1740.54 |
 | DOCES | 157 | R$ 735.68 |
-| BEBIDA ALCÓLICA | 110 | R$ 626.29 |
+| BEBIDA ALCÓLICA | 111 | R$ 630.98 |
 | MERCEARIA | 63 | R$ 504.32 |
 | SALGADOS E SNACKS | 34 | R$ 213.34 |
 | ARTESANAIS | 25 | R$ 212.25 |
@@ -36,8 +36,8 @@
 | 1420 | REFRIGERANTE COCA COLA 2L | 11 | R$ 141.79 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 10 | R$ 46.90 |
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 9 | R$ 42.21 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
 | 1385 | GUARANA ANTARCTICA PET 2L | 7 | R$ 80.40 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
@@ -62,6 +62,6 @@
 | 2026-09-03 | 45 | R$ 306.15 |
 | 2026-09-04 | 56 | R$ 426.14 |
 | 2026-09-05 | 30 | R$ 141.90 |
-| 2026-09-06 | 65 | R$ 606.85 |
+| 2026-09-06 | 69 | R$ 653.51 |
 
-*Última atualização: 06/09/2026 02:14:44*
+*Última atualização: 06/09/2026 06:48:44*

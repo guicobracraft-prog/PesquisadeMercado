@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 664
+**Total de unidades vendidas:** 674
 
-**Valor total vendido:** R$ 4970.67
+**Valor total vendido:** R$ 5049.97
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 186 | R$ 1861.93 |
-| DOCES | 166 | R$ 778.59 |
+| BEBIDA NÃO ALCÓLICA | 188 | R$ 1890.81 |
+| DOCES | 168 | R$ 797.27 |
 | BEBIDA ALCÓLICA | 124 | R$ 704.55 |
-| MERCEARIA | 72 | R$ 557.13 |
-| SALGADOS E SNACKS | 36 | R$ 223.42 |
+| MERCEARIA | 76 | R$ 581.09 |
+| SALGADOS E SNACKS | 38 | R$ 231.20 |
 | ARTESANAIS | 26 | R$ 220.74 |
 | FRIOS E LATICINIOS | 18 | R$ 176.96 |
 | HIGIENE E LIMPEZA | 12 | R$ 196.06 |
@@ -32,7 +32,7 @@
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 18 | R$ 84.42 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 13 | R$ 167.57 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 14 | R$ 180.46 |
 | 132 | PACOQUITA SANTA HELENA 20G | 12 | R$ 19.08 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
@@ -63,5 +63,6 @@
 | 2026-09-04 | 56 | R$ 426.14 |
 | 2026-09-05 | 30 | R$ 141.90 |
 | 2026-09-06 | 118 | R$ 1003.82 |
+| 2026-09-07 | 10 | R$ 79.30 |
 
-*Última atualização: 06/09/2026 21:26:09*
+*Última atualização: 07/09/2026 02:23:06*

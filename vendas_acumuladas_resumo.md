@@ -1,14 +1,14 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 705
+**Total de unidades vendidas:** 706
 
-**Valor total vendido:** R$ 5254.26
+**Valor total vendido:** R$ 5267.15
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 196 | R$ 1976.43 |
+| BEBIDA NÃO ALCÓLICA | 197 | R$ 1989.32 |
 | DOCES | 177 | R$ 822.18 |
 | BEBIDA ALCÓLICA | 127 | R$ 718.62 |
 | MERCEARIA | 83 | R$ 619.72 |
@@ -32,8 +32,8 @@
 | 1398 | CERVEJA EISENBAHN 269ML | 18 | R$ 87.91 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 17 | R$ 219.13 |
 | 132 | PACOQUITA SANTA HELENA 20G | 17 | R$ 27.03 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 16 | R$ 206.24 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
@@ -64,5 +64,6 @@
 | 2026-09-05 | 30 | R$ 141.90 |
 | 2026-09-06 | 118 | R$ 1003.82 |
 | 2026-09-07 | 41 | R$ 283.59 |
+| 2026-09-08 | 1 | R$ 12.89 |
 
-*Última atualização: 07/09/2026 22:46:24*
+*Última atualização: 08/09/2026 03:39:21*

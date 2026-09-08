@@ -1,24 +1,24 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 709
+**Total de unidades vendidas:** 714
 
-**Valor total vendido:** R$ 5278.92
+**Valor total vendido:** R$ 5298.57
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 198 | R$ 1992.31 |
-| DOCES | 178 | R$ 827.47 |
+| DOCES | 180 | R$ 831.45 |
 | BEBIDA ALCÓLICA | 127 | R$ 718.62 |
-| MERCEARIA | 83 | R$ 619.72 |
+| MERCEARIA | 85 | R$ 633.40 |
 | SALGADOS E SNACKS | 38 | R$ 231.20 |
 | ARTESANAIS | 26 | R$ 220.74 |
 | FRIOS E LATICINIOS | 21 | R$ 202.03 |
 | HIGIENE E LIMPEZA | 14 | R$ 215.54 |
 | CARNES | 11 | R$ 188.43 |
 | LINHA FIT | 7 | R$ 29.42 |
-| DESCARTÁVEIS E UTILIDADES | 6 | R$ 33.44 |
+| DESCARTÁVEIS E UTILIDADES | 7 | R$ 35.43 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
@@ -40,10 +40,10 @@
 | 18 | CHOCOLATE LOLLO 28G | 9 | R$ 40.53 |
 | 1395 | CERVEJA HEINEKEN 350ML | 9 | R$ 66.51 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
+| 1400 | BALA DE GOMA FRUTAS 32G | 8 | R$ 15.62 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 8 | R$ 111.92 |
 | 1385 | GUARANA ANTARCTICA PET 2L | 7 | R$ 80.40 |
 | 1464 | COCA COLA ZERO AÇUCAR  2L | 7 | R$ 90.16 |
-| 277 | CREME DE LEITE PIRACANJUBA 200G | 7 | R$ 25.03 |
 
 ## 📅 Vendas por Dia
 
@@ -64,6 +64,6 @@
 | 2026-09-05 | 30 | R$ 141.90 |
 | 2026-09-06 | 118 | R$ 1003.82 |
 | 2026-09-07 | 41 | R$ 283.59 |
-| 2026-09-08 | 4 | R$ 24.66 |
+| 2026-09-08 | 9 | R$ 44.31 |
 
-*Última atualização: 08/09/2026 12:31:33*
+*Última atualização: 08/09/2026 16:04:08*

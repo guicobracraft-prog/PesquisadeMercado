@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 749
+**Total de unidades vendidas:** 758
 
-**Valor total vendido:** R$ 5551.72
+**Valor total vendido:** R$ 5613.23
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 203 | R$ 2033.66 |
-| DOCES | 195 | R$ 900.60 |
+| DOCES | 198 | R$ 920.57 |
 | BEBIDA ALCÓLICA | 133 | R$ 753.16 |
-| MERCEARIA | 89 | R$ 681.86 |
-| SALGADOS E SNACKS | 39 | R$ 235.09 |
+| MERCEARIA | 93 | R$ 715.62 |
+| SALGADOS E SNACKS | 41 | R$ 242.87 |
 | ARTESANAIS | 26 | R$ 220.74 |
 | FRIOS E LATICINIOS | 25 | R$ 257.79 |
 | HIGIENE E LIMPEZA | 14 | R$ 215.54 |
@@ -34,8 +34,8 @@
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 17 | R$ 219.13 |
+| 1400 | BALA DE GOMA FRUTAS 32G | 13 | R$ 25.57 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
-| 1400 | BALA DE GOMA FRUTAS 32G | 11 | R$ 21.59 |
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
@@ -65,6 +65,6 @@
 | 2026-09-06 | 118 | R$ 1003.82 |
 | 2026-09-07 | 41 | R$ 283.59 |
 | 2026-09-08 | 24 | R$ 138.56 |
-| 2026-09-09 | 20 | R$ 158.90 |
+| 2026-09-09 | 29 | R$ 220.41 |
 
-*Última atualização: 09/09/2026 15:05:59*
+*Última atualização: 09/09/2026 18:19:47*

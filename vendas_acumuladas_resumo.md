@@ -1,24 +1,24 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 777
+**Total de unidades vendidas:** 782
 
-**Valor total vendido:** R$ 5730.14
+**Valor total vendido:** R$ 5752.29
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 208 | R$ 2076.01 |
-| DOCES | 200 | R$ 933.55 |
+| DOCES | 203 | R$ 939.72 |
 | BEBIDA ALCÓLICA | 137 | R$ 771.92 |
-| MERCEARIA | 98 | R$ 744.47 |
+| MERCEARIA | 99 | R$ 752.46 |
 | SALGADOS E SNACKS | 44 | R$ 256.84 |
 | ARTESANAIS | 26 | R$ 220.74 |
 | FRIOS E LATICINIOS | 25 | R$ 257.79 |
 | HIGIENE E LIMPEZA | 14 | R$ 215.54 |
 | CARNES | 11 | R$ 188.43 |
+| DESCARTÁVEIS E UTILIDADES | 8 | R$ 43.42 |
 | LINHA FIT | 7 | R$ 29.42 |
-| DESCARTÁVEIS E UTILIDADES | 7 | R$ 35.43 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
@@ -29,7 +29,7 @@
 | 236 | BALA DE GOMA IOGURTE 32G | 27 | R$ 53.73 |
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 27 | R$ 126.63 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
-| 132 | PACOQUITA SANTA HELENA 20G | 19 | R$ 30.21 |
+| 132 | PACOQUITA SANTA HELENA 20G | 21 | R$ 33.39 |
 | 1398 | CERVEJA EISENBAHN 269ML | 18 | R$ 87.91 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 18 | R$ 232.02 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
@@ -66,6 +66,6 @@
 | 2026-09-07 | 41 | R$ 283.59 |
 | 2026-09-08 | 24 | R$ 138.56 |
 | 2026-09-09 | 40 | R$ 275.40 |
-| 2026-09-10 | 8 | R$ 61.92 |
+| 2026-09-10 | 13 | R$ 84.07 |
 
-*Última atualização: 10/09/2026 08:55:26*
+*Última atualização: 10/09/2026 12:23:59*

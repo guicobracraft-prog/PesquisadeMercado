@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 789
+**Total de unidades vendidas:** 792
 
-**Valor total vendido:** R$ 5832.22
+**Valor total vendido:** R$ 5843.79
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 212 | R$ 2105.97 |
-| DOCES | 205 | R$ 965.70 |
+| DOCES | 207 | R$ 969.28 |
 | BEBIDA ALCÓLICA | 137 | R$ 771.92 |
-| MERCEARIA | 100 | R$ 776.45 |
+| MERCEARIA | 101 | R$ 784.44 |
 | SALGADOS E SNACKS | 44 | R$ 256.84 |
 | ARTESANAIS | 26 | R$ 220.74 |
 | FRIOS E LATICINIOS | 25 | R$ 257.79 |
@@ -29,12 +29,12 @@
 | 236 | BALA DE GOMA IOGURTE 32G | 27 | R$ 53.73 |
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 27 | R$ 126.63 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
-| 132 | PACOQUITA SANTA HELENA 20G | 21 | R$ 33.39 |
+| 132 | PACOQUITA SANTA HELENA 20G | 22 | R$ 34.98 |
 | 1398 | CERVEJA EISENBAHN 269ML | 18 | R$ 87.91 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 18 | R$ 232.02 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 1400 | BALA DE GOMA FRUTAS 32G | 13 | R$ 25.57 |
+| 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
@@ -66,6 +66,6 @@
 | 2026-09-07 | 41 | R$ 283.59 |
 | 2026-09-08 | 24 | R$ 138.56 |
 | 2026-09-09 | 40 | R$ 275.40 |
-| 2026-09-10 | 20 | R$ 164.00 |
+| 2026-09-10 | 23 | R$ 175.57 |
 
-*Última atualização: 10/09/2026 15:46:17*
+*Última atualização: 10/09/2026 18:16:22*

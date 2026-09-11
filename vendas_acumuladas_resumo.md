@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 840
+**Total de unidades vendidas:** 843
 
-**Valor total vendido:** R$ 6165.11
+**Valor total vendido:** R$ 6187.38
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 226 | R$ 1046.89 |
-| BEBIDA NÃO ALCÓLICA | 216 | R$ 2144.53 |
+| DOCES | 228 | R$ 1066.17 |
+| BEBIDA NÃO ALCÓLICA | 217 | R$ 2147.52 |
 | BEBIDA ALCÓLICA | 147 | R$ 838.12 |
 | MERCEARIA | 108 | R$ 849.37 |
 | SALGADOS E SNACKS | 46 | R$ 266.02 |
@@ -43,8 +43,8 @@
 | 1395 | CERVEJA HEINEKEN 350ML | 10 | R$ 73.90 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 8 | R$ 43.92 |
+| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 8 | R$ 23.92 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 8 | R$ 111.92 |
-| 1385 | GUARANA ANTARCTICA PET 2L | 7 | R$ 80.40 |
 
 ## 📅 Vendas por Dia
 
@@ -68,6 +68,6 @@
 | 2026-09-08 | 24 | R$ 138.56 |
 | 2026-09-09 | 40 | R$ 275.40 |
 | 2026-09-10 | 43 | R$ 281.07 |
-| 2026-09-11 | 28 | R$ 215.82 |
+| 2026-09-11 | 31 | R$ 238.09 |
 
-*Última atualização: 11/09/2026 15:49:24*
+*Última atualização: 11/09/2026 18:24:13*

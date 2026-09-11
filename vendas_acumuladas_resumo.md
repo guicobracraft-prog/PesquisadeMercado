@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 818
+**Total de unidades vendidas:** 822
 
-**Valor total vendido:** R$ 6003.03
+**Valor total vendido:** R$ 6029.29
 
 ## 🏷️ Vendas por Categoria
 
@@ -10,7 +10,7 @@
 |-----------|-----------:|------------:|
 | DOCES | 223 | R$ 1034.02 |
 | BEBIDA NÃO ALCÓLICA | 214 | R$ 2122.65 |
-| BEBIDA ALCÓLICA | 141 | R$ 802.48 |
+| BEBIDA ALCÓLICA | 145 | R$ 828.74 |
 | MERCEARIA | 103 | R$ 805.22 |
 | SALGADOS E SNACKS | 45 | R$ 261.43 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -39,7 +39,7 @@
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
-| 1395 | CERVEJA HEINEKEN 350ML | 9 | R$ 66.51 |
+| 1395 | CERVEJA HEINEKEN 350ML | 10 | R$ 73.90 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 8 | R$ 43.92 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 8 | R$ 111.92 |
@@ -67,6 +67,6 @@
 | 2026-09-08 | 24 | R$ 138.56 |
 | 2026-09-09 | 40 | R$ 275.40 |
 | 2026-09-10 | 43 | R$ 281.07 |
-| 2026-09-11 | 6 | R$ 53.74 |
+| 2026-09-11 | 10 | R$ 80.00 |
 
-*Última atualização: 11/09/2026 03:45:10*
+*Última atualização: 11/09/2026 08:54:21*

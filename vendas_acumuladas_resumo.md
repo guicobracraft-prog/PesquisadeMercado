@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 822
+**Total de unidades vendidas:** 827
 
-**Valor total vendido:** R$ 6029.29
+**Valor total vendido:** R$ 6074.64
 
 ## 🏷️ Vendas por Categoria
 
@@ -10,7 +10,7 @@
 |-----------|-----------:|------------:|
 | DOCES | 223 | R$ 1034.02 |
 | BEBIDA NÃO ALCÓLICA | 214 | R$ 2122.65 |
-| BEBIDA ALCÓLICA | 145 | R$ 828.74 |
+| BEBIDA ALCÓLICA | 147 | R$ 838.12 |
 | MERCEARIA | 103 | R$ 805.22 |
 | SALGADOS E SNACKS | 45 | R$ 261.43 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -19,6 +19,7 @@
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 8 | R$ 43.42 |
 | LINHA FIT | 7 | R$ 29.42 |
+| FRIOS E CONGELADOS | 3 | R$ 35.97 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
@@ -26,8 +27,8 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 36 | R$ 464.04 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 29 | R$ 136.01 |
 | 236 | BALA DE GOMA IOGURTE 32G | 27 | R$ 53.73 |
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 27 | R$ 126.63 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 132 | PACOQUITA SANTA HELENA 20G | 25 | R$ 39.75 |
 | 1398 | CERVEJA EISENBAHN 269ML | 18 | R$ 87.91 |
@@ -67,6 +68,6 @@
 | 2026-09-08 | 24 | R$ 138.56 |
 | 2026-09-09 | 40 | R$ 275.40 |
 | 2026-09-10 | 43 | R$ 281.07 |
-| 2026-09-11 | 10 | R$ 80.00 |
+| 2026-09-11 | 15 | R$ 125.35 |
 
-*Última atualização: 11/09/2026 08:54:21*
+*Última atualização: 11/09/2026 12:24:05*

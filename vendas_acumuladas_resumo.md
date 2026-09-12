@@ -1,21 +1,21 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 875
+**Total de unidades vendidas:** 889
 
-**Valor total vendido:** R$ 6415.66
+**Valor total vendido:** R$ 6497.72
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 237 | R$ 1118.48 |
-| BEBIDA NÃO ALCÓLICA | 227 | R$ 2240.42 |
+| DOCES | 242 | R$ 1130.93 |
+| BEBIDA NÃO ALCÓLICA | 231 | R$ 2269.58 |
 | BEBIDA ALCÓLICA | 156 | R$ 888.43 |
-| MERCEARIA | 109 | R$ 860.26 |
-| SALGADOS E SNACKS | 47 | R$ 272.21 |
+| MERCEARIA | 110 | R$ 873.25 |
+| SALGADOS E SNACKS | 50 | R$ 295.98 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | ARTESANAIS | 26 | R$ 220.74 |
-| HIGIENE E LIMPEZA | 15 | R$ 224.73 |
+| HIGIENE E LIMPEZA | 16 | R$ 228.42 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 9 | R$ 49.91 |
 | LINHA FIT | 7 | R$ 29.42 |
@@ -29,8 +29,8 @@
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 37 | R$ 477.03 |
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 35 | R$ 164.15 |
 | 236 | BALA DE GOMA IOGURTE 32G | 27 | R$ 53.73 |
+| 132 | PACOQUITA SANTA HELENA 20G | 27 | R$ 42.93 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
-| 132 | PACOQUITA SANTA HELENA 20G | 25 | R$ 39.75 |
 | 1398 | CERVEJA EISENBAHN 269ML | 18 | R$ 87.91 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 18 | R$ 232.02 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
@@ -44,7 +44,7 @@
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 9 | R$ 98.91 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 9 | R$ 49.41 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
-| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 8 | R$ 23.92 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 8 | R$ 43.92 |
 
 ## 📅 Vendas por Dia
 
@@ -69,6 +69,6 @@
 | 2026-09-09 | 40 | R$ 275.40 |
 | 2026-09-10 | 43 | R$ 281.07 |
 | 2026-09-11 | 44 | R$ 324.96 |
-| 2026-09-12 | 19 | R$ 141.41 |
+| 2026-09-12 | 33 | R$ 223.47 |
 
-*Última atualização: 12/09/2026 18:46:25*
+*Última atualização: 12/09/2026 20:30:52*

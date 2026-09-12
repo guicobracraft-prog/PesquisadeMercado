@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 866
+**Total de unidades vendidas:** 870
 
-**Valor total vendido:** R$ 6340.05
+**Valor total vendido:** R$ 6382.51
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 235 | R$ 1096.50 |
-| BEBIDA NÃO ALCÓLICA | 222 | R$ 2197.97 |
+| DOCES | 236 | R$ 1107.49 |
+| BEBIDA NÃO ALCÓLICA | 225 | R$ 2229.44 |
 | BEBIDA ALCÓLICA | 155 | R$ 883.74 |
 | MERCEARIA | 109 | R$ 860.26 |
 | SALGADOS E SNACKS | 47 | R$ 272.21 |
@@ -26,7 +26,7 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 36 | R$ 464.04 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 37 | R$ 477.03 |
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 34 | R$ 159.46 |
 | 236 | BALA DE GOMA IOGURTE 32G | 27 | R$ 53.73 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
@@ -43,8 +43,8 @@
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 9 | R$ 49.41 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
+| 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 8 | R$ 87.92 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 8 | R$ 23.92 |
-| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 8 | R$ 111.92 |
 
 ## 📅 Vendas por Dia
 
@@ -69,6 +69,6 @@
 | 2026-09-09 | 40 | R$ 275.40 |
 | 2026-09-10 | 43 | R$ 281.07 |
 | 2026-09-11 | 44 | R$ 324.96 |
-| 2026-09-12 | 10 | R$ 65.80 |
+| 2026-09-12 | 14 | R$ 108.26 |
 
-*Última atualização: 12/09/2026 11:31:47*
+*Última atualização: 12/09/2026 14:29:48*

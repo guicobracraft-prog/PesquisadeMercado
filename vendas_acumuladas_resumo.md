@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 856
+**Total de unidades vendidas:** 866
 
-**Valor total vendido:** R$ 6274.25
+**Valor total vendido:** R$ 6340.05
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 231 | R$ 1077.64 |
-| BEBIDA NÃO ALCÓLICA | 219 | R$ 2175.50 |
-| BEBIDA ALCÓLICA | 154 | R$ 876.35 |
-| MERCEARIA | 108 | R$ 849.37 |
-| SALGADOS E SNACKS | 46 | R$ 266.02 |
+| DOCES | 235 | R$ 1096.50 |
+| BEBIDA NÃO ALCÓLICA | 222 | R$ 2197.97 |
+| BEBIDA ALCÓLICA | 155 | R$ 883.74 |
+| MERCEARIA | 109 | R$ 860.26 |
+| SALGADOS E SNACKS | 47 | R$ 272.21 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | ARTESANAIS | 26 | R$ 220.74 |
 | HIGIENE E LIMPEZA | 15 | R$ 224.73 |
@@ -36,13 +36,13 @@
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
-| 1395 | CERVEJA HEINEKEN 350ML | 12 | R$ 88.68 |
+| 1395 | CERVEJA HEINEKEN 350ML | 13 | R$ 96.07 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
+| 54 | REFRIGERANTE FANTA LARANJA 310ML | 9 | R$ 49.41 |
 | 1400 | GOMETS GOMA TUBO FRUTAS 32G | 8 | R$ 15.04 |
-| 54 | REFRIGERANTE FANTA LARANJA 310ML | 8 | R$ 43.92 |
 | 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 8 | R$ 23.92 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 8 | R$ 111.92 |
 
@@ -69,5 +69,6 @@
 | 2026-09-09 | 40 | R$ 275.40 |
 | 2026-09-10 | 43 | R$ 281.07 |
 | 2026-09-11 | 44 | R$ 324.96 |
+| 2026-09-12 | 10 | R$ 65.80 |
 
-*Última atualização: 11/09/2026 22:53:29*
+*Última atualização: 12/09/2026 03:38:11*

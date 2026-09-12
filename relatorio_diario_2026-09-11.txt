@@ -1,0 +1,59 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-11
+======================================================================
+
+Total de unidades vendidas: 44
+Valor total vendido: R$ 324.96
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML              7     R$ 32.83
+1394   ICE FRUIT MIX 51 275ML                       3     R$ 18.87
+1395   CERVEJA HEINEKEN 350ML                       3     R$ 22.17
+1670   IOGURTE MORANGO BATAVO 170G                  2      R$ 6.98
+1367   SARDINHA EM OLEO ROBINSON CRUSOE 125G        2     R$ 17.78
+1467   ENERGETICO ULTRA MONSTER 473ML               2     R$ 27.98
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 3.98
+1680   SALGADINHO YOKITOS BATATA ONDULADA 45G       1      R$ 4.59
+3      HALLS MENTOL 28G                             1      R$ 2.99
+18     CHOCOLATE LOLLO NESTLE 28G                   1      R$ 4.69
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 7.69
+1334   FAROFA TRADICIONAL YOKI 400G                 1     R$ 11.89
+1702   PIZZA DE LOMBO COM CATUPIRY SEARA 460G       1     R$ 21.89
+1444   QUEIJO MUSSARELA MANDAKA 150G                1      R$ 9.99
+1599   FETTUCCINE COM PERU E BROCOLIS PERDIGA..     1     R$ 13.29
+1602   WAFFLE TRADICIONAL WAAW 210G                 1     R$ 12.69
+1682   WAFER MORANGO RANCHEIRO 78G                  1      R$ 3.79
+1355   SALGADINHO YOKITOS PRESUNTO 54G              1      R$ 4.59
+1525   BISCOITO BONO MORANGO 90G                    1      R$ 5.29
+1503   WAFER CHOCOLATE RANCHEIRO 78G                1      R$ 3.79
+1671   LEITE CONDENSADO ITALAC 395G                 1      R$ 7.99
+205    ENERGETICO MANGO MONSTER 473ML               1     R$ 13.99
+1495   SARDINHA MOLHO TOMATE ROBINSON CRUSOE ..     1      R$ 8.89
+1341   AZEITONA VERDE TIO PACO 100G                 1      R$ 9.49
+213    H2O LIMAO 500ML                              1      R$ 7.89
+1664   BISCOITO PASSATEMPO RECHEADO CHOCOLATE..     1      R$ 5.29
+1487   BOLO DUPLO CHOCOLATE BAUDUCCO 200G           1     R$ 13.99
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     1      R$ 2.99
+273    ESCOVA DENTAL COLGATE                        1      R$ 9.19
+1540   MARSHAMALLOW FINI 80G                        1      R$ 7.49
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             13     R$ 73.87
+DOCES                                       11     R$ 58.99
+MERCEARIA                                    6     R$ 56.04
+FRIOS E CONGELADOS                           5     R$ 42.95
+BEBIDA NÃO ALCÓLICA                          5     R$ 52.85
+SALGADOS E SNACKS                            2      R$ 9.18
+FRIOS E LATICINIOS                           1     R$ 21.89
+HIGIENE E LIMPEZA                            1      R$ 9.19
+----------------------------------------------------------------------
+
+Gerado em: 12/09/2026 03:38:11
+======================================================================

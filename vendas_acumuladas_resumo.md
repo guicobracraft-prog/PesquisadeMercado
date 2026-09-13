@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 919
+**Total de unidades vendidas:** 935
 
-**Valor total vendido:** R$ 6684.92
+**Valor total vendido:** R$ 6819.16
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 258 | R$ 1214.97 |
-| BEBIDA NÃO ALCÓLICA | 238 | R$ 2333.71 |
-| BEBIDA ALCÓLICA | 159 | R$ 911.50 |
-| MERCEARIA | 111 | R$ 875.64 |
+| BEBIDA NÃO ALCÓLICA | 242 | R$ 2381.67 |
+| BEBIDA ALCÓLICA | 167 | R$ 959.82 |
+| MERCEARIA | 115 | R$ 913.60 |
 | SALGADOS E SNACKS | 52 | R$ 305.86 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | ARTESANAIS | 26 | R$ 220.74 |
@@ -26,18 +26,18 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 39 | R$ 503.01 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 39 | R$ 182.91 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 35 | R$ 164.15 |
 | 236 | BALA DE GOMA IOGURTE 32G | 31 | R$ 61.69 |
 | 132 | PACOQUITA SANTA HELENA 20G | 31 | R$ 49.29 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 19 | R$ 245.01 |
 | 1398 | CERVEJA EISENBAHN 269ML | 18 | R$ 87.91 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 18 | R$ 232.02 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
+| 1395 | CERVEJA HEINEKEN 350ML | 17 | R$ 125.63 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
-| 1395 | CERVEJA HEINEKEN 350ML | 13 | R$ 96.07 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
@@ -70,6 +70,6 @@
 | 2026-09-10 | 43 | R$ 281.07 |
 | 2026-09-11 | 44 | R$ 324.96 |
 | 2026-09-12 | 39 | R$ 254.31 |
-| 2026-09-13 | 24 | R$ 156.36 |
+| 2026-09-13 | 40 | R$ 290.60 |
 
-*Última atualização: 13/09/2026 09:24:14*
+*Última atualização: 13/09/2026 13:42:36*

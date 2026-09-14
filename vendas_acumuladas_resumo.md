@@ -1,35 +1,35 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 968
+**Total de unidades vendidas:** 982
 
-**Valor total vendido:** R$ 7058.43
+**Valor total vendido:** R$ 7184.89
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 265 | R$ 1243.50 |
-| BEBIDA NÃO ALCÓLICA | 252 | R$ 2471.57 |
+| DOCES | 269 | R$ 1261.66 |
+| BEBIDA NÃO ALCÓLICA | 256 | R$ 2516.93 |
 | BEBIDA ALCÓLICA | 175 | R$ 1008.34 |
-| MERCEARIA | 117 | R$ 933.58 |
-| SALGADOS E SNACKS | 52 | R$ 305.86 |
+| MERCEARIA | 118 | R$ 940.57 |
+| SALGADOS E SNACKS | 53 | R$ 311.85 |
+| ARTESANAIS | 28 | R$ 252.72 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| ARTESANAIS | 26 | R$ 220.74 |
 | HIGIENE E LIMPEZA | 17 | R$ 232.11 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 10 | R$ 57.40 |
 | LINHA FIT | 7 | R$ 29.42 |
 | FRIOS E CONGELADOS | 6 | R$ 58.84 |
-| GELATOS | 4 | R$ 28.96 |
+| GELATOS | 6 | R$ 46.94 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 42 | R$ 196.98 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 39 | R$ 503.01 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 41 | R$ 528.99 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 132 | PACOQUITA SANTA HELENA 20G | 34 | R$ 54.06 |
+| 132 | PACOQUITA SANTA HELENA 20G | 35 | R$ 55.65 |
 | 236 | BALA DE GOMA IOGURTE 32G | 31 | R$ 61.69 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 23 | R$ 296.97 |
@@ -45,7 +45,7 @@
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 10 | R$ 54.90 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 10 | R$ 34.90 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 9 | R$ 103.41 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 10 | R$ 114.90 |
 
 ## 📅 Vendas por Dia
 
@@ -71,6 +71,6 @@
 | 2026-09-10 | 43 | R$ 281.07 |
 | 2026-09-11 | 44 | R$ 324.96 |
 | 2026-09-12 | 39 | R$ 254.31 |
-| 2026-09-13 | 73 | R$ 529.87 |
+| 2026-09-13 | 87 | R$ 656.33 |
 
-*Última atualização: 13/09/2026 20:43:32*
+*Última atualização: 13/09/2026 23:03:08*

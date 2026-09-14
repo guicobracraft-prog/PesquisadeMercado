@@ -1,0 +1,73 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-13
+======================================================================
+
+Total de unidades vendidas: 87
+Valor total vendido: R$ 656.33
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1395   CERVEJA HEINEKEN 350ML                       8     R$ 59.12
+1511   CERVEJA PURO MALTE AMSTEL 269ML              7     R$ 32.83
+1347   CHOCOLATE KINDER BUENO WHITE 39G             5     R$ 54.95
+1420   REFRIGERANTE COCA COLA 2L                    5     R$ 64.95
+236    BALA DE GOMA IOGURTE 32G                     4      R$ 7.96
+132    PACOQUITA SANTA HELENA 20G                   4      R$ 6.36
+288    AGUA MINERAL COM GAS INDAIA 500ML            3     R$ 10.47
+1731   SMIRNOFF ICE  275ML                          3     R$ 23.07
+1464   REFRIGERANTE COCA COLA ZERO  2L              3     R$ 38.97
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              3     R$ 20.37
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 3.98
+1725   SALGADINHO QUEIJO SKINY 60G                  2     R$ 11.98
+1377   QUEIJO RALADO LEITBOM 50G                    2     R$ 13.98
+1728   CREME DE LEITE ITALAC 200G                   2      R$ 7.98
+155    PICOLE MORANGO                               2      R$ 9.98
+281    BALA MENTOS FANTA LARANJA 37,5G              2      R$ 5.98
+1344   PAO DE FORMA TRADICIONAL VISCONTI 400G       2     R$ 19.98
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      2     R$ 22.98
+291    SANDUICHE NATURAL SABORES SOFT 120G          2     R$ 31.98
+126    PICOLE SABORITO                              2     R$ 17.98
+70     GATORADE UVA 500ML                           1      R$ 8.49
+1537   BALA FINI AMORAS 100G                        1      R$ 7.49
+270    DETERGENTE LIMAO MINUANO 500ML               1      R$ 3.69
+165    SALGADINHO TORCIDA BACON 60G                 1      R$ 3.89
+279    FLOCAO DE MILHO TIO EMILIO 400G              1      R$ 2.39
+90     BISCOITO BONO DOCE DE LEITE 90G              1      R$ 5.29
+227    BEBIDA PROTEICA CHOCOLATE PARMALAT 250..     1     R$ 11.19
+1454   SUCO DE MANGA NUTRI 1L                       1      R$ 6.99
+205    ENERGETICO MANGO MONSTER 473ML               1     R$ 13.99
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 13.99
+1405   AZEITE EXTRA VIRGEM ANDORINHA 250ML          1     R$ 22.99
+43     SUCO DE LARANJA DAFRUTA 1L                   1      R$ 6.99
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+1520   CHOCOLATE ALPINO NESTLE 80G                  1     R$ 11.99
+151    PICOLE CHOCOLATE                             1      R$ 4.99
+1463   PAO DE ALHO CALABRESA PRADELLA 400G          1     R$ 15.89
+298    BOMBOM DE SORVETE SABORES                    1     R$ 13.99
+1668   COPO DESCARTAVEL COPO BOM 180ML              1      R$ 7.49
+54     REFRIGERANTE FANTA LARANJA 310ML             1      R$ 5.49
+1398   CERVEJA EISENBAHN 269ML                      1      R$ 4.89
+1593   AGUA MINERAL NATURAL MARIZA 500ML            1      R$ 3.49
+213    H2O LIMAO 500ML                              1      R$ 7.89
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         23    R$ 222.87
+DOCES                                       23    R$ 124.37
+BEBIDA ALCÓLICA                             19    R$ 119.91
+MERCEARIA                                    8     R$ 67.32
+GELATOS                                      6     R$ 46.94
+SALGADOS E SNACKS                            3     R$ 15.87
+ARTESANAIS                                   2     R$ 31.98
+HIGIENE E LIMPEZA                            1      R$ 3.69
+FRIOS E CONGELADOS                           1     R$ 15.89
+DESCARTÁVEIS E UTILIDADES                    1      R$ 7.49
+----------------------------------------------------------------------
+
+Gerado em: 14/09/2026 05:11:47
+======================================================================

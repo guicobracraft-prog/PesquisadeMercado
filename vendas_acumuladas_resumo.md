@@ -1,21 +1,21 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 989
+**Total de unidades vendidas:** 999
 
-**Valor total vendido:** R$ 7253.52
+**Valor total vendido:** R$ 7315.52
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 269 | R$ 1261.66 |
-| BEBIDA NÃO ALCÓLICA | 261 | R$ 2566.88 |
-| BEBIDA ALCÓLICA | 175 | R$ 1008.34 |
+| DOCES | 270 | R$ 1265.65 |
+| BEBIDA NÃO ALCÓLICA | 263 | R$ 2575.86 |
+| BEBIDA ALCÓLICA | 181 | R$ 1036.48 |
 | MERCEARIA | 118 | R$ 940.57 |
 | SALGADOS E SNACKS | 53 | R$ 311.85 |
 | ARTESANAIS | 28 | R$ 252.72 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| HIGIENE E LIMPEZA | 17 | R$ 232.11 |
+| HIGIENE E LIMPEZA | 18 | R$ 253.00 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 10 | R$ 57.40 |
 | FRIOS E CONGELADOS | 8 | R$ 77.52 |
@@ -26,7 +26,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 42 | R$ 196.98 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 48 | R$ 225.12 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 41 | R$ 528.99 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 132 | PACOQUITA SANTA HELENA 20G | 35 | R$ 55.65 |
@@ -41,10 +41,10 @@
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 11 | R$ 60.39 |
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 11 | R$ 38.39 |
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
-| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 10 | R$ 34.90 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 10 | R$ 114.90 |
 
 ## 📅 Vendas por Dia
@@ -72,6 +72,6 @@
 | 2026-09-11 | 44 | R$ 324.96 |
 | 2026-09-12 | 39 | R$ 254.31 |
 | 2026-09-13 | 87 | R$ 656.33 |
-| 2026-09-14 | 7 | R$ 68.63 |
+| 2026-09-14 | 17 | R$ 130.63 |
 
-*Última atualização: 14/09/2026 16:59:13*
+*Última atualização: 14/09/2026 19:57:14*

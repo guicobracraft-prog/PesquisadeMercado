@@ -1,24 +1,24 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1004
+**Total de unidades vendidas:** 1019
 
-**Valor total vendido:** R$ 7366.67
+**Valor total vendido:** R$ 7482.82
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 270 | R$ 1265.65 |
-| BEBIDA NÃO ALCÓLICA | 265 | R$ 2590.74 |
-| BEBIDA ALCÓLICA | 181 | R$ 1036.48 |
-| MERCEARIA | 118 | R$ 940.57 |
+| DOCES | 272 | R$ 1269.63 |
+| BEBIDA NÃO ALCÓLICA | 267 | R$ 2616.72 |
+| BEBIDA ALCÓLICA | 190 | R$ 1102.99 |
+| MERCEARIA | 119 | R$ 946.26 |
 | SALGADOS E SNACKS | 53 | R$ 311.85 |
 | ARTESANAIS | 28 | R$ 252.72 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | HIGIENE E LIMPEZA | 18 | R$ 253.00 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 10 | R$ 57.40 |
-| FRIOS E CONGELADOS | 9 | R$ 87.81 |
+| FRIOS E CONGELADOS | 10 | R$ 101.80 |
 | GELATOS | 8 | R$ 72.92 |
 | LINHA FIT | 7 | R$ 29.42 |
 
@@ -27,13 +27,13 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 48 | R$ 225.12 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 41 | R$ 528.99 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 42 | R$ 541.98 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 132 | PACOQUITA SANTA HELENA 20G | 35 | R$ 55.65 |
 | 236 | BALA DE GOMA IOGURTE 32G | 31 | R$ 61.69 |
+| 1395 | CERVEJA HEINEKEN 350ML | 30 | R$ 221.70 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 24 | R$ 309.96 |
-| 1395 | CERVEJA HEINEKEN 350ML | 21 | R$ 155.19 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 25 | R$ 322.95 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
@@ -42,10 +42,10 @@
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 11 | R$ 60.39 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 11 | R$ 38.39 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 11 | R$ 21.89 |
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 | 1511 | AMSTEL PURO MALTE LATA 269ML AMSTEL PRIMÁRIA | 10 | R$ 46.90 |
 | 1395 | CERVEJA HEINEKEN LATA 350ML | 10 | R$ 73.90 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 10 | R$ 114.90 |
 
 ## 📅 Vendas por Dia
 
@@ -73,5 +73,6 @@
 | 2026-09-12 | 39 | R$ 254.31 |
 | 2026-09-13 | 87 | R$ 656.33 |
 | 2026-09-14 | 22 | R$ 181.78 |
+| 2026-09-15 | 15 | R$ 116.15 |
 
-*Última atualização: 14/09/2026 22:07:07*
+*Última atualização: 15/09/2026 03:53:02*

@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1064
+**Total de unidades vendidas:** 1065
 
-**Valor total vendido:** R$ 7847.07
+**Valor total vendido:** R$ 7857.66
 
 ## 🏷️ Vendas por Categoria
 
@@ -16,7 +16,7 @@
 | ARTESANAIS | 28 | R$ 252.72 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | HIGIENE E LIMPEZA | 19 | R$ 266.99 |
-| FRIOS E CONGELADOS | 12 | R$ 131.18 |
+| FRIOS E CONGELADOS | 13 | R$ 141.77 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 10 | R$ 57.40 |
 | LINHA FIT | 8 | R$ 33.41 |
@@ -74,6 +74,6 @@
 | 2026-09-13 | 87 | R$ 656.33 |
 | 2026-09-14 | 22 | R$ 181.78 |
 | 2026-09-15 | 33 | R$ 303.97 |
-| 2026-09-16 | 27 | R$ 176.43 |
+| 2026-09-16 | 28 | R$ 187.02 |
 
-*Última atualização: 16/09/2026 04:58:42*
+*Última atualização: 16/09/2026 10:07:22*

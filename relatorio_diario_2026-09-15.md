@@ -1,0 +1,40 @@
+# 📊 Relatório Diário de Vendas - 2026-09-15
+
+**Total de unidades vendidas:** 33
+**Valor total vendido:** R$ 303.97
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1395 | CERVEJA HEINEKEN 350ML | 9 | R$ 66.51 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 3 | R$ 38.97 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 2 | R$ 25.98 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 2 | R$ 3.98 |
+| 1342 | PAO BISNAGUINHA VISCONTI 240G | 2 | R$ 16.38 |
+| 236 | BALA DE GOMA IOGURTE 32G | 2 | R$ 3.98 |
+| 1332 | CREME DE AVELA NUTELLA 350G | 2 | R$ 69.98 |
+| 1472 | MACARRAO INSTANTANEO GALINHA SUAVE RENATA 85G | 2 | R$ 4.78 |
+| 1481 | TEMPERO PAPRICA DEFUMADA CHEF | 1 | R$ 5.69 |
+| 1701 | CHEESEBURGUER MONTANA PERDIGAO 145G | 1 | R$ 13.99 |
+| 1499 | BISCOITO BONO CHOCOLATE 90G | 1 | R$ 5.29 |
+| 1486 | SABÃO EM  PO MINUANO ROXO 800G | 1 | R$ 13.99 |
+| 1700 | TIRINHAS DE FRANGO AURORA 275G | 1 | R$ 12.89 |
+| 132 | PACOQUITA SANTA HELENA 20G | 1 | R$ 1.59 |
+| 1688 | CERVEJA BRAHMA SEM ALCOOL 350ML | 1 | R$ 5.99 |
+| 105 | MIX NUTS 30G | 1 | R$ 3.99 |
+| 1344 | PAO DE FORMA TRADICIONAL VISCONTI 400G | 1 | R$ 9.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA ALCÓLICA | 10 | R$ 72.50 |
+| MERCEARIA | 8 | R$ 106.82 |
+| DOCES | 6 | R$ 14.84 |
+| BEBIDA NÃO ALCÓLICA | 5 | R$ 64.95 |
+| FRIOS E CONGELADOS | 2 | R$ 26.88 |
+| HIGIENE E LIMPEZA | 1 | R$ 13.99 |
+| LINHA FIT | 1 | R$ 3.99 |
+
+*Gerado em 16/09/2026 04:58:42*

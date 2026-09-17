@@ -1,0 +1,43 @@
+# 📊 Relatório Diário de Vendas - 2026-09-16
+
+**Total de unidades vendidas:** 44
+**Valor total vendido:** R$ 282.66
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 22 | R$ 103.18 |
+| 82 | AMENDOIM JAPONES DORI 75G | 3 | R$ 18.57 |
+| 1704 | BEBIDA MISTA ABSOLUT VODKA SPRITE 269ML | 2 | R$ 17.98 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 2 | R$ 25.98 |
+| 155 | PICOLE MORANGO | 2 | R$ 9.98 |
+| 1509 | LASANHA BOLONHESA FORNO DE MINAS 600G | 1 | R$ 16.49 |
+| 1637 | MILHO PARA PIPOCA PREMIUM KICALDO 500G | 1 | R$ 4.49 |
+| 1725 | SALGADINHO QUEIJO SKINY 60G | 1 | R$ 5.99 |
+| 252 | TORRONE COM AMENDOIM 45G | 1 | R$ 4.49 |
+| 1724 | SALGADINHO PRESUNTO SKINY 60G | 1 | R$ 5.99 |
+| 1540 | MARSHAMALLOW FINI 80G | 1 | R$ 7.49 |
+| 53 | LEITE INTEGRAL ITALAC 1L | 1 | R$ 7.99 |
+| 1445 | CREME DE QUEIJO TRADICIONAL QUATA 180G | 1 | R$ 10.59 |
+| 138 | PICOLE MALTINE | 1 | R$ 4.99 |
+| 152 | APARELHO DE BARBEAR FIAT LUX | 1 | R$ 4.99 |
+| 1428 | PILHA ELGIN  AA 04 UN | 1 | R$ 7.99 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 1 | R$ 11.49 |
+| 1486 | SABÃO EM  PO MINUANO ROXO 800G | 1 | R$ 13.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA ALCÓLICA | 24 | R$ 121.16 |
+| SALGADOS E SNACKS | 5 | R$ 30.55 |
+| BEBIDA NÃO ALCÓLICA | 3 | R$ 37.47 |
+| GELATOS | 3 | R$ 14.97 |
+| FRIOS E CONGELADOS | 2 | R$ 27.08 |
+| MERCEARIA | 2 | R$ 12.48 |
+| DOCES | 2 | R$ 11.98 |
+| HIGIENE E LIMPEZA | 2 | R$ 18.98 |
+| MATERIAIS ELETRONICOS | 1 | R$ 7.99 |
+
+*Gerado em 17/09/2026 05:04:09*

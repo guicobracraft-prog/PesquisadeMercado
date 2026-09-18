@@ -1,0 +1,54 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-17
+======================================================================
+
+Total de unidades vendidas: 33
+Valor total vendido: R$ 243.17
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML              5     R$ 23.45
+1395   CERVEJA HEINEKEN 350ML                       2     R$ 14.78
+1464   REFRIGERANTE COCA COLA ZERO  2L              2     R$ 25.98
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      2     R$ 22.98
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              2     R$ 13.58
+156    AGUA DE COCO MARI COCO 200ML                 2      R$ 9.98
+288    AGUA MINERAL COM GAS INDAIA 500ML            1      R$ 3.49
+1509   LASANHA BOLONHESA FORNO DE MINAS 600G        1     R$ 16.49
+1513   BALA FINI TUBES TROLLS 80G                   1      R$ 7.49
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 4.49
+50     BARRA DE CEREAL BOLO DE CHOCOLATE NUTR..     1      R$ 2.89
+18     CHOCOLATE LOLLO NESTLE 28G                   1      R$ 4.69
+151    PICOLE CHOCOLATE                             1      R$ 4.99
+150    PICOLE DOCE DE LEITE                         1      R$ 4.99
+1537   BALA FINI AMORAS 100G                        1      R$ 7.49
+1339   FERMENTO QUIMICO APTI 100G                   1      R$ 4.99
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 13.99
+1574   AGUA DE COCO  PURO COCO 1L                   1     R$ 12.99
+1407   REFRIGERANTE GUARANA ANTARCTICA 350ML        1      R$ 5.49
+291    SANDUICHE NATURAL SABORES SOFT 120G          1     R$ 15.99
+1593   AGUA MINERAL NATURAL MARIZA 500ML            1      R$ 3.49
+1725   SALGADINHO QUEIJO SKINY 60G                  1      R$ 5.99
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         13    R$ 110.87
+BEBIDA ALCÓLICA                              7     R$ 38.23
+DOCES                                        5     R$ 33.25
+MERCEARIA                                    2      R$ 9.48
+GELATOS                                      2      R$ 9.98
+FRIOS E CONGELADOS                           1     R$ 16.49
+LINHA FIT                                    1      R$ 2.89
+ARTESANAIS                                   1     R$ 15.99
+SALGADOS E SNACKS                            1      R$ 5.99
+----------------------------------------------------------------------
+
+Gerado em: 18/09/2026 03:48:33
+======================================================================

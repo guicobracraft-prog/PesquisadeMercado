@@ -1,16 +1,16 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1114
+**Total de unidades vendidas:** 1121
 
-**Valor total vendido:** R$ 8196.47
+**Valor total vendido:** R$ 8232.10
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 286 | R$ 2804.03 |
-| DOCES | 283 | R$ 1325.72 |
-| BEBIDA ALCÓLICA | 222 | R$ 1268.37 |
+| DOCES | 284 | R$ 1333.21 |
+| BEBIDA ALCÓLICA | 228 | R$ 1296.51 |
 | MERCEARIA | 130 | R$ 1069.35 |
 | SALGADOS E SNACKS | 59 | R$ 348.39 |
 | ARTESANAIS | 29 | R$ 268.71 |
@@ -27,7 +27,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 75 | R$ 351.75 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 81 | R$ 379.89 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 46 | R$ 593.94 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 132 | PACOQUITA SANTA HELENA 20G | 36 | R$ 57.24 |
@@ -77,5 +77,6 @@
 | 2026-09-15 | 33 | R$ 303.97 |
 | 2026-09-16 | 44 | R$ 282.66 |
 | 2026-09-17 | 33 | R$ 243.17 |
+| 2026-09-18 | 7 | R$ 35.63 |
 
-*Última atualização: 17/09/2026 22:54:00*
+*Última atualização: 18/09/2026 03:48:33*

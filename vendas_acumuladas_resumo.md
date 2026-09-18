@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1110
+**Total de unidades vendidas:** 1114
 
-**Valor total vendido:** R$ 8168.51
+**Valor total vendido:** R$ 8196.47
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 286 | R$ 2804.03 |
 | DOCES | 283 | R$ 1325.72 |
-| BEBIDA NÃO ALCÓLICA | 283 | R$ 2782.06 |
 | BEBIDA ALCÓLICA | 222 | R$ 1268.37 |
 | MERCEARIA | 130 | R$ 1069.35 |
-| SALGADOS E SNACKS | 58 | R$ 342.40 |
+| SALGADOS E SNACKS | 59 | R$ 348.39 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | HIGIENE E LIMPEZA | 21 | R$ 285.97 |
@@ -41,10 +41,10 @@
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 12 | R$ 41.88 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 12 | R$ 137.88 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 11 | R$ 80.08 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 11 | R$ 60.39 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 11 | R$ 126.39 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 11 | R$ 21.89 |
 | 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 
@@ -76,6 +76,6 @@
 | 2026-09-14 | 22 | R$ 181.78 |
 | 2026-09-15 | 33 | R$ 303.97 |
 | 2026-09-16 | 44 | R$ 282.66 |
-| 2026-09-17 | 29 | R$ 215.21 |
+| 2026-09-17 | 33 | R$ 243.17 |
 
-*Última atualização: 17/09/2026 20:11:58*
+*Última atualização: 17/09/2026 22:54:00*

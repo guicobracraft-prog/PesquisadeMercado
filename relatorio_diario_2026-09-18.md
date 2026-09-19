@@ -1,0 +1,41 @@
+# 📊 Relatório Diário de Vendas - 2026-09-18
+
+**Total de unidades vendidas:** 43
+**Valor total vendido:** R$ 272.17
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 17 | R$ 79.73 |
+| 126 | PICOLE SABORITO | 4 | R$ 35.96 |
+| 132 | PACOQUITA SANTA HELENA 20G | 3 | R$ 4.77 |
+| 72 | SUCO DE UVA DAFRUTA 1L | 2 | R$ 13.98 |
+| 298 | BOMBOM DE SORVETE SABORES | 2 | R$ 27.98 |
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 2 | R$ 6.98 |
+| 150 | PICOLE DOCE DE LEITE | 2 | R$ 9.98 |
+| 1538 | BALA FINI TUBES TWISTER 80G | 1 | R$ 7.49 |
+| 1317 | CAFE DO SITIO 250G | 1 | R$ 19.49 |
+| 205 | ENERGETICO MANGO MONSTER 473ML | 1 | R$ 13.99 |
+| 260 | MACARRAO PARAFUSO ARAGUAIA 500G | 1 | R$ 4.99 |
+| 54 | REFRIGERANTE FANTA LARANJA 310ML | 1 | R$ 5.49 |
+| 138 | PICOLE MALTINE | 1 | R$ 4.99 |
+| 1725 | SALGADINHO QUEIJO SKINY 60G | 1 | R$ 5.99 |
+| 1444 | QUEIJO MUSSARELA MANDAKA 150G | 1 | R$ 10.99 |
+| 1724 | SALGADINHO PRESUNTO SKINY 60G | 1 | R$ 5.99 |
+| 44 | H2O LIMONETO 500ML | 1 | R$ 7.89 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 1 | R$ 5.49 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA ALCÓLICA | 17 | R$ 79.73 |
+| GELATOS | 9 | R$ 78.91 |
+| BEBIDA NÃO ALCÓLICA | 8 | R$ 53.82 |
+| DOCES | 4 | R$ 12.26 |
+| MERCEARIA | 2 | R$ 24.48 |
+| SALGADOS E SNACKS | 2 | R$ 11.98 |
+| FRIOS E CONGELADOS | 1 | R$ 10.99 |
+
+*Gerado em 19/09/2026 04:02:22*

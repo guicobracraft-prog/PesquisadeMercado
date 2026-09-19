@@ -1,23 +1,23 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1171
+**Total de unidades vendidas:** 1184
 
-**Valor total vendido:** R$ 8544.90
+**Valor total vendido:** R$ 8659.43
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 295 | R$ 2869.34 |
+| BEBIDA NÃO ALCÓLICA | 296 | R$ 2874.83 |
 | DOCES | 293 | R$ 1360.12 |
-| BEBIDA ALCÓLICA | 240 | R$ 1355.49 |
-| MERCEARIA | 136 | R$ 1118.39 |
-| SALGADOS E SNACKS | 61 | R$ 360.37 |
+| BEBIDA ALCÓLICA | 247 | R$ 1399.58 |
+| MERCEARIA | 137 | R$ 1122.88 |
+| SALGADOS E SNACKS | 62 | R$ 376.36 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
+| GELATOS | 24 | R$ 204.76 |
 | HIGIENE E LIMPEZA | 22 | R$ 289.66 |
-| GELATOS | 22 | R$ 176.78 |
-| FRIOS E CONGELADOS | 15 | R$ 169.25 |
+| FRIOS E CONGELADOS | 16 | R$ 185.74 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 11 | R$ 64.39 |
 | LINHA FIT | 9 | R$ 36.30 |
@@ -31,8 +31,8 @@
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 46 | R$ 593.94 |
 | 132 | PACOQUITA SANTA HELENA 20G | 39 | R$ 62.01 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
+| 1395 | CERVEJA HEINEKEN 350ML | 36 | R$ 266.04 |
 | 236 | BALA DE GOMA IOGURTE 32G | 34 | R$ 67.66 |
-| 1395 | CERVEJA HEINEKEN 350ML | 33 | R$ 243.87 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 28 | R$ 361.92 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
@@ -45,8 +45,8 @@
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 12 | R$ 137.88 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 11 | R$ 80.08 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 11 | R$ 60.39 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 11 | R$ 21.89 |
-| 18 | CHOCOLATE LOLLO 28G | 10 | R$ 45.22 |
 
 ## 📅 Vendas por Dia
 
@@ -78,6 +78,6 @@
 | 2026-09-16 | 44 | R$ 282.66 |
 | 2026-09-17 | 33 | R$ 243.17 |
 | 2026-09-18 | 43 | R$ 272.17 |
-| 2026-09-19 | 14 | R$ 76.26 |
+| 2026-09-19 | 27 | R$ 190.79 |
 
-*Última atualização: 19/09/2026 13:08:24*
+*Última atualização: 19/09/2026 16:01:53*

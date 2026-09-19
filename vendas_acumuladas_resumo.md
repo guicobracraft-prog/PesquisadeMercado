@@ -1,23 +1,23 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1151
+**Total de unidades vendidas:** 1157
 
-**Valor total vendido:** R$ 8425.80
+**Valor total vendido:** R$ 8468.64
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 291 | R$ 2840.98 |
+| BEBIDA NÃO ALCÓLICA | 294 | R$ 2857.85 |
 | DOCES | 287 | R$ 1337.98 |
 | BEBIDA ALCÓLICA | 239 | R$ 1348.10 |
 | MERCEARIA | 132 | R$ 1093.83 |
-| SALGADOS E SNACKS | 60 | R$ 354.38 |
+| SALGADOS E SNACKS | 61 | R$ 360.37 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
+| GELATOS | 22 | R$ 176.78 |
 | HIGIENE E LIMPEZA | 21 | R$ 285.97 |
-| GELATOS | 21 | R$ 167.79 |
-| FRIOS E CONGELADOS | 14 | R$ 158.26 |
+| FRIOS E CONGELADOS | 15 | R$ 169.25 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 10 | R$ 57.40 |
 | LINHA FIT | 9 | R$ 36.30 |
@@ -40,7 +40,7 @@
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
-| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 13 | R$ 45.37 |
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 14 | R$ 48.86 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 12 | R$ 65.88 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 12 | R$ 137.88 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
@@ -77,6 +77,6 @@
 | 2026-09-15 | 33 | R$ 303.97 |
 | 2026-09-16 | 44 | R$ 282.66 |
 | 2026-09-17 | 33 | R$ 243.17 |
-| 2026-09-18 | 37 | R$ 229.33 |
+| 2026-09-18 | 43 | R$ 272.17 |
 
-*Última atualização: 18/09/2026 20:42:46*
+*Última atualização: 18/09/2026 22:58:58*

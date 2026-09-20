@@ -1,23 +1,23 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1254
+**Total de unidades vendidas:** 1261
 
-**Valor total vendido:** R$ 9160.17
+**Valor total vendido:** R$ 9211.00
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 311 | R$ 1408.64 |
+| DOCES | 313 | R$ 1412.62 |
 | BEBIDA NÃO ALCÓLICA | 310 | R$ 3030.99 |
-| BEBIDA ALCÓLICA | 264 | R$ 1507.55 |
-| MERCEARIA | 141 | R$ 1163.94 |
-| SALGADOS E SNACKS | 65 | R$ 388.73 |
+| BEBIDA ALCÓLICA | 266 | R$ 1521.53 |
+| MERCEARIA | 142 | R$ 1168.93 |
+| SALGADOS E SNACKS | 66 | R$ 394.72 |
 | GELATOS | 35 | R$ 290.65 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | HIGIENE E LIMPEZA | 22 | R$ 289.66 |
-| FRIOS E CONGELADOS | 18 | R$ 215.52 |
+| FRIOS E CONGELADOS | 19 | R$ 237.41 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 11 | R$ 64.39 |
 | LINHA FIT | 9 | R$ 36.30 |
@@ -33,7 +33,7 @@
 | 132 | PACOQUITA SANTA HELENA 20G | 46 | R$ 73.14 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 236 | BALA DE GOMA IOGURTE 32G | 35 | R$ 69.65 |
+| 236 | BALA DE GOMA IOGURTE 32G | 37 | R$ 73.63 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 31 | R$ 400.89 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
@@ -80,6 +80,6 @@
 | 2026-09-17 | 33 | R$ 243.17 |
 | 2026-09-18 | 43 | R$ 272.17 |
 | 2026-09-19 | 61 | R$ 395.11 |
-| 2026-09-20 | 36 | R$ 296.42 |
+| 2026-09-20 | 43 | R$ 347.25 |
 
-*Última atualização: 20/09/2026 16:08:36*
+*Última atualização: 20/09/2026 20:52:53*

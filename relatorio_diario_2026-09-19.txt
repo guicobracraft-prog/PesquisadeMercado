@@ -1,0 +1,62 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-19
+======================================================================
+
+Total de unidades vendidas: 61
+Valor total vendido: R$ 395.11
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1395   CERVEJA HEINEKEN 350ML                       8     R$ 59.12
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         8     R$ 43.84
+132    PACOQUITA SANTA HELENA 20G                   7     R$ 11.13
+1732   PIRULITO IOGURTE DORI 11,2G                  3      R$ 4.17
+298    BOMBOM DE SORVETE SABORES                    3     R$ 41.97
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           2     R$ 22.98
+1674   MACARRAO NISSIN CARNE 80G                    2      R$ 8.38
+1720   CERVEJA PURE GOLD STELLA ARTOIS 269ML        2     R$ 13.98
+200    SALGADINHO TORCIDA CHURRASCO 60G             2      R$ 7.78
+44     H2O LIMONETO 500ML                           2     R$ 15.78
+1458   CHOCOLATE CRUNCH NESTLE 80G                  1     R$ 11.99
+1310   PAPEL TOALHA CARREFOUR 2UN                   1      R$ 6.99
+1375   BATATA PALHA TRADICIONAL YOKI 105G           1     R$ 12.99
+236    BALA DE GOMA IOGURTE 32G                     1      R$ 1.99
+1735   DETERGENTE LIMAO LIMPOL 500ML                1      R$ 3.69
+38     PIPOCA DOCE IEIE 40G                         1      R$ 2.39
+260    MACARRAO PARAFUSO ARAGUAIA 500G              1      R$ 4.99
+279    FLOCAO DE MILHO TIO EMILIO 400G              1      R$ 2.39
+2      HALLS MELANCIA 28G                           1      R$ 2.99
+57     BATATA CREME E CEBOLA PRINGLES 109G          1     R$ 15.99
+190    REFRIGERANTE COCA COLA ZERO 310ML            1      R$ 5.49
+1534   LASANHA QUATRO QUEIJOS FORNO DE MINAS ..     1     R$ 16.49
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 4.49
+1671   LEITE CONDENSADO ITALAC 395G                 1      R$ 7.99
+1509   LASANHA BOLONHESA FORNO DE MINAS 600G        1     R$ 16.49
+1681   SALGADINHO YOKITOS CEBOLA 54G                1      R$ 4.59
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 12.99
+1739   BALA FINI OCEANITOS 80G                      1      R$ 7.49
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+1511   CERVEJA PURO MALTE AMSTEL 269ML              1      R$ 4.69
+1362   SAL GROSSO FAVORITO 1KG                      1      R$ 5.89
+1516   BALA FINI BANANAS 100G                       1      R$ 7.49
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             19    R$ 121.63
+DOCES                                       16     R$ 49.64
+MERCEARIA                                    8     R$ 47.12
+BEBIDA NÃO ALCÓLICA                          7     R$ 62.73
+SALGADOS E SNACKS                            4     R$ 28.36
+GELATOS                                      3     R$ 41.97
+FRIOS E CONGELADOS                           2     R$ 32.98
+DESCARTÁVEIS E UTILIDADES                    1      R$ 6.99
+HIGIENE E LIMPEZA                            1      R$ 3.69
+----------------------------------------------------------------------
+
+Gerado em: 20/09/2026 04:58:29
+======================================================================

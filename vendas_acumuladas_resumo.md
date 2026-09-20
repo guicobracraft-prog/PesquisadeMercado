@@ -1,21 +1,21 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1218
+**Total de unidades vendidas:** 1223
 
-**Valor total vendido:** R$ 8863.75
+**Valor total vendido:** R$ 8906.00
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 303 | R$ 1387.62 |
-| BEBIDA NÃO ALCÓLICA | 301 | R$ 2920.58 |
+| DOCES | 305 | R$ 1390.40 |
+| BEBIDA NÃO ALCÓLICA | 302 | R$ 2932.07 |
 | BEBIDA ALCÓLICA | 258 | R$ 1469.73 |
 | MERCEARIA | 140 | R$ 1140.95 |
 | SALGADOS E SNACKS | 65 | R$ 388.73 |
 | ARTESANAIS | 29 | R$ 268.71 |
+| GELATOS | 27 | R$ 246.73 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| GELATOS | 25 | R$ 218.75 |
 | HIGIENE E LIMPEZA | 22 | R$ 289.66 |
 | FRIOS E CONGELADOS | 17 | R$ 202.23 |
 | CARNES | 11 | R$ 188.43 |
@@ -46,7 +46,7 @@
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 11 | R$ 80.08 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 11 | R$ 60.39 |
-| 1400 | BALA DE GOMA FRUTAS DORI 32G | 11 | R$ 21.89 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 11 | R$ 126.39 |
 
 ## 📅 Vendas por Dia
 
@@ -79,5 +79,6 @@
 | 2026-09-17 | 33 | R$ 243.17 |
 | 2026-09-18 | 43 | R$ 272.17 |
 | 2026-09-19 | 61 | R$ 395.11 |
+| 2026-09-20 | 5 | R$ 42.25 |
 
-*Última atualização: 19/09/2026 23:02:13*
+*Última atualização: 20/09/2026 04:58:29*

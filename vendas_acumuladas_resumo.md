@@ -1,39 +1,40 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1224
+**Total de unidades vendidas:** 1254
 
-**Valor total vendido:** R$ 8918.99
+**Valor total vendido:** R$ 9160.17
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 305 | R$ 1390.40 |
-| BEBIDA NÃO ALCÓLICA | 303 | R$ 2945.06 |
-| BEBIDA ALCÓLICA | 258 | R$ 1469.73 |
-| MERCEARIA | 140 | R$ 1140.95 |
+| DOCES | 311 | R$ 1408.64 |
+| BEBIDA NÃO ALCÓLICA | 310 | R$ 3030.99 |
+| BEBIDA ALCÓLICA | 264 | R$ 1507.55 |
+| MERCEARIA | 141 | R$ 1163.94 |
 | SALGADOS E SNACKS | 65 | R$ 388.73 |
+| GELATOS | 35 | R$ 290.65 |
 | ARTESANAIS | 29 | R$ 268.71 |
-| GELATOS | 27 | R$ 246.73 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | HIGIENE E LIMPEZA | 22 | R$ 289.66 |
-| FRIOS E CONGELADOS | 17 | R$ 202.23 |
+| FRIOS E CONGELADOS | 18 | R$ 215.52 |
 | CARNES | 11 | R$ 188.43 |
 | DESCARTÁVEIS E UTILIDADES | 11 | R$ 64.39 |
 | LINHA FIT | 9 | R$ 36.30 |
 | MATERIAIS ELETRONICOS | 1 | R$ 7.99 |
+| CARNES E AVES | 1 | R$ 18.99 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 93 | R$ 436.17 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 47 | R$ 606.93 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 94 | R$ 440.86 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 50 | R$ 645.90 |
 | 132 | PACOQUITA SANTA HELENA 20G | 46 | R$ 73.14 |
-| 1395 | CERVEJA HEINEKEN 350ML | 40 | R$ 295.60 |
+| 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 236 | BALA DE GOMA IOGURTE 32G | 34 | R$ 67.66 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 29 | R$ 374.91 |
+| 236 | BALA DE GOMA IOGURTE 32G | 35 | R$ 69.65 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 31 | R$ 400.89 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
@@ -79,6 +80,6 @@
 | 2026-09-17 | 33 | R$ 243.17 |
 | 2026-09-18 | 43 | R$ 272.17 |
 | 2026-09-19 | 61 | R$ 395.11 |
-| 2026-09-20 | 6 | R$ 55.24 |
+| 2026-09-20 | 36 | R$ 296.42 |
 
-*Última atualização: 20/09/2026 13:35:24*
+*Última atualização: 20/09/2026 16:08:36*

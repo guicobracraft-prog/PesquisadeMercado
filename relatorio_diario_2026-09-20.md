@@ -1,0 +1,48 @@
+# 📊 Relatório Diário de Vendas - 2026-09-20
+
+**Total de unidades vendidas:** 43
+**Valor total vendido:** R$ 347.25
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 151 | PICOLE CHOCOLATE | 5 | R$ 24.95 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 4 | R$ 5.56 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 3 | R$ 38.97 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 3 | R$ 38.97 |
+| 236 | BALA DE GOMA IOGURTE 32G | 3 | R$ 5.97 |
+| 1395 | CERVEJA HEINEKEN 350ML | 3 | R$ 22.17 |
+| 298 | BOMBOM DE SORVETE SABORES | 2 | R$ 27.98 |
+| 281 | BALA MENTOS FANTA LARANJA 37,5G | 2 | R$ 5.98 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 2 | R$ 10.96 |
+| 1720 | CERVEJA PURE GOLD STELLA ARTOIS 269ML | 2 | R$ 13.98 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 1 | R$ 11.49 |
+| 1687 | SUCO DE PESSEGO NUTRI 1L | 1 | R$ 6.99 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 1 | R$ 4.69 |
+| 1599 | FETTUCCINE COM PERU E BROCOLIS PERDIGAO 300G | 1 | R$ 13.29 |
+| 138 | PICOLE MALTINE | 1 | R$ 4.99 |
+| 1405 | AZEITE EXTRA VIRGEM ANDORINHA 250ML | 1 | R$ 22.99 |
+| 1513 | BALA FINI TUBES TROLLS 80G | 1 | R$ 7.49 |
+| 1438 | LINGUICA TOSCANA SUINA SEARA 600G | 1 | R$ 18.99 |
+| 155 | PICOLE MORANGO | 1 | R$ 4.99 |
+| 1467 | ENERGETICO ULTRA MONSTER 473ML | 1 | R$ 13.99 |
+| 126 | PICOLE SABORITO | 1 | R$ 8.99 |
+| 261 | MACARRAO ESPAGUETE SAFRA 500G | 1 | R$ 4.99 |
+| 1703 | PIZZA DE CALABRESA SEARA 460G | 1 | R$ 21.89 |
+| 1724 | SALGADINHO PRESUNTO SKINY 60G | 1 | R$ 5.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| GELATOS | 10 | R$ 71.90 |
+| DOCES | 10 | R$ 25.00 |
+| BEBIDA NÃO ALCÓLICA | 9 | R$ 110.41 |
+| BEBIDA ALCÓLICA | 8 | R$ 51.80 |
+| FRIOS E CONGELADOS | 2 | R$ 35.18 |
+| MERCEARIA | 2 | R$ 27.98 |
+| CARNES E AVES | 1 | R$ 18.99 |
+| SALGADOS E SNACKS | 1 | R$ 5.99 |
+
+*Gerado em 21/09/2026 05:17:20*

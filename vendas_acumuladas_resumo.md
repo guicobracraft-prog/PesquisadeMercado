@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1281
+**Total de unidades vendidas:** 1285
 
-**Valor total vendido:** R$ 9367.07
+**Valor total vendido:** R$ 9391.43
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 319 | R$ 1445.46 |
-| BEBIDA NÃO ALCÓLICA | 312 | R$ 3056.97 |
+| DOCES | 320 | R$ 1447.45 |
+| BEBIDA NÃO ALCÓLICA | 314 | R$ 3075.45 |
 | BEBIDA ALCÓLICA | 272 | R$ 1556.84 |
 | MERCEARIA | 143 | R$ 1176.92 |
-| SALGADOS E SNACKS | 67 | R$ 400.71 |
+| SALGADOS E SNACKS | 68 | R$ 404.60 |
 | GELATOS | 38 | R$ 332.62 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -29,7 +29,7 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 94 | R$ 440.86 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 51 | R$ 658.89 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 52 | R$ 671.88 |
 | 132 | PACOQUITA SANTA HELENA 20G | 46 | R$ 73.14 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
 | 236 | BALA DE GOMA IOGURTE 32G | 39 | R$ 77.61 |
@@ -42,10 +42,10 @@
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 14 | R$ 48.86 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 13 | R$ 25.87 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 13 | R$ 71.24 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 12 | R$ 65.88 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 12 | R$ 137.88 |
-| 1400 | BALA DE GOMA FRUTAS DORI 32G | 12 | R$ 23.88 |
 | 298 | BOMBOM DE SORVETE SABORES | 12 | R$ 167.88 |
 | 55 | REFRIGERANTE COCA COLA LATA 310ML | 11 | R$ 60.39 |
 
@@ -81,6 +81,6 @@
 | 2026-09-18 | 43 | R$ 272.17 |
 | 2026-09-19 | 61 | R$ 395.11 |
 | 2026-09-20 | 43 | R$ 347.25 |
-| 2026-09-21 | 20 | R$ 156.07 |
+| 2026-09-21 | 24 | R$ 180.43 |
 
-*Última atualização: 21/09/2026 12:24:53*
+*Última atualização: 21/09/2026 17:09:52*

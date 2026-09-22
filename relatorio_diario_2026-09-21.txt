@@ -1,0 +1,49 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-21
+======================================================================
+
+Total de unidades vendidas: 33
+Valor total vendido: R$ 243.92
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         5     R$ 27.40
+298    BOMBOM DE SORVETE SABORES                    3     R$ 41.97
+1394   ICE FRUIT MIX 51 275ML                       3     R$ 18.87
+236    BALA DE GOMA IOGURTE 32G                     2      R$ 3.98
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 3.98
+1667   TORRONE COM AMENDOIM 70G                     2      R$ 8.98
+1464   REFRIGERANTE COCA COLA ZERO  2L              2     R$ 25.98
+200    SALGADINHO TORCIDA CHURRASCO 60G             2      R$ 7.78
+1585   LAMPADA LED TKL 60 / 9W 6500K                1      R$ 5.99
+1629   CAIXA DE BOMBOM LACTA 250G                   1     R$ 20.99
+1732   PIRULITO IOGURTE DORI 11,2G                  1      R$ 1.39
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 12.99
+1724   SALGADINHO PRESUNTO SKINY 60G                1      R$ 5.99
+1485   PIPOCA DE MICROONDAS MANTEIGA DE CINEM..     1      R$ 7.99
+1407   REFRIGERANTE GUARANA ANTARCTICA 350ML        1      R$ 5.49
+165    SALGADINHO TORCIDA BACON 60G                 1      R$ 3.89
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1380   AMACIANTE CONCENTRADO DOWNY 500ML            1     R$ 17.79
+1719   CHOCOLATE SUFLAIR AO LEITE NESTLE 80G        1     R$ 11.99
+152    APARELHO DE BARBEAR FIAT LUX                 1      R$ 4.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        9     R$ 51.31
+BEBIDA ALCÓLICA                              8     R$ 46.27
+BEBIDA NÃO ALCÓLICA                          5     R$ 49.95
+SALGADOS E SNACKS                            4     R$ 17.66
+GELATOS                                      3     R$ 41.97
+HIGIENE E LIMPEZA                            2     R$ 22.78
+DESCARTÁVEIS E UTILIDADES                    1      R$ 5.99
+MERCEARIA                                    1      R$ 7.99
+----------------------------------------------------------------------
+
+Gerado em: 22/09/2026 05:00:10
+======================================================================

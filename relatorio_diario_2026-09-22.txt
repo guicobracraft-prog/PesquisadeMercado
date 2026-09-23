@@ -1,0 +1,58 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-22
+======================================================================
+
+Total de unidades vendidas: 40
+Valor total vendido: R$ 346.20
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML              5     R$ 23.45
+281    BALA MENTOS FANTA LARANJA 37,5G              2      R$ 5.98
+1674   MACARRAO NISSIN CARNE 80G                    2      R$ 8.38
+1368   ATUM RALADO MOLHO DE TOMATE 88 140G          2     R$ 23.98
+205    ENERGETICO MANGO MONSTER 473ML               2     R$ 27.98
+1732   PIRULITO IOGURTE DORI 11,2G                  2      R$ 2.78
+1344   PAO DE FORMA TRADICIONAL VISCONTI 400G       2     R$ 19.98
+53     LEITE INTEGRAL ITALAC 1L                     2     R$ 15.98
+1361   SAL REFINADO FAVORITO 1KG                    1      R$ 3.49
+1446   PRESUNTO AURORA 180G                         1     R$ 11.99
+44     H2O LIMONETO 500ML                           1      R$ 7.89
+1334   FAROFA TRADICIONAL YOKI 400G                 1     R$ 11.89
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+7      TRIDENT HORTELA 8G                           1      R$ 3.99
+1593   AGUA MINERAL NATURAL MARIZA 500ML            1      R$ 3.49
+68     GATORADE LARANJA 500ML                       1      R$ 8.49
+1308   PAPEL HIGIENICO DELICATTO 16UN               1     R$ 26.49
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+1509   LASANHA BOLONHESA FORNO DE MINAS 600G        1     R$ 16.49
+1700   TIRINHAS DE FRANGO AURORA 275G               1     R$ 12.89
+236    BALA DE GOMA IOGURTE 32G                     1      R$ 1.99
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 12.99
+1521   CHOCOLATE MEIO AMARGO NESTLE 80G             1     R$ 11.99
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           1     R$ 11.49
+288    AGUA MINERAL COM GAS INDAIA 500ML            1      R$ 3.49
+59     BATATA ORIGINAL PRINGLES 104G                1     R$ 15.99
+1329   FIO DENTAL MENTHA HILLO 50M                  1     R$ 10.89
+298    BOMBOM DE SORVETE SABORES                    1     R$ 13.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+MERCEARIA                                   10     R$ 83.70
+BEBIDA NÃO ALCÓLICA                         10     R$ 96.80
+DOCES                                        8     R$ 33.52
+BEBIDA ALCÓLICA                              5     R$ 23.45
+FRIOS E CONGELADOS                           3     R$ 41.37
+HIGIENE E LIMPEZA                            2     R$ 37.38
+SALGADOS E SNACKS                            1     R$ 15.99
+GELATOS                                      1     R$ 13.99
+----------------------------------------------------------------------
+
+Gerado em: 23/09/2026 05:02:35
+======================================================================

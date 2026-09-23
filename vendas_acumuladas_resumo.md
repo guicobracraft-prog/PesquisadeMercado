@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1345
+**Total de unidades vendidas:** 1349
 
-**Valor total vendido:** R$ 9907.21
+**Valor total vendido:** R$ 9947.17
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 334 | R$ 1516.81 |
-| BEBIDA NÃO ALCÓLICA | 327 | R$ 3194.22 |
-| BEBIDA ALCÓLICA | 279 | R$ 1591.25 |
+| BEBIDA NÃO ALCÓLICA | 329 | R$ 3214.20 |
+| BEBIDA ALCÓLICA | 280 | R$ 1597.24 |
 | MERCEARIA | 154 | R$ 1295.61 |
 | SALGADOS E SNACKS | 71 | R$ 428.37 |
-| GELATOS | 39 | R$ 346.61 |
+| GELATOS | 40 | R$ 360.60 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | HIGIENE E LIMPEZA | 29 | R$ 367.89 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -34,7 +34,7 @@
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
 | 236 | BALA DE GOMA IOGURTE 32G | 40 | R$ 79.60 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 34 | R$ 439.86 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 35 | R$ 452.85 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
@@ -43,8 +43,8 @@
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 15 | R$ 82.20 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
+| 298 | BOMBOM DE SORVETE SABORES | 14 | R$ 195.86 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 13 | R$ 25.87 |
-| 298 | BOMBOM DE SORVETE SABORES | 13 | R$ 181.87 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 12 | R$ 86.87 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 12 | R$ 65.88 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 12 | R$ 137.88 |
@@ -83,6 +83,6 @@
 | 2026-09-20 | 43 | R$ 347.25 |
 | 2026-09-21 | 33 | R$ 243.92 |
 | 2026-09-22 | 40 | R$ 346.20 |
-| 2026-09-23 | 11 | R$ 106.09 |
+| 2026-09-23 | 15 | R$ 146.05 |
 
-*Última atualização: 23/09/2026 15:02:44*
+*Última atualização: 23/09/2026 18:52:24*

@@ -1,0 +1,55 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-23
+======================================================================
+
+Total de unidades vendidas: 29
+Valor total vendido: R$ 242.31
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1420   REFRIGERANTE COCA COLA 2L                    3     R$ 38.97
+288    AGUA MINERAL COM GAS INDAIA 500ML            2      R$ 6.98
+1437   LINGUICA FRANGO COPACOL 700G                 1     R$ 17.19
+1538   BALA FINI TUBES TWISTER 80G                  1      R$ 7.49
+1401   SABONETE DE AMENDOAS JOHNSONS 80G            1      R$ 3.89
+1732   PIRULITO IOGURTE DORI 11,2G                  1      R$ 1.39
+281    BALA MENTOS FANTA LARANJA 37,5G              1      R$ 2.99
+152    APARELHO DE BARBEAR FIAT LUX                 1      R$ 4.99
+1539   BALA FINI DENTADURAS 100G                    1      R$ 7.49
+1332   CREME DE AVELA NUTELLA 350G                  1     R$ 34.99
+273    ESCOVA DENTAL COLGATE                        1      R$ 9.19
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              1      R$ 5.99
+1454   SUCO DE MANGA NUTRI 1L                       1      R$ 6.99
+298    BOMBOM DE SORVETE SABORES                    1     R$ 13.99
+1400   BALA DE GOMA FRUTAS DORI 32G                 1      R$ 1.99
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 12.99
+132    PACOQUITA SANTA HELENA 20G                   1      R$ 1.59
+44     H2O LIMONETO 500ML                           1      R$ 7.89
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+1682   WAFER MORANGO RANCHEIRO 78G                  1      R$ 3.79
+1728   CREME DE LEITE ITALAC 200G                   1      R$ 3.99
+1503   WAFER CHOCOLATE RANCHEIRO 78G                1      R$ 3.79
+1740   MARSHAMALLOW FINI MORANGO 60G                1      R$ 7.49
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1409   FILE DE PEITO CANCAO 1KG                     1     R$ 19.89
+200    SALGADINHO TORCIDA CHURRASCO 60G             1      R$ 3.89
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         10     R$ 86.30
+DOCES                                        9     R$ 38.01
+HIGIENE E LIMPEZA                            3     R$ 18.07
+CARNES E AVES                                2     R$ 37.08
+MERCEARIA                                    2     R$ 38.98
+BEBIDA ALCÓLICA                              1      R$ 5.99
+GELATOS                                      1     R$ 13.99
+SALGADOS E SNACKS                            1      R$ 3.89
+----------------------------------------------------------------------
+
+Gerado em: 24/09/2026 02:36:33
+======================================================================

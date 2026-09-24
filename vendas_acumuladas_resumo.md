@@ -1,23 +1,23 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1363
+**Total de unidades vendidas:** 1373
 
-**Valor total vendido:** R$ 10043.43
+**Valor total vendido:** R$ 10137.32
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 339 | R$ 1535.46 |
+| DOCES | 342 | R$ 1563.43 |
 | BEBIDA NÃO ALCÓLICA | 335 | R$ 3264.04 |
-| BEBIDA ALCÓLICA | 280 | R$ 1597.24 |
-| MERCEARIA | 155 | R$ 1299.60 |
-| SALGADOS E SNACKS | 72 | R$ 432.26 |
+| BEBIDA ALCÓLICA | 283 | R$ 1613.70 |
+| MERCEARIA | 157 | R$ 1322.08 |
+| SALGADOS E SNACKS | 73 | R$ 448.25 |
 | GELATOS | 40 | R$ 360.60 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | HIGIENE E LIMPEZA | 29 | R$ 367.89 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| FRIOS E CONGELADOS | 22 | R$ 278.78 |
+| FRIOS E CONGELADOS | 23 | R$ 289.77 |
 | DESCARTÁVEIS E UTILIDADES | 12 | R$ 70.38 |
 | CARNES | 11 | R$ 188.43 |
 | LINHA FIT | 9 | R$ 36.30 |
@@ -28,7 +28,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 99 | R$ 464.31 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 100 | R$ 469.00 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 53 | R$ 684.87 |
 | 132 | PACOQUITA SANTA HELENA 20G | 47 | R$ 74.73 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
@@ -40,7 +40,7 @@
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 17 | R$ 59.33 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 15 | R$ 82.20 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 16 | R$ 87.68 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 14 | R$ 27.86 |
@@ -84,5 +84,6 @@
 | 2026-09-21 | 33 | R$ 243.92 |
 | 2026-09-22 | 40 | R$ 346.20 |
 | 2026-09-23 | 29 | R$ 242.31 |
+| 2026-09-24 | 10 | R$ 93.89 |
 
-*Última atualização: 24/09/2026 02:36:33*
+*Última atualização: 24/09/2026 07:39:25*

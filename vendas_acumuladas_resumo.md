@@ -1,16 +1,16 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1393
+**Total de unidades vendidas:** 1396
 
-**Valor total vendido:** R$ 10333.12
+**Valor total vendido:** R$ 10359.28
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 347 | R$ 1593.78 |
-| BEBIDA NÃO ALCÓLICA | 342 | R$ 3332.47 |
-| BEBIDA ALCÓLICA | 284 | R$ 1653.69 |
+| BEBIDA NÃO ALCÓLICA | 343 | R$ 3345.46 |
+| BEBIDA ALCÓLICA | 286 | R$ 1666.86 |
 | MERCEARIA | 161 | R$ 1344.84 |
 | SALGADOS E SNACKS | 74 | R$ 464.24 |
 | GELATOS | 41 | R$ 365.59 |
@@ -33,14 +33,14 @@
 | 132 | PACOQUITA SANTA HELENA 20G | 47 | R$ 74.73 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
 | 236 | BALA DE GOMA IOGURTE 32G | 40 | R$ 79.60 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 37 | R$ 478.83 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 38 | R$ 491.82 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 18 | R$ 62.82 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 16 | R$ 87.68 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 17 | R$ 93.16 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 14 | R$ 27.86 |
@@ -85,6 +85,6 @@
 | 2026-09-22 | 40 | R$ 346.20 |
 | 2026-09-23 | 29 | R$ 242.31 |
 | 2026-09-24 | 16 | R$ 154.03 |
-| 2026-09-25 | 14 | R$ 135.66 |
+| 2026-09-25 | 17 | R$ 161.82 |
 
-*Última atualização: 25/09/2026 02:52:05*
+*Última atualização: 25/09/2026 07:42:46*

@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1398
+**Total de unidades vendidas:** 1404
 
-**Valor total vendido:** R$ 10376.96
+**Valor total vendido:** R$ 10418.80
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 347 | R$ 1593.78 |
-| BEBIDA NÃO ALCÓLICA | 343 | R$ 3345.46 |
+| DOCES | 349 | R$ 1607.16 |
+| BEBIDA NÃO ALCÓLICA | 345 | R$ 3363.94 |
 | BEBIDA ALCÓLICA | 286 | R$ 1666.86 |
 | MERCEARIA | 161 | R$ 1344.84 |
 | SALGADOS E SNACKS | 74 | R$ 464.24 |
-| GELATOS | 41 | R$ 365.59 |
+| GELATOS | 43 | R$ 375.57 |
 | HIGIENE E LIMPEZA | 31 | R$ 385.57 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -46,8 +46,8 @@
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 14 | R$ 27.86 |
 | 298 | BOMBOM DE SORVETE SABORES | 14 | R$ 195.86 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 13 | R$ 149.37 |
-| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 12 | R$ 86.87 |
-| 54 | REFRIGERANTE FANTA LARANJA 310ML | 12 | R$ 65.88 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 13 | R$ 149.37 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 13 | R$ 18.07 |
 
 ## 📅 Vendas por Dia
 
@@ -85,6 +85,6 @@
 | 2026-09-22 | 40 | R$ 346.20 |
 | 2026-09-23 | 29 | R$ 242.31 |
 | 2026-09-24 | 16 | R$ 154.03 |
-| 2026-09-25 | 19 | R$ 179.50 |
+| 2026-09-25 | 25 | R$ 221.34 |
 
-*Última atualização: 25/09/2026 12:37:55*
+*Última atualização: 25/09/2026 16:38:49*

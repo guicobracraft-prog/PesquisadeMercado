@@ -1,20 +1,20 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1456
+**Total de unidades vendidas:** 1482
 
-**Valor total vendido:** R$ 10837.92
+**Valor total vendido:** R$ 11010.26
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 360 | R$ 3555.79 |
-| DOCES | 356 | R$ 1655.99 |
-| BEBIDA ALCÓLICA | 303 | R$ 1756.93 |
+| BEBIDA NÃO ALCÓLICA | 369 | R$ 3620.90 |
+| DOCES | 361 | R$ 1669.64 |
+| BEBIDA ALCÓLICA | 306 | R$ 1773.30 |
 | MERCEARIA | 163 | R$ 1357.02 |
-| SALGADOS E SNACKS | 79 | R$ 495.79 |
-| GELATOS | 45 | R$ 385.55 |
-| HIGIENE E LIMPEZA | 31 | R$ 385.57 |
+| SALGADOS E SNACKS | 84 | R$ 544.04 |
+| GELATOS | 48 | R$ 400.52 |
+| HIGIENE E LIMPEZA | 32 | R$ 399.56 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E CONGELADOS | 27 | R$ 329.73 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -28,7 +28,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 108 | R$ 506.52 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 110 | R$ 515.90 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 55 | R$ 710.85 |
 | 132 | PACOQUITA SANTA HELENA 20G | 49 | R$ 77.91 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
@@ -41,13 +41,13 @@
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 18 | R$ 62.82 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 16 | R$ 22.24 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 15 | R$ 172.35 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 15 | R$ 29.85 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
-| 1400 | BALA DE GOMA FRUTAS DORI 32G | 14 | R$ 27.86 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 14 | R$ 160.86 |
 | 298 | BOMBOM DE SORVETE SABORES | 14 | R$ 195.86 |
-| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 13 | R$ 149.37 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 13 | R$ 18.07 |
 
 ## 📅 Vendas por Dia
 
@@ -86,6 +86,6 @@
 | 2026-09-23 | 29 | R$ 242.31 |
 | 2026-09-24 | 16 | R$ 154.03 |
 | 2026-09-25 | 43 | R$ 395.56 |
-| 2026-09-26 | 34 | R$ 244.90 |
+| 2026-09-26 | 60 | R$ 417.24 |
 
-*Última atualização: 26/09/2026 18:40:31*
+*Última atualização: 26/09/2026 20:59:18*

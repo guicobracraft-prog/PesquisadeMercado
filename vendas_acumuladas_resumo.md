@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1414
+**Total de unidades vendidas:** 1422
 
-**Valor total vendido:** R$ 10526.50
+**Valor total vendido:** R$ 10593.02
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 350 | R$ 3443.89 |
-| DOCES | 349 | R$ 1607.16 |
+| BEBIDA NÃO ALCÓLICA | 352 | R$ 3468.37 |
+| DOCES | 351 | R$ 1619.34 |
 | BEBIDA ALCÓLICA | 286 | R$ 1666.86 |
 | MERCEARIA | 161 | R$ 1344.84 |
-| SALGADOS E SNACKS | 77 | R$ 475.91 |
-| GELATOS | 43 | R$ 375.57 |
+| SALGADOS E SNACKS | 79 | R$ 495.79 |
+| GELATOS | 45 | R$ 385.55 |
 | HIGIENE E LIMPEZA | 31 | R$ 385.57 |
 | ARTESANAIS | 29 | R$ 268.71 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -29,7 +29,7 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 100 | R$ 469.00 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 53 | R$ 684.87 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 54 | R$ 697.86 |
 | 132 | PACOQUITA SANTA HELENA 20G | 47 | R$ 74.73 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
 | 236 | BALA DE GOMA IOGURTE 32G | 40 | R$ 79.60 |
@@ -43,10 +43,10 @@
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 17 | R$ 93.16 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 14 | R$ 160.86 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 14 | R$ 27.86 |
 | 298 | BOMBOM DE SORVETE SABORES | 14 | R$ 195.86 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 13 | R$ 149.37 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 13 | R$ 149.37 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 13 | R$ 18.07 |
 
 ## 📅 Vendas por Dia
@@ -85,6 +85,6 @@
 | 2026-09-22 | 40 | R$ 346.20 |
 | 2026-09-23 | 29 | R$ 242.31 |
 | 2026-09-24 | 16 | R$ 154.03 |
-| 2026-09-25 | 35 | R$ 329.04 |
+| 2026-09-25 | 43 | R$ 395.56 |
 
-*Última atualização: 25/09/2026 19:53:56*
+*Última atualização: 25/09/2026 22:01:17*

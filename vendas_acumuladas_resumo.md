@@ -1,24 +1,24 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1431
+**Total de unidades vendidas:** 1446
 
-**Valor total vendido:** R$ 10663.43
+**Valor total vendido:** R$ 10753.92
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 355 | R$ 3491.34 |
 | DOCES | 354 | R$ 1652.81 |
-| BEBIDA NÃO ALCÓLICA | 353 | R$ 3481.36 |
-| BEBIDA ALCÓLICA | 290 | R$ 1685.62 |
+| BEBIDA ALCÓLICA | 301 | R$ 1747.55 |
 | MERCEARIA | 162 | R$ 1350.03 |
 | SALGADOS E SNACKS | 79 | R$ 495.79 |
 | GELATOS | 45 | R$ 385.55 |
 | HIGIENE E LIMPEZA | 31 | R$ 385.57 |
 | ARTESANAIS | 29 | R$ 268.71 |
+| FRIOS E CONGELADOS | 27 | R$ 329.73 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| FRIOS E CONGELADOS | 26 | R$ 319.14 |
-| DESCARTÁVEIS E UTILIDADES | 12 | R$ 70.38 |
+| DESCARTÁVEIS E UTILIDADES | 13 | R$ 78.37 |
 | CARNES | 11 | R$ 188.43 |
 | LINHA FIT | 9 | R$ 36.30 |
 | CARNES E AVES | 3 | R$ 56.07 |
@@ -28,7 +28,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 104 | R$ 487.76 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 106 | R$ 497.14 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 54 | R$ 697.86 |
 | 132 | PACOQUITA SANTA HELENA 20G | 47 | R$ 74.73 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
@@ -36,11 +36,11 @@
 | 1420 | REFRIGERANTE COCA COLA 2L | 39 | R$ 504.81 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 23 | R$ 126.04 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 18 | R$ 62.82 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
 | 132 | PAÇOQUITA SANTA HELENA 20G | 17 | R$ 28.98 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 17 | R$ 93.16 |
 | 1400 | BALA DE GOMA FRUTAS 32G | 14 | R$ 27.56 |
 | 1347 | CHOCOLATE KINDER BUENO WHITE 39G | 14 | R$ 153.86 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 14 | R$ 160.86 |
@@ -86,6 +86,6 @@
 | 2026-09-23 | 29 | R$ 242.31 |
 | 2026-09-24 | 16 | R$ 154.03 |
 | 2026-09-25 | 43 | R$ 395.56 |
-| 2026-09-26 | 9 | R$ 70.41 |
+| 2026-09-26 | 24 | R$ 160.90 |
 
-*Última atualização: 26/09/2026 08:54:04*
+*Última atualização: 26/09/2026 12:15:21*

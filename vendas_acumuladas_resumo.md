@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1422
+**Total de unidades vendidas:** 1431
 
-**Valor total vendido:** R$ 10593.02
+**Valor total vendido:** R$ 10663.43
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 352 | R$ 3468.37 |
-| DOCES | 351 | R$ 1619.34 |
-| BEBIDA ALCÓLICA | 286 | R$ 1666.86 |
-| MERCEARIA | 161 | R$ 1344.84 |
+| DOCES | 354 | R$ 1652.81 |
+| BEBIDA NÃO ALCÓLICA | 353 | R$ 3481.36 |
+| BEBIDA ALCÓLICA | 290 | R$ 1685.62 |
+| MERCEARIA | 162 | R$ 1350.03 |
 | SALGADOS E SNACKS | 79 | R$ 495.79 |
 | GELATOS | 45 | R$ 385.55 |
 | HIGIENE E LIMPEZA | 31 | R$ 385.57 |
@@ -28,12 +28,12 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 100 | R$ 469.00 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 104 | R$ 487.76 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 54 | R$ 697.86 |
 | 132 | PACOQUITA SANTA HELENA 20G | 47 | R$ 74.73 |
 | 1395 | CERVEJA HEINEKEN 350ML | 43 | R$ 317.77 |
 | 236 | BALA DE GOMA IOGURTE 32G | 40 | R$ 79.60 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 38 | R$ 491.82 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 39 | R$ 504.81 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 19 | R$ 92.80 |
@@ -86,5 +86,6 @@
 | 2026-09-23 | 29 | R$ 242.31 |
 | 2026-09-24 | 16 | R$ 154.03 |
 | 2026-09-25 | 43 | R$ 395.56 |
+| 2026-09-26 | 9 | R$ 70.41 |
 
-*Última atualização: 26/09/2026 03:45:57*
+*Última atualização: 26/09/2026 08:54:04*

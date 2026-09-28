@@ -1,0 +1,56 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-27
+======================================================================
+
+Total de unidades vendidas: 40
+Valor total vendido: R$ 255.60
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+138    PICOLE MALTINE                               4     R$ 19.96
+1395   CERVEJA HEINEKEN 350ML                       4     R$ 29.56
+150    PICOLE DOCE DE LEITE                         3     R$ 14.97
+1511   CERVEJA PURO MALTE AMSTEL 269ML              3     R$ 14.07
+132    PACOQUITA SANTA HELENA 20G                   2      R$ 3.18
+1515   BALA FINI BEIJOS DE MORANGO 100G             2     R$ 14.98
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 12.99
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1348   WAFER BAUNILHA RANCHEIRO 78G                 1      R$ 3.79
+1724   SALGADINHO PRESUNTO SKINY 60G                1      R$ 5.99
+59     BATATA ORIGINAL PRINGLES 104G                1     R$ 15.99
+1725   SALGADINHO QUEIJO SKINY 60G                  1      R$ 5.99
+1514   BALA FINI MINHOCAS CITRICAS 100G             1      R$ 7.49
+1360   CHA DE CAPIM CIDREIRA DR OETKER              1      R$ 4.99
+236    BALA DE GOMA IOGURTE 32G                     1      R$ 1.99
+1593   AGUA MINERAL NATURAL MARIZA 500ML            1      R$ 3.49
+1358   CHA DE CAMOMILA DR OETKER                    1      R$ 4.99
+190    REFRIGERANTE COCA COLA ZERO 310ML            1      R$ 5.49
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      1     R$ 11.49
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+1741   MACARRAO ESPAGUETE 8 SEMOLADO GALO 500G      1      R$ 6.99
+1732   PIRULITO IOGURTE DORI 11,2G                  1      R$ 1.39
+279    FLOCAO DE MILHO TIO EMILIO 400G              1      R$ 2.39
+1518   CHOCOLATE GALAK NESTLE 80G                   1     R$ 11.99
+1346   MOSTARDA OLE 180G                            1      R$ 7.49
+1731   SMIRNOFF ICE  275ML                          1      R$ 7.69
+1444   QUEIJO MUSSARELA MANDAKA 150G                1     R$ 10.99
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 12.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                       10     R$ 51.60
+BEBIDA ALCÓLICA                              8     R$ 51.32
+GELATOS                                      7     R$ 34.93
+BEBIDA NÃO ALCÓLICA                          6     R$ 51.94
+MERCEARIA                                    5     R$ 26.85
+SALGADOS E SNACKS                            3     R$ 27.97
+FRIOS E CONGELADOS                           1     R$ 10.99
+----------------------------------------------------------------------
+
+Gerado em: 28/09/2026 03:03:12
+======================================================================

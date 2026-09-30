@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1680
+**Total de unidades vendidas:** 1696
 
-**Valor total vendido:** R$ 12277.38
+**Valor total vendido:** R$ 12418.42
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 417 | R$ 4028.02 |
-| DOCES | 406 | R$ 1826.89 |
-| BEBIDA ALCÓLICA | 360 | R$ 2065.96 |
-| MERCEARIA | 181 | R$ 1468.04 |
-| SALGADOS E SNACKS | 94 | R$ 619.04 |
+| BEBIDA NÃO ALCÓLICA | 419 | R$ 4056.00 |
+| DOCES | 409 | R$ 1849.76 |
+| BEBIDA ALCÓLICA | 366 | R$ 2094.70 |
+| MERCEARIA | 185 | R$ 1524.90 |
+| SALGADOS E SNACKS | 95 | R$ 623.63 |
 | GELATOS | 57 | R$ 445.43 |
 | HIGIENE E LIMPEZA | 36 | R$ 443.32 |
 | FRIOS E CONGELADOS | 34 | R$ 394.16 |
@@ -28,7 +28,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 148 | R$ 694.12 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 151 | R$ 708.19 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 59 | R$ 762.81 |
 | 132 | PACOQUITA SANTA HELENA 20G | 58 | R$ 92.22 |
 | 1395 | CERVEJA HEINEKEN 350ML | 53 | R$ 391.67 |
@@ -36,9 +36,9 @@
 | 236 | BALA DE GOMA IOGURTE 32G | 47 | R$ 93.53 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
+| 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 23 | R$ 126.04 |
-| 1398 | CERVEJA EISENBAHN 269ML | 21 | R$ 102.58 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 20 | R$ 27.80 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 21 | R$ 29.19 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 18 | R$ 98.82 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 18 | R$ 208.32 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 18 | R$ 62.82 |
@@ -90,6 +90,6 @@
 | 2026-09-27 | 40 | R$ 255.60 |
 | 2026-09-28 | 73 | R$ 485.97 |
 | 2026-09-29 | 48 | R$ 335.82 |
-| 2026-09-30 | 37 | R$ 189.73 |
+| 2026-09-30 | 53 | R$ 330.77 |
 
-*Última atualização: 30/09/2026 16:42:29*
+*Última atualização: 30/09/2026 20:17:56*

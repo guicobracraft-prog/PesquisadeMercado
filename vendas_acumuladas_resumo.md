@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1678
+**Total de unidades vendidas:** 1680
 
-**Valor total vendido:** R$ 12257.40
+**Valor total vendido:** R$ 12277.38
 
 ## 🏷️ Vendas por Categoria
 
@@ -11,11 +11,11 @@
 | BEBIDA NÃO ALCÓLICA | 417 | R$ 4028.02 |
 | DOCES | 406 | R$ 1826.89 |
 | BEBIDA ALCÓLICA | 360 | R$ 2065.96 |
-| MERCEARIA | 180 | R$ 1460.05 |
+| MERCEARIA | 181 | R$ 1468.04 |
 | SALGADOS E SNACKS | 94 | R$ 619.04 |
 | GELATOS | 57 | R$ 445.43 |
 | HIGIENE E LIMPEZA | 36 | R$ 443.32 |
-| FRIOS E CONGELADOS | 33 | R$ 382.17 |
+| FRIOS E CONGELADOS | 34 | R$ 394.16 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | DESCARTÁVEIS E UTILIDADES | 13 | R$ 78.37 |
@@ -90,6 +90,6 @@
 | 2026-09-27 | 40 | R$ 255.60 |
 | 2026-09-28 | 73 | R$ 485.97 |
 | 2026-09-29 | 48 | R$ 335.82 |
-| 2026-09-30 | 35 | R$ 169.75 |
+| 2026-09-30 | 37 | R$ 189.73 |
 
-*Última atualização: 30/09/2026 04:37:26*
+*Última atualização: 30/09/2026 11:21:11*

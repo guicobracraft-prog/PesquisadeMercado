@@ -1,0 +1,62 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-09-30
+======================================================================
+
+Total de unidades vendidas: 65
+Valor total vendido: R$ 421.75
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML             14     R$ 65.66
+1398   CERVEJA EISENBAHN 269ML                      5     R$ 24.45
+236    BALA DE GOMA IOGURTE 32G                     4      R$ 7.96
+1732   PIRULITO IOGURTE DORI 11,2G                  4      R$ 5.56
+1467   ENERGETICO ULTRA MONSTER 473ML               3     R$ 41.97
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 3.98
+1535   MOLHO DE TOMATE POMODORO 300G                2      R$ 7.78
+1687   SUCO DE PESSEGO NUTRI 1L                     2     R$ 13.98
+1395   CERVEJA HEINEKEN 350ML                       2     R$ 14.78
+53     LEITE INTEGRAL ITALAC 1L                     2     R$ 15.98
+1629   CAIXA DE BOMBOM LACTA 250G                   2     R$ 41.98
+38     PIPOCA DOCE IEIE 40G                         1      R$ 2.49
+1412   COCO RALADO COPRA 100G                       1      R$ 5.89
+1417   GOIABADA PREDILECTA 300G                     1      R$ 6.99
+268    ESPONJA MULTIUSO BETTANI 4UN                 1      R$ 5.49
+1339   FERMENTO QUIMICO APTI 100G                   1      R$ 4.99
+1452   SAL REFINADO GLOBO 1KG                       1      R$ 4.29
+1681   SALGADINHO YOKITOS CEBOLA 54G                1      R$ 4.59
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+1355   SALGADINHO YOKITOS PRESUNTO 54G              1      R$ 4.59
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           1     R$ 11.99
+1374   ARROZ BRANCO URBANO 1KG                      1      R$ 7.59
+1446   PRESUNTO AURORA 180G                         1     R$ 11.99
+1728   CREME DE LEITE ITALAC 200G                   1      R$ 3.99
+278    OLEO DE SOJA SOYA 900ML                      1      R$ 9.89
+1332   CREME DE AVELA NUTELLA 350G                  1     R$ 34.99
+1665   BOLO DE LARANJA COM CHOCOLATE BAUDUCCO..     1     R$ 13.99
+1514   BALA FINI MINHOCAS CITRICAS 100G             1      R$ 7.49
+1680   SALGADINHO YOKITOS BATATA ONDULADA 45G       1      R$ 4.59
+1674   MACARRAO NISSIN CARNE 80G                    1      R$ 4.19
+1476   TEMPERO OREGANO CHEF                         1      R$ 5.69
+265    MILHO PREDILECTA 170G                        1      R$ 5.39
+281    BALA MENTOS FANTA LARANJA 37,5G              1      R$ 3.49
+1373   ARROZ PARBOILIZADO URBANO 1KG                1      R$ 7.59
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             21    R$ 104.89
+DOCES                                       16     R$ 86.94
+MERCEARIA                                   16    R$ 125.24
+BEBIDA NÃO ALCÓLICA                          7     R$ 73.43
+SALGADOS E SNACKS                            3     R$ 13.77
+HIGIENE E LIMPEZA                            1      R$ 5.49
+FRIOS E CONGELADOS                           1     R$ 11.99
+----------------------------------------------------------------------
+
+Gerado em: 01/10/2026 06:32:02
+======================================================================

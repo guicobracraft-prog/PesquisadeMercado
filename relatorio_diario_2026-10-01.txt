@@ -1,0 +1,34 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-01
+======================================================================
+
+Total de unidades vendidas: 18
+Valor total vendido: R$ 126.92
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1704   BEBIDA MISTA ABSOLUT VODKA SPRITE 269ML      8     R$ 71.92
+1593   AGUA MINERAL NATURAL MARIZA 500ML            3     R$ 10.47
+1728   CREME DE LEITE ITALAC 200G                   2      R$ 7.98
+105    MIX NUTS 30G                                 1      R$ 3.49
+70     GATORADE UVA 500ML                           1      R$ 8.59
+53     LEITE INTEGRAL ITALAC 1L                     1      R$ 7.99
+281    BALA MENTOS FANTA LARANJA 37,5G              1      R$ 3.49
+1591   BATATA PALHA TRADICIONAL YOKI 105G           1     R$ 12.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                              8     R$ 71.92
+BEBIDA NÃO ALCÓLICA                          4     R$ 19.06
+MERCEARIA                                    4     R$ 28.96
+LINHA FIT                                    1      R$ 3.49
+DOCES                                        1      R$ 3.49
+----------------------------------------------------------------------
+
+Gerado em: 02/10/2026 04:39:42
+======================================================================

@@ -1,0 +1,54 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-02
+======================================================================
+
+Total de unidades vendidas: 45
+Valor total vendido: R$ 292.43
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+50     BARRA DE CEREAL BOLO DE CHOCOLATE NUTR..     6     R$ 17.94
+44     H2O LIMONETO 500ML                           3     R$ 23.67
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     3      R$ 8.97
+1505   TORRONE ARCOR 25G                            3      R$ 5.97
+236    BALA DE GOMA IOGURTE 32G                     2      R$ 3.98
+151    PICOLE CHOCOLATE                             2      R$ 9.98
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 25.98
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     2     R$ 27.98
+190    REFRIGERANTE COCA COLA ZERO 310ML            2     R$ 10.98
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           2     R$ 23.98
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         2     R$ 10.96
+165    SALGADINHO TORCIDA BACON 60G                 1      R$ 3.89
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+54     REFRIGERANTE FANTA LARANJA 310ML             1      R$ 5.49
+1589   CHOCOLATE SNICKERS WHITE 40G                 1      R$ 6.79
+1407   REFRIGERANTE GUARANA ANTARCTICA 350ML        1      R$ 5.49
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 12.99
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+144    PICOLE UVA                                   1      R$ 4.99
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              1      R$ 5.99
+1454   SUCO DE MANGA NUTRI 1L                       1      R$ 6.99
+136    SORVETE ACAI                                 1     R$ 11.99
+1574   AGUA DE COCO  PURO COCO 1L                   1     R$ 12.99
+1665   BOLO DE LARANJA COM CHOCOLATE BAUDUCCO..     1     R$ 13.99
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+88     BISCOITO COOKIES GALAK NESTLE 60G            1      R$ 4.99
+1515   BALA FINI BEIJOS DE MORANGO 100G             1      R$ 7.49
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         22    R$ 183.48
+DOCES                                        9     R$ 43.21
+LINHA FIT                                    6     R$ 17.94
+GELATOS                                      4     R$ 26.96
+BEBIDA ALCÓLICA                              3     R$ 16.95
+SALGADOS E SNACKS                            1      R$ 3.89
+----------------------------------------------------------------------
+
+Gerado em: 03/10/2026 05:39:45
+======================================================================

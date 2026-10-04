@@ -1,16 +1,16 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1852
+**Total de unidades vendidas:** 1859
 
-**Valor total vendido:** R$ 13556.76
+**Valor total vendido:** R$ 13619.79
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 466 | R$ 4479.23 |
+| BEBIDA NÃO ALCÓLICA | 469 | R$ 4512.70 |
 | DOCES | 449 | R$ 2052.66 |
-| BEBIDA ALCÓLICA | 394 | R$ 2330.12 |
+| BEBIDA ALCÓLICA | 398 | R$ 2359.68 |
 | MERCEARIA | 205 | R$ 1664.70 |
 | SALGADOS E SNACKS | 100 | R$ 646.08 |
 | GELATOS | 61 | R$ 472.39 |
@@ -30,9 +30,9 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 151 | R$ 708.19 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 62 | R$ 801.78 |
+| 1395 | CERVEJA HEINEKEN 350ML | 60 | R$ 443.40 |
 | 132 | PACOQUITA SANTA HELENA 20G | 58 | R$ 92.22 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 57 | R$ 738.63 |
-| 1395 | CERVEJA HEINEKEN 350ML | 56 | R$ 413.84 |
 | 236 | BALA DE GOMA IOGURTE 32G | 50 | R$ 99.50 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 33 | R$ 180.84 |
@@ -42,8 +42,8 @@
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 20 | R$ 232.30 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 20 | R$ 231.80 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 19 | R$ 104.31 |
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 19 | R$ 66.31 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 18 | R$ 98.82 |
-| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 18 | R$ 62.82 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 18 | R$ 35.82 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 17 | R$ 120.82 |
 | 1396 | CERVEJA EISENBAHN TIPO PILSEN LATA 350ML | 17 | R$ 103.53 |
@@ -94,6 +94,6 @@
 | 2026-10-01 | 18 | R$ 126.92 |
 | 2026-10-02 | 45 | R$ 292.43 |
 | 2026-10-03 | 55 | R$ 406.21 |
-| 2026-10-04 | 26 | R$ 221.80 |
+| 2026-10-04 | 33 | R$ 284.83 |
 
-*Última atualização: 04/10/2026 14:09:36*
+*Última atualização: 04/10/2026 17:34:37*

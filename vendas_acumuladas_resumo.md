@@ -1,27 +1,27 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1900
+**Total de unidades vendidas:** 1909
 
-**Valor total vendido:** R$ 13955.71
+**Valor total vendido:** R$ 14038.92
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 472 | R$ 4551.67 |
-| DOCES | 456 | R$ 2087.09 |
+| DOCES | 458 | R$ 2096.07 |
 | BEBIDA ALCÓLICA | 413 | R$ 2457.66 |
-| MERCEARIA | 215 | R$ 1739.40 |
-| SALGADOS E SNACKS | 101 | R$ 650.67 |
+| MERCEARIA | 216 | R$ 1765.39 |
+| SALGADOS E SNACKS | 102 | R$ 666.66 |
 | GELATOS | 62 | R$ 477.38 |
-| HIGIENE E LIMPEZA | 39 | R$ 472.09 |
-| FRIOS E CONGELADOS | 36 | R$ 423.94 |
+| HIGIENE E LIMPEZA | 41 | R$ 477.87 |
+| FRIOS E CONGELADOS | 37 | R$ 440.43 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | LINHA FIT | 16 | R$ 57.73 |
-| DESCARTÁVEIS E UTILIDADES | 13 | R$ 78.37 |
+| DESCARTÁVEIS E UTILIDADES | 14 | R$ 80.36 |
 | CARNES | 11 | R$ 188.43 |
-| MATERIAIS ELETRONICOS | 5 | R$ 114.95 |
+| MATERIAIS ELETRONICOS | 6 | R$ 122.94 |
 | CARNES E AVES | 5 | R$ 91.95 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
@@ -96,5 +96,6 @@
 | 2026-10-03 | 55 | R$ 406.21 |
 | 2026-10-04 | 48 | R$ 396.88 |
 | 2026-10-05 | 26 | R$ 223.87 |
+| 2026-10-06 | 9 | R$ 83.21 |
 
-*Última atualização: 05/10/2026 21:26:46*
+*Última atualização: 06/10/2026 03:58:07*

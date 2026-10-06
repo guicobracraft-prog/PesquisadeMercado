@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 1888
+**Total de unidades vendidas:** 1900
 
-**Valor total vendido:** R$ 13824.93
+**Valor total vendido:** R$ 13955.71
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 471 | R$ 4538.68 |
-| DOCES | 451 | R$ 2062.14 |
+| BEBIDA NÃO ALCÓLICA | 472 | R$ 4551.67 |
+| DOCES | 456 | R$ 2087.09 |
 | BEBIDA ALCÓLICA | 413 | R$ 2457.66 |
-| MERCEARIA | 212 | R$ 1711.13 |
-| SALGADOS E SNACKS | 100 | R$ 646.08 |
+| MERCEARIA | 215 | R$ 1739.40 |
+| SALGADOS E SNACKS | 101 | R$ 650.67 |
 | GELATOS | 62 | R$ 477.38 |
 | HIGIENE E LIMPEZA | 39 | R$ 472.09 |
 | FRIOS E CONGELADOS | 36 | R$ 423.94 |
@@ -21,19 +21,19 @@
 | LINHA FIT | 16 | R$ 57.73 |
 | DESCARTÁVEIS E UTILIDADES | 13 | R$ 78.37 |
 | CARNES | 11 | R$ 188.43 |
+| MATERIAIS ELETRONICOS | 5 | R$ 114.95 |
 | CARNES E AVES | 5 | R$ 91.95 |
-| MATERIAIS ELETRONICOS | 3 | R$ 54.97 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 151 | R$ 708.19 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 64 | R$ 827.76 |
 | 1395 | CERVEJA HEINEKEN 350ML | 64 | R$ 472.96 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 63 | R$ 814.77 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 58 | R$ 751.62 |
 | 132 | PACOQUITA SANTA HELENA 20G | 58 | R$ 92.22 |
-| 236 | BALA DE GOMA IOGURTE 32G | 51 | R$ 101.49 |
+| 236 | BALA DE GOMA IOGURTE 32G | 52 | R$ 103.48 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 40 | R$ 219.20 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 27 | R$ 37.53 |
@@ -95,6 +95,6 @@
 | 2026-10-02 | 45 | R$ 292.43 |
 | 2026-10-03 | 55 | R$ 406.21 |
 | 2026-10-04 | 48 | R$ 396.88 |
-| 2026-10-05 | 14 | R$ 93.09 |
+| 2026-10-05 | 26 | R$ 223.87 |
 
-*Última atualização: 05/10/2026 15:55:06*
+*Última atualização: 05/10/2026 21:26:46*

@@ -1,0 +1,62 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-07
+======================================================================
+
+Total de unidades vendidas: 50
+Valor total vendido: R$ 376.41
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         6     R$ 32.88
+1400   BALA DE GOMA FRUTAS DORI 32G                 3      R$ 5.97
+1420   REFRIGERANTE COCA COLA 2L                    3     R$ 38.97
+1464   REFRIGERANTE COCA COLA ZERO  2L              3     R$ 38.97
+1518   CHOCOLATE GALAK NESTLE 80G                   2     R$ 23.98
+1410   COXINHA DA ASA LEVO 1KG                      2     R$ 31.98
+1505   TORRONE ARCOR 25G                            2      R$ 3.98
+1732   PIRULITO IOGURTE DORI 11,2G                  2      R$ 2.78
+236    BALA DE GOMA IOGURTE 32G                     2      R$ 3.98
+38     PIPOCA DOCE IEIE 40G                         2      R$ 4.98
+1481   TEMPERO PAPRICA DEFUMADA CHEF                1      R$ 5.69
+1671   LEITE CONDENSADO ITALAC 395G                 1      R$ 7.99
+1724   SALGADINHO PRESUNTO SKINY 60G                1      R$ 5.99
+144    PICOLE UVA                                   1      R$ 4.99
+1480   TEMPERO EDU GUEDES CHEF                      1      R$ 5.69
+1317   CAFE DO SITIO 250G                           1     R$ 19.49
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+1728   CREME DE LEITE ITALAC 200G                   1      R$ 3.99
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+1667   TORRONE COM AMENDOIM 70G                     1      R$ 4.49
+82     AMENDOIM JAPONES DORI 75G                    1      R$ 6.19
+1342   PAO BISNAGUINHA VISCONTI 240G                1      R$ 8.19
+155    PICOLE MORANGO                               1      R$ 4.99
+1305   CHOCOLATE AO LEITE CLASSIC NESTLE 80G        1     R$ 11.99
+1525   BISCOITO BONO MORANGO 90G                    1      R$ 5.29
+253    SALGADINHO TORCIDA CEBOLA 60G                1      R$ 3.86
+44     H2O LIMONETO 500ML                           1      R$ 7.89
+1364   FARINHA DE TRIGO TIA OFELIA 1KG              1      R$ 4.99
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           1     R$ 11.99
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+1604   ENERGETICO ENERGY ZERO MONSTER 473ML         1     R$ 14.49
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+1509   LASANHA BOLONHESA FORNO DE MINAS 600G        1     R$ 16.49
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                       17     R$ 74.23
+BEBIDA NÃO ALCÓLICA                         12    R$ 138.78
+MERCEARIA                                    7     R$ 56.03
+BEBIDA ALCÓLICA                              6     R$ 32.88
+SALGADOS E SNACKS                            3     R$ 16.04
+GELATOS                                      2      R$ 9.98
+CARNES E AVES                                2     R$ 31.98
+FRIOS E CONGELADOS                           1     R$ 16.49
+----------------------------------------------------------------------
+
+Gerado em: 08/10/2026 06:38:08
+======================================================================

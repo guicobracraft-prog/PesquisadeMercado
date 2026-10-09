@@ -1,0 +1,32 @@
+# 📊 Relatório Diário de Vendas - 2026-10-08
+
+**Total de unidades vendidas:** 12
+**Valor total vendido:** R$ 102.68
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1410 | COXINHA DA ASA LEVO 1KG | 1 | R$ 15.99 |
+| 1349 | ABSORVENTE COM ABAS INTIMUS GEL 16UN | 1 | R$ 14.89 |
+| 205 | ENERGETICO MANGO MONSTER 473ML | 1 | R$ 13.99 |
+| 3 | HALLS MENTOL 28G | 1 | R$ 2.99 |
+| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 1 | R$ 6.79 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 1 | R$ 12.99 |
+| 1593 | AGUA MINERAL NATURAL MARIZA 500ML | 1 | R$ 3.49 |
+| 18 | CHOCOLATE LOLLO NESTLE 28G | 1 | R$ 5.69 |
+| 156 | AGUA DE COCO MARI COCO 200ML | 1 | R$ 4.99 |
+| 2 | HALLS MELANCIA 28G | 1 | R$ 2.99 |
+| 1521 | CHOCOLATE MEIO AMARGO NESTLE 80G | 1 | R$ 11.99 |
+| 1307 | AGUA SANITARIA YPE 1L | 1 | R$ 5.89 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| DOCES | 5 | R$ 30.45 |
+| BEBIDA NÃO ALCÓLICA | 4 | R$ 35.46 |
+| HIGIENE E LIMPEZA | 2 | R$ 20.78 |
+| CARNES E AVES | 1 | R$ 15.99 |
+
+*Gerado em 09/10/2026 06:44:26*

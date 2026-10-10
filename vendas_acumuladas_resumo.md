@@ -1,20 +1,20 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2019
+**Total de unidades vendidas:** 2028
 
-**Valor total vendido:** R$ 14859.03
+**Valor total vendido:** R$ 14926.64
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 505 | R$ 4867.84 |
+| BEBIDA NÃO ALCÓLICA | 507 | R$ 4891.82 |
 | DOCES | 487 | R$ 2242.78 |
-| BEBIDA ALCÓLICA | 432 | R$ 2579.01 |
-| MERCEARIA | 232 | R$ 1871.23 |
+| BEBIDA ALCÓLICA | 436 | R$ 2606.37 |
+| MERCEARIA | 234 | R$ 1883.71 |
 | SALGADOS E SNACKS | 106 | R$ 686.59 |
 | GELATOS | 64 | R$ 487.36 |
-| HIGIENE E LIMPEZA | 44 | R$ 513.54 |
+| HIGIENE E LIMPEZA | 45 | R$ 517.33 |
 | FRIOS E CONGELADOS | 38 | R$ 456.92 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -29,7 +29,7 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 151 | R$ 708.19 |
-| 1395 | CERVEJA HEINEKEN 350ML | 68 | R$ 502.52 |
+| 1395 | CERVEJA HEINEKEN 350ML | 69 | R$ 509.91 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 67 | R$ 866.73 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 63 | R$ 816.57 |
 | 132 | PACOQUITA SANTA HELENA 20G | 58 | R$ 92.22 |
@@ -39,11 +39,11 @@
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 29 | R$ 40.31 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 22 | R$ 256.28 |
 | 44 | H2O LIMONETO 500ML | 21 | R$ 164.46 |
-| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 21 | R$ 244.29 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 21 | R$ 243.79 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 21 | R$ 41.79 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 20 | R$ 141.19 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 20 | R$ 231.80 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 19 | R$ 104.31 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 19 | R$ 104.31 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 19 | R$ 66.31 |
@@ -100,5 +100,6 @@
 | 2026-10-07 | 50 | R$ 376.41 |
 | 2026-10-08 | 12 | R$ 102.68 |
 | 2026-10-09 | 45 | R$ 328.45 |
+| 2026-10-10 | 9 | R$ 67.61 |
 
-*Última atualização: 09/10/2026 22:21:51*
+*Última atualização: 10/10/2026 04:50:16*

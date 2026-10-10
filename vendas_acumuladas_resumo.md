@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2002
+**Total de unidades vendidas:** 2019
 
-**Valor total vendido:** R$ 14753.60
+**Valor total vendido:** R$ 14859.03
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 505 | R$ 4867.84 |
-| DOCES | 485 | R$ 2234.00 |
-| BEBIDA ALCÓLICA | 419 | R$ 2490.54 |
-| MERCEARIA | 231 | R$ 1866.94 |
-| SALGADOS E SNACKS | 105 | R$ 682.70 |
+| DOCES | 487 | R$ 2242.78 |
+| BEBIDA ALCÓLICA | 432 | R$ 2579.01 |
+| MERCEARIA | 232 | R$ 1871.23 |
+| SALGADOS E SNACKS | 106 | R$ 686.59 |
 | GELATOS | 64 | R$ 487.36 |
 | HIGIENE E LIMPEZA | 44 | R$ 513.54 |
 | FRIOS E CONGELADOS | 38 | R$ 456.92 |
@@ -29,8 +29,8 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 151 | R$ 708.19 |
+| 1395 | CERVEJA HEINEKEN 350ML | 68 | R$ 502.52 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 67 | R$ 866.73 |
-| 1395 | CERVEJA HEINEKEN 350ML | 64 | R$ 472.96 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 63 | R$ 816.57 |
 | 132 | PACOQUITA SANTA HELENA 20G | 58 | R$ 92.22 |
 | 236 | BALA DE GOMA IOGURTE 32G | 54 | R$ 107.46 |
@@ -99,6 +99,6 @@
 | 2026-10-06 | 12 | R$ 95.78 |
 | 2026-10-07 | 50 | R$ 376.41 |
 | 2026-10-08 | 12 | R$ 102.68 |
-| 2026-10-09 | 28 | R$ 223.02 |
+| 2026-10-09 | 45 | R$ 328.45 |
 
-*Última atualização: 09/10/2026 18:22:40*
+*Última atualização: 09/10/2026 22:21:51*

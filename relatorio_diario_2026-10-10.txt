@@ -1,0 +1,69 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-10
+======================================================================
+
+Total de unidades vendidas: 73
+Valor total vendido: R$ 471.51
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1732   PIRULITO IOGURTE DORI 11,2G                  8     R$ 11.12
+1395   CERVEJA HEINEKEN 350ML                       5     R$ 36.95
+132    PACOQUITA SANTA HELENA 20G                   5      R$ 7.95
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         5     R$ 27.40
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      4     R$ 47.96
+1720   CERVEJA PURE GOLD STELLA ARTOIS 269ML        3     R$ 20.97
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           3     R$ 35.97
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              2     R$ 11.98
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 25.98
+209    BARRA DE CEREAL AVELA COM CHOCOLATE NU..     2      R$ 5.98
+190    REFRIGERANTE COCA COLA ZERO 310ML            2     R$ 10.98
+1464   REFRIGERANTE COCA COLA ZERO  2L              2     R$ 25.98
+1731   SMIRNOFF ICE  275ML                          2     R$ 15.38
+1593   AGUA MINERAL NATURAL MARIZA 500ML            2      R$ 6.98
+61     REFRIGERANTE SPRITE 310ML                    2     R$ 10.98
+1345   CATCHUP PREDILECTA 400G                      1      R$ 8.29
+1674   MACARRAO NISSIN CARNE 80G                    1      R$ 4.19
+1735   DETERGENTE LIMAO LIMPOL 500ML                1      R$ 3.79
+1715   MARGARINA COM SAL QUALY 250G                 1      R$ 7.89
+1606   QUEIJO MUSSARELA ITAMBE 150G                 1      R$ 9.98
+205    ENERGETICO MANGO MONSTER 473ML               1     R$ 13.99
+236    BALA DE GOMA IOGURTE 32G                     1      R$ 1.99
+274    ENERGETICO ABACAXI COM HORTELA BALY 47..     1     R$ 11.99
+150    PICOLE DOCE DE LEITE                         1      R$ 4.99
+144    PICOLE UVA                                   1      R$ 4.99
+1749   APRESUNTADO PERDIGAO 200G                    1     R$ 10.99
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     1      R$ 2.99
+54     REFRIGERANTE FANTA LARANJA 310ML             1      R$ 5.49
+82     AMENDOIM JAPONES DORI 75G                    1      R$ 6.19
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+1725   SALGADINHO QUEIJO SKINY 60G                  1      R$ 5.99
+1329   FIO DENTAL MENTHA HILLO 50M                  1     R$ 10.89
+1512   SALGADINHO TORCIDA QUEIJO 60G                1      R$ 3.89
+3      HALLS MENTOL 28G                             1      R$ 2.99
+1589   CHOCOLATE SNICKERS WHITE 40G                 1      R$ 6.79
+1537   BALA FINI AMORAS 100G                        1      R$ 7.49
+154    PICOLE MANGA                                 1      R$ 4.99
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+275    ACHOCOLATADO NESCAU 350G                     1     R$ 15.69
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         23    R$ 211.77
+BEBIDA ALCÓLICA                             17    R$ 112.68
+DOCES                                       17     R$ 38.33
+MERCEARIA                                    3     R$ 28.17
+FRIOS E CONGELADOS                           3     R$ 28.86
+GELATOS                                      3     R$ 14.97
+SALGADOS E SNACKS                            3     R$ 16.07
+HIGIENE E LIMPEZA                            2     R$ 14.68
+LINHA FIT                                    2      R$ 5.98
+----------------------------------------------------------------------
+
+Gerado em: 11/10/2026 06:24:00
+======================================================================

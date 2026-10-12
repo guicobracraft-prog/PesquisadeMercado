@@ -1,0 +1,54 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-11
+======================================================================
+
+Total de unidades vendidas: 39
+Valor total vendido: R$ 285.60
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1395   CERVEJA HEINEKEN 350ML                       7     R$ 51.73
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         4     R$ 21.96
+1731   SMIRNOFF ICE  275ML                          3     R$ 23.07
+132    PACOQUITA SANTA HELENA 20G                   3      R$ 4.77
+1732   PIRULITO IOGURTE DORI 11,2G                  2      R$ 2.78
+1700   TIRINHAS DE FRANGO AURORA 275G               2     R$ 25.78
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 12.99
+1749   APRESUNTADO PERDIGAO 200G                    1     R$ 10.99
+1606   QUEIJO MUSSARELA ITAMBE 150G                 1      R$ 9.98
+1486   SABÃO EM  PO MINUANO FLORAL 800G             1     R$ 13.99
+1720   CERVEJA PURE GOLD STELLA ARTOIS 269ML        1      R$ 6.99
+1671   LEITE CONDENSADO ITALAC 395G                 1      R$ 7.99
+274    ENERGETICO ABACAXI COM HORTELA BALY 47..     1     R$ 11.99
+1673   MACARRAO NISSIN GALINHA CAIPIRA 80G          1      R$ 4.19
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 13.99
+189    SALGADINHO TORCIDA COSTELA COM LIMAO 60G     1      R$ 3.89
+1728   CREME DE LEITE ITALAC 200G                   1      R$ 3.99
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           1     R$ 11.99
+1573   PAPEL TOALHA SCALA 2UN                       1      R$ 8.19
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              1      R$ 5.99
+1362   SAL GROSSO FAVORITO 1KG                      1      R$ 5.89
+1407   REFRIGERANTE GUARANA ANTARCTICA 350ML        1      R$ 5.49
+209    BARRA DE CEREAL AVELA COM CHOCOLATE NU..     1      R$ 2.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             16    R$ 109.74
+BEBIDA NÃO ALCÓLICA                          6     R$ 70.44
+DOCES                                        5      R$ 7.55
+FRIOS E CONGELADOS                           4     R$ 46.75
+MERCEARIA                                    4     R$ 22.06
+HIGIENE E LIMPEZA                            1     R$ 13.99
+SALGADOS E SNACKS                            1      R$ 3.89
+DESCARTÁVEIS E UTILIDADES                    1      R$ 8.19
+LINHA FIT                                    1      R$ 2.99
+----------------------------------------------------------------------
+
+Gerado em: 12/10/2026 03:41:01
+======================================================================

@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2200
+**Total de unidades vendidas:** 2206
 
-**Valor total vendido:** R$ 16151.83
+**Valor total vendido:** R$ 16190.67
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 548 | R$ 5314.91 |
-| DOCES | 524 | R$ 2365.11 |
+| BEBIDA NÃO ALCÓLICA | 550 | R$ 5334.39 |
+| DOCES | 526 | R$ 2372.69 |
 | BEBIDA ALCÓLICA | 478 | R$ 2876.60 |
-| MERCEARIA | 249 | R$ 2005.46 |
+| MERCEARIA | 251 | R$ 2017.24 |
 | SALGADOS E SNACKS | 112 | R$ 714.33 |
 | GELATOS | 73 | R$ 533.27 |
 | FRIOS E CONGELADOS | 51 | R$ 614.35 |
@@ -47,7 +47,7 @@
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 21 | R$ 41.79 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 20 | R$ 109.80 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 19 | R$ 66.31 |
-| 1467 | ENERGETICO ULTRA MONSTER 473ML | 18 | R$ 251.82 |
+| 61 | REFRIGERANTE SPRITE 310ML | 19 | R$ 104.31 |
 
 ## 📅 Vendas por Dia
 
@@ -103,6 +103,6 @@
 | 2026-10-10 | 73 | R$ 471.51 |
 | 2026-10-11 | 39 | R$ 285.60 |
 | 2026-10-12 | 52 | R$ 383.67 |
-| 2026-10-13 | 17 | R$ 152.02 |
+| 2026-10-13 | 23 | R$ 190.86 |
 
-*Última atualização: 13/10/2026 16:35:29*
+*Última atualização: 13/10/2026 20:28:10*

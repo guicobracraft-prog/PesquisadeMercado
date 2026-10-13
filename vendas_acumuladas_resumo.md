@@ -1,21 +1,21 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2192
+**Total de unidades vendidas:** 2200
 
-**Valor total vendido:** R$ 16070.22
+**Valor total vendido:** R$ 16151.83
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 545 | R$ 5283.44 |
+| BEBIDA NÃO ALCÓLICA | 548 | R$ 5314.91 |
 | DOCES | 524 | R$ 2365.11 |
 | BEBIDA ALCÓLICA | 478 | R$ 2876.60 |
-| MERCEARIA | 247 | R$ 1980.08 |
+| MERCEARIA | 249 | R$ 2005.46 |
 | SALGADOS E SNACKS | 112 | R$ 714.33 |
 | GELATOS | 73 | R$ 533.27 |
-| FRIOS E CONGELADOS | 49 | R$ 593.38 |
-| HIGIENE E LIMPEZA | 48 | R$ 545.10 |
+| FRIOS E CONGELADOS | 51 | R$ 614.35 |
+| HIGIENE E LIMPEZA | 49 | R$ 548.89 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | LINHA FIT | 19 | R$ 66.70 |
@@ -42,12 +42,12 @@
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 25 | R$ 291.75 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
-| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 22 | R$ 120.78 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 23 | R$ 126.27 |
 | 44 | H2O LIMONETO 500ML | 21 | R$ 164.46 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 21 | R$ 41.79 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 20 | R$ 109.80 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 19 | R$ 66.31 |
-| 61 | REFRIGERANTE SPRITE 310ML | 18 | R$ 98.82 |
+| 1467 | ENERGETICO ULTRA MONSTER 473ML | 18 | R$ 251.82 |
 
 ## 📅 Vendas por Dia
 
@@ -103,6 +103,6 @@
 | 2026-10-10 | 73 | R$ 471.51 |
 | 2026-10-11 | 39 | R$ 285.60 |
 | 2026-10-12 | 52 | R$ 383.67 |
-| 2026-10-13 | 9 | R$ 70.41 |
+| 2026-10-13 | 17 | R$ 152.02 |
 
-*Última atualização: 13/10/2026 09:15:51*
+*Última atualização: 13/10/2026 16:35:29*

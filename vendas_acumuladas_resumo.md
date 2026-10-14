@@ -1,14 +1,14 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2222
+**Total de unidades vendidas:** 2223
 
-**Valor total vendido:** R$ 16317.41
+**Valor total vendido:** R$ 16330.40
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 556 | R$ 5390.33 |
+| BEBIDA NÃO ALCÓLICA | 557 | R$ 5403.32 |
 | DOCES | 532 | R$ 2405.53 |
 | BEBIDA ALCÓLICA | 479 | R$ 2882.09 |
 | MERCEARIA | 253 | R$ 2044.72 |
@@ -37,7 +37,7 @@
 | 236 | BALA DE GOMA IOGURTE 32G | 59 | R$ 117.41 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 42 | R$ 58.38 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
-| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 28 | R$ 329.22 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 29 | R$ 342.21 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 25 | R$ 291.75 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
@@ -104,6 +104,6 @@
 | 2026-10-11 | 39 | R$ 285.60 |
 | 2026-10-12 | 52 | R$ 383.67 |
 | 2026-10-13 | 25 | R$ 211.34 |
-| 2026-10-14 | 14 | R$ 106.26 |
+| 2026-10-14 | 15 | R$ 119.25 |
 
-*Última atualização: 14/10/2026 16:00:10*
+*Última atualização: 14/10/2026 19:06:19*

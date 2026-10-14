@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2206
+**Total de unidades vendidas:** 2208
 
-**Valor total vendido:** R$ 16190.67
+**Valor total vendido:** R$ 16211.15
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 550 | R$ 5334.39 |
-| DOCES | 526 | R$ 2372.69 |
+| BEBIDA NÃO ALCÓLICA | 551 | R$ 5347.38 |
+| DOCES | 527 | R$ 2380.18 |
 | BEBIDA ALCÓLICA | 478 | R$ 2876.60 |
 | MERCEARIA | 251 | R$ 2017.24 |
 | SALGADOS E SNACKS | 112 | R$ 714.33 |
@@ -31,7 +31,7 @@
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 151 | R$ 708.19 |
 | 1395 | CERVEJA HEINEKEN 350ML | 82 | R$ 605.98 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 73 | R$ 944.67 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 68 | R$ 881.52 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 69 | R$ 894.51 |
 | 132 | PACOQUITA SANTA HELENA 20G | 66 | R$ 104.94 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 66 | R$ 361.83 |
 | 236 | BALA DE GOMA IOGURTE 32G | 59 | R$ 117.41 |
@@ -103,6 +103,6 @@
 | 2026-10-10 | 73 | R$ 471.51 |
 | 2026-10-11 | 39 | R$ 285.60 |
 | 2026-10-12 | 52 | R$ 383.67 |
-| 2026-10-13 | 23 | R$ 190.86 |
+| 2026-10-13 | 25 | R$ 211.34 |
 
-*Última atualização: 13/10/2026 20:28:10*
+*Última atualização: 13/10/2026 23:26:27*

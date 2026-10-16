@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2267
+**Total de unidades vendidas:** 2278
 
-**Valor total vendido:** R$ 16598.16
+**Valor total vendido:** R$ 16648.25
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 566 | R$ 5474.73 |
-| DOCES | 547 | R$ 2472.68 |
-| BEBIDA ALCÓLICA | 485 | R$ 2922.63 |
-| MERCEARIA | 258 | R$ 2086.47 |
+| BEBIDA NÃO ALCÓLICA | 568 | R$ 5483.21 |
+| DOCES | 549 | R$ 2479.16 |
+| BEBIDA ALCÓLICA | 489 | R$ 2941.39 |
+| MERCEARIA | 260 | R$ 2094.85 |
 | SALGADOS E SNACKS | 119 | R$ 749.96 |
 | GELATOS | 75 | R$ 543.25 |
 | FRIOS E CONGELADOS | 51 | R$ 614.35 |
@@ -21,14 +21,14 @@
 | LINHA FIT | 19 | R$ 66.70 |
 | DESCARTÁVEIS E UTILIDADES | 15 | R$ 88.55 |
 | CARNES | 11 | R$ 188.43 |
+| MATERIAIS ELETRONICOS | 8 | R$ 138.92 |
 | CARNES E AVES | 8 | R$ 139.92 |
-| MATERIAIS ELETRONICOS | 7 | R$ 130.93 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 151 | R$ 708.19 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 155 | R$ 726.95 |
 | 1395 | CERVEJA HEINEKEN 350ML | 86 | R$ 635.54 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 73 | R$ 944.67 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 72 | R$ 933.48 |
@@ -43,9 +43,9 @@
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 23 | R$ 126.27 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 22 | R$ 43.78 |
 | 44 | H2O LIMONETO 500ML | 21 | R$ 164.46 |
-| 1400 | BALA DE GOMA FRUTAS DORI 32G | 21 | R$ 41.79 |
-| 54 | REFRIGERANTE FANTA LARANJA 310ML | 20 | R$ 109.80 |
+| 54 | REFRIGERANTE FANTA LARANJA 310ML | 21 | R$ 115.29 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 20 | R$ 69.80 |
 | 61 | REFRIGERANTE SPRITE 310ML | 20 | R$ 109.80 |
 
@@ -106,6 +106,6 @@
 | 2026-10-13 | 25 | R$ 211.34 |
 | 2026-10-14 | 25 | R$ 156.25 |
 | 2026-10-15 | 31 | R$ 210.89 |
-| 2026-10-16 | 3 | R$ 19.87 |
+| 2026-10-16 | 14 | R$ 69.96 |
 
-*Última atualização: 16/10/2026 13:04:29*
+*Última atualização: 16/10/2026 16:44:24*

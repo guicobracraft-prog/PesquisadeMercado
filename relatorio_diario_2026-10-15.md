@@ -1,0 +1,46 @@
+# 📊 Relatório Diário de Vendas - 2026-10-15
+
+**Total de unidades vendidas:** 31
+**Valor total vendido:** R$ 210.89
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 4 | R$ 5.56 |
+| 1395 | CERVEJA HEINEKEN 350ML | 4 | R$ 29.56 |
+| 1424 | ALHO PICADO CAMPEAO 200G | 2 | R$ 22.98 |
+| 132 | PACOQUITA SANTA HELENA 20G | 2 | R$ 3.18 |
+| 1318 | BISCOITO COOKIES ALPINO NESTLE 60G | 1 | R$ 4.99 |
+| 1681 | SALGADINHO YOKITOS CEBOLA 54G | 1 | R$ 4.59 |
+| 1399 | CAIXA DE BOMBOM NESTLE 220G | 1 | R$ 20.99 |
+| 43 | SUCO DE LARANJA DAFRUTA 1L | 1 | R$ 6.99 |
+| 205 | ENERGETICO MANGO MONSTER 473ML | 1 | R$ 13.99 |
+| 55 | REFRIGERANTE COCA COLA 310ML | 1 | R$ 5.49 |
+| 1454 | SUCO DE MANGA NUTRI 1L | 1 | R$ 6.99 |
+| 1667 | TORRONE COM AMENDOIM 70G | 1 | R$ 4.49 |
+| 1747 | APARELHO DE BARBEAR BIC UN | 1 | R$ 6.29 |
+| 1629 | CAIXA DE BOMBOM LACTA 250G | 1 | R$ 20.99 |
+| 1725 | SALGADINHO QUEIJO SKINY 60G | 1 | R$ 5.99 |
+| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 1 | R$ 2.99 |
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 1 | R$ 3.49 |
+| 1355 | SALGADINHO YOKITOS PRESUNTO 54G | 1 | R$ 4.59 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 1 | R$ 12.99 |
+| 144 | PICOLE UVA | 1 | R$ 4.99 |
+| 1411 | LEITE DE COCO MENINA  200ML | 1 | R$ 7.29 |
+| 1492 | VINAGRE DE ALCOOL NEVAL 750 ML | 1 | R$ 4.49 |
+| 1417 | GOIABADA PREDILECTA 300G | 1 | R$ 6.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| DOCES | 10 | R$ 60.20 |
+| BEBIDA NÃO ALCÓLICA | 7 | R$ 52.93 |
+| MERCEARIA | 5 | R$ 41.75 |
+| BEBIDA ALCÓLICA | 4 | R$ 29.56 |
+| SALGADOS E SNACKS | 3 | R$ 15.17 |
+| HIGIENE E LIMPEZA | 1 | R$ 6.29 |
+| GELATOS | 1 | R$ 4.99 |
+
+*Gerado em 16/10/2026 03:41:53*

@@ -1,36 +1,36 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2296
+**Total de unidades vendidas:** 2307
 
-**Valor total vendido:** R$ 16790.67
+**Valor total vendido:** R$ 16886.26
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 575 | R$ 5561.64 |
+| BEBIDA NÃO ALCÓLICA | 578 | R$ 5601.61 |
 | DOCES | 556 | R$ 2522.19 |
-| BEBIDA ALCÓLICA | 489 | R$ 2941.39 |
+| BEBIDA ALCÓLICA | 495 | R$ 2972.53 |
 | MERCEARIA | 262 | R$ 2106.83 |
 | SALGADOS E SNACKS | 120 | R$ 755.95 |
 | GELATOS | 75 | R$ 543.25 |
-| FRIOS E CONGELADOS | 51 | R$ 614.35 |
+| FRIOS E CONGELADOS | 52 | R$ 630.84 |
 | HIGIENE E LIMPEZA | 50 | R$ 555.18 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | LINHA FIT | 20 | R$ 69.69 |
 | DESCARTÁVEIS E UTILIDADES | 15 | R$ 88.55 |
 | CARNES | 11 | R$ 188.43 |
-| MATERIAIS ELETRONICOS | 8 | R$ 138.92 |
+| MATERIAIS ELETRONICOS | 9 | R$ 146.91 |
 | CARNES E AVES | 8 | R$ 139.92 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 155 | R$ 726.95 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 160 | R$ 750.40 |
 | 1395 | CERVEJA HEINEKEN 350ML | 86 | R$ 635.54 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 73 | R$ 946.47 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 74 | R$ 959.46 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 73 | R$ 944.67 |
 | 132 | PACOQUITA SANTA HELENA 20G | 69 | R$ 109.71 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 69 | R$ 378.30 |
@@ -38,7 +38,7 @@
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 51 | R$ 70.89 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 29 | R$ 342.21 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 28 | R$ 330.72 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 29 | R$ 343.71 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
@@ -107,5 +107,6 @@
 | 2026-10-14 | 25 | R$ 156.25 |
 | 2026-10-15 | 31 | R$ 210.89 |
 | 2026-10-16 | 32 | R$ 212.38 |
+| 2026-10-17 | 11 | R$ 95.59 |
 
-*Última atualização: 17/10/2026 02:09:16*
+*Última atualização: 17/10/2026 06:49:53*

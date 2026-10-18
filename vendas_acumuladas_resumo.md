@@ -1,14 +1,14 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2324
+**Total de unidades vendidas:** 2333
 
-**Valor total vendido:** R$ 17018.49
+**Valor total vendido:** R$ 17047.40
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 582 | R$ 5654.57 |
+| BEBIDA NÃO ALCÓLICA | 586 | R$ 5668.53 |
 | DOCES | 560 | R$ 2536.75 |
 | BEBIDA ALCÓLICA | 495 | R$ 2972.53 |
 | MERCEARIA | 266 | R$ 2130.09 |
@@ -18,7 +18,7 @@
 | HIGIENE E LIMPEZA | 50 | R$ 555.18 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| LINHA FIT | 20 | R$ 69.69 |
+| LINHA FIT | 25 | R$ 84.64 |
 | DESCARTÁVEIS E UTILIDADES | 16 | R$ 96.54 |
 | CARNES | 11 | R$ 188.43 |
 | MATERIAIS ELETRONICOS | 9 | R$ 146.91 |
@@ -41,12 +41,12 @@
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 29 | R$ 342.21 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 24 | R$ 83.76 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 23 | R$ 126.27 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 23 | R$ 45.77 |
 | 44 | H2O LIMONETO 500ML | 21 | R$ 164.46 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 21 | R$ 115.29 |
-| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 20 | R$ 69.80 |
 | 61 | REFRIGERANTE SPRITE 310ML | 20 | R$ 109.80 |
 
 ## 📅 Vendas por Dia
@@ -108,5 +108,6 @@
 | 2026-10-15 | 31 | R$ 210.89 |
 | 2026-10-16 | 32 | R$ 212.38 |
 | 2026-10-17 | 28 | R$ 227.82 |
+| 2026-10-18 | 9 | R$ 28.91 |
 
-*Última atualização: 17/10/2026 22:51:21*
+*Última atualização: 18/10/2026 03:44:14*

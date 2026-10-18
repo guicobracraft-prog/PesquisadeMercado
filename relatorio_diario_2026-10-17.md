@@ -1,0 +1,45 @@
+# 📊 Relatório Diário de Vendas - 2026-10-17
+
+**Total de unidades vendidas:** 28
+**Valor total vendido:** R$ 227.82
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 5 | R$ 23.45 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 3 | R$ 38.97 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 2 | R$ 25.98 |
+| 1427 | PILHA ELGIN AAA 04 UN | 1 | R$ 7.99 |
+| 1509 | LASANHA BOLONHESA FORNO DE MINAS 600G | 1 | R$ 16.49 |
+| 1731 | SMIRNOFF ICE  275ML | 1 | R$ 7.69 |
+| 1467 | ENERGETICO ULTRA MONSTER 473ML | 1 | R$ 13.99 |
+| 155 | PICOLE MORANGO | 1 | R$ 4.99 |
+| 1558 | FILTRO DE PAPEL MELITA 103 | 1 | R$ 7.99 |
+| 1514 | BALA FINI MINHOCAS CITRICAS 100G | 1 | R$ 7.49 |
+| 281 | BALA MENTOS FANTA LARANJA 37,5G | 1 | R$ 3.49 |
+| 132 | PACOQUITA SANTA HELENA 20G | 1 | R$ 1.59 |
+| 1715 | MARGARINA COM SAL QUALY 250G | 1 | R$ 7.89 |
+| 53 | LEITE INTEGRAL ITALAC 1L | 1 | R$ 7.99 |
+| 1728 | CREME DE LEITE ITALAC 200G | 1 | R$ 3.99 |
+| 1445 | CREME DE QUEIJO TRADICIONAL QUATA 180G | 1 | R$ 10.59 |
+| 265 | MILHO PREDILECTA 170G | 1 | R$ 5.39 |
+| 236 | BALA DE GOMA IOGURTE 32G | 1 | R$ 1.99 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 1 | R$ 13.99 |
+| 1335 | GOMA DE TAPIOCA AKIO 320G | 1 | R$ 5.89 |
+| 1606 | QUEIJO MUSSARELA ITAMBE 150G | 1 | R$ 9.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 7 | R$ 92.93 |
+| BEBIDA ALCÓLICA | 6 | R$ 31.14 |
+| FRIOS E CONGELADOS | 4 | R$ 44.96 |
+| DOCES | 4 | R$ 14.56 |
+| MERCEARIA | 4 | R$ 23.26 |
+| MATERIAIS ELETRONICOS | 1 | R$ 7.99 |
+| GELATOS | 1 | R$ 4.99 |
+| DESCARTÁVEIS E UTILIDADES | 1 | R$ 7.99 |
+
+*Gerado em 18/10/2026 03:44:14*

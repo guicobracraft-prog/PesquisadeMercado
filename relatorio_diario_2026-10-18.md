@@ -1,0 +1,45 @@
+# 📊 Relatório Diário de Vendas - 2026-10-18
+
+**Total de unidades vendidas:** 34
+**Valor total vendido:** R$ 210.76
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 4 | R$ 13.96 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 4 | R$ 21.96 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 4 | R$ 51.96 |
+| 233 | BARRA DE CEREAL CASTANHA DE CAJU COM CHOCOLATE  NUTRY 22G | 3 | R$ 8.97 |
+| 209 | BARRA DE CEREAL AVELA COM CHOCOLATE NUTRY 22G | 2 | R$ 5.98 |
+| 1673 | MACARRAO NISSIN GALINHA CAIPIRA 80G | 2 | R$ 8.38 |
+| 1467 | ENERGETICO ULTRA MONSTER 473ML | 1 | R$ 13.99 |
+| 1539 | BALA FINI DENTADURAS 100G | 1 | R$ 7.49 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 1 | R$ 5.49 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 1 | R$ 12.99 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 1 | R$ 1.99 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 1 | R$ 4.69 |
+| 265 | MILHO PREDILECTA 170G | 1 | R$ 5.39 |
+| 1724 | SALGADINHO PRESUNTO SKINY 60G | 1 | R$ 5.99 |
+| 1512 | SALGADINHO TORCIDA QUEIJO 60G | 1 | R$ 3.89 |
+| 88 | BISCOITO COOKIES GALAK NESTLE 60G | 1 | R$ 4.99 |
+| 1606 | QUEIJO MUSSARELA ITAMBE 150G | 1 | R$ 9.99 |
+| 144 | PICOLE UVA | 1 | R$ 4.99 |
+| 1731 | SMIRNOFF ICE  275ML | 1 | R$ 7.69 |
+| 154 | PICOLE MANGA | 1 | R$ 4.99 |
+| 143 | PICOLE ABACAXI | 1 | R$ 4.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 11 | R$ 98.39 |
+| BEBIDA ALCÓLICA | 6 | R$ 34.34 |
+| LINHA FIT | 5 | R$ 14.95 |
+| MERCEARIA | 3 | R$ 13.77 |
+| DOCES | 3 | R$ 14.47 |
+| GELATOS | 3 | R$ 14.97 |
+| SALGADOS E SNACKS | 2 | R$ 9.88 |
+| FRIOS E CONGELADOS | 1 | R$ 9.99 |
+
+*Gerado em 19/10/2026 05:11:32*

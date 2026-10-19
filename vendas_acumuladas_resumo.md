@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2358
+**Total de unidades vendidas:** 2374
 
-**Valor total vendido:** R$ 17229.25
+**Valor total vendido:** R$ 17321.09
 
 ## 🏷️ Vendas por Categoria
 
@@ -10,8 +10,8 @@
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 593 | R$ 5752.96 |
 | DOCES | 563 | R$ 2551.22 |
-| BEBIDA ALCÓLICA | 501 | R$ 3006.87 |
-| MERCEARIA | 269 | R$ 2143.86 |
+| BEBIDA ALCÓLICA | 516 | R$ 3091.42 |
+| MERCEARIA | 270 | R$ 2151.15 |
 | SALGADOS E SNACKS | 122 | R$ 765.83 |
 | GELATOS | 79 | R$ 563.21 |
 | FRIOS E CONGELADOS | 56 | R$ 669.30 |
@@ -29,10 +29,10 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 161 | R$ 755.09 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 87 | R$ 477.12 |
 | 1395 | CERVEJA HEINEKEN 350ML | 86 | R$ 635.54 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 80 | R$ 1037.40 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 74 | R$ 957.66 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 73 | R$ 400.26 |
 | 132 | PACOQUITA SANTA HELENA 20G | 70 | R$ 111.30 |
 | 236 | BALA DE GOMA IOGURTE 32G | 60 | R$ 119.40 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 51 | R$ 70.89 |
@@ -109,5 +109,6 @@
 | 2026-10-16 | 32 | R$ 212.38 |
 | 2026-10-17 | 28 | R$ 227.82 |
 | 2026-10-18 | 34 | R$ 210.76 |
+| 2026-10-19 | 16 | R$ 91.84 |
 
-*Última atualização: 18/10/2026 23:08:34*
+*Última atualização: 19/10/2026 05:11:32*

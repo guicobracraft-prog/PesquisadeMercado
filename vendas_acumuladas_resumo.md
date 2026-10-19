@@ -1,20 +1,20 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2344
+**Total de unidades vendidas:** 2358
 
-**Valor total vendido:** R$ 17130.69
+**Valor total vendido:** R$ 17229.25
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 590 | R$ 5713.99 |
-| DOCES | 561 | R$ 2544.24 |
-| BEBIDA ALCÓLICA | 499 | R$ 2994.49 |
-| MERCEARIA | 268 | R$ 2138.47 |
-| SALGADOS E SNACKS | 120 | R$ 755.95 |
-| GELATOS | 76 | R$ 548.24 |
-| FRIOS E CONGELADOS | 55 | R$ 659.31 |
+| BEBIDA NÃO ALCÓLICA | 593 | R$ 5752.96 |
+| DOCES | 563 | R$ 2551.22 |
+| BEBIDA ALCÓLICA | 501 | R$ 3006.87 |
+| MERCEARIA | 269 | R$ 2143.86 |
+| SALGADOS E SNACKS | 122 | R$ 765.83 |
+| GELATOS | 79 | R$ 563.21 |
+| FRIOS E CONGELADOS | 56 | R$ 669.30 |
 | HIGIENE E LIMPEZA | 50 | R$ 555.18 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -28,10 +28,10 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 160 | R$ 750.40 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 161 | R$ 755.09 |
 | 1395 | CERVEJA HEINEKEN 350ML | 86 | R$ 635.54 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 78 | R$ 1011.42 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 73 | R$ 944.67 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 80 | R$ 1037.40 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 74 | R$ 957.66 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 73 | R$ 400.26 |
 | 132 | PACOQUITA SANTA HELENA 20G | 70 | R$ 111.30 |
 | 236 | BALA DE GOMA IOGURTE 32G | 60 | R$ 119.40 |
@@ -43,8 +43,8 @@
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 24 | R$ 131.76 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 24 | R$ 83.76 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 24 | R$ 47.76 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
-| 1400 | BALA DE GOMA FRUTAS DORI 32G | 23 | R$ 45.77 |
 | 44 | H2O LIMONETO 500ML | 21 | R$ 164.46 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 21 | R$ 115.29 |
 | 1467 | ENERGETICO ULTRA MONSTER 473ML | 20 | R$ 279.80 |
@@ -108,6 +108,6 @@
 | 2026-10-15 | 31 | R$ 210.89 |
 | 2026-10-16 | 32 | R$ 212.38 |
 | 2026-10-17 | 28 | R$ 227.82 |
-| 2026-10-18 | 20 | R$ 112.20 |
+| 2026-10-18 | 34 | R$ 210.76 |
 
-*Última atualização: 18/10/2026 20:45:24*
+*Última atualização: 18/10/2026 23:08:34*

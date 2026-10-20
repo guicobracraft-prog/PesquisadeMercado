@@ -1,21 +1,21 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2381
+**Total de unidades vendidas:** 2395
 
-**Valor total vendido:** R$ 17368.22
+**Valor total vendido:** R$ 17457.58
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 594 | R$ 5765.95 |
-| DOCES | 565 | R$ 2559.20 |
-| BEBIDA ALCÓLICA | 516 | R$ 3091.42 |
-| MERCEARIA | 271 | R$ 2155.14 |
-| SALGADOS E SNACKS | 122 | R$ 765.83 |
+| BEBIDA NÃO ALCÓLICA | 596 | R$ 5784.43 |
+| DOCES | 571 | R$ 2587.44 |
+| BEBIDA ALCÓLICA | 518 | R$ 3102.40 |
+| MERCEARIA | 272 | R$ 2161.03 |
+| SALGADOS E SNACKS | 124 | R$ 787.81 |
 | GELATOS | 79 | R$ 563.21 |
 | FRIOS E CONGELADOS | 57 | R$ 682.19 |
-| HIGIENE E LIMPEZA | 52 | R$ 564.46 |
+| HIGIENE E LIMPEZA | 53 | R$ 568.25 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | LINHA FIT | 25 | R$ 84.64 |
@@ -29,10 +29,10 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 161 | R$ 755.09 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 87 | R$ 477.12 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 89 | R$ 488.10 |
 | 1395 | CERVEJA HEINEKEN 350ML | 86 | R$ 635.54 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 80 | R$ 1037.40 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 75 | R$ 970.65 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 76 | R$ 983.64 |
 | 132 | PACOQUITA SANTA HELENA 20G | 70 | R$ 111.30 |
 | 236 | BALA DE GOMA IOGURTE 32G | 60 | R$ 119.40 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 51 | R$ 70.89 |
@@ -47,7 +47,7 @@
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
 | 44 | H2O LIMONETO 500ML | 21 | R$ 164.46 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 21 | R$ 115.29 |
-| 1467 | ENERGETICO ULTRA MONSTER 473ML | 20 | R$ 279.80 |
+| 61 | REFRIGERANTE SPRITE 310ML | 21 | R$ 115.29 |
 
 ## 📅 Vendas por Dia
 
@@ -110,5 +110,6 @@
 | 2026-10-17 | 28 | R$ 227.82 |
 | 2026-10-18 | 34 | R$ 210.76 |
 | 2026-10-19 | 23 | R$ 138.97 |
+| 2026-10-20 | 14 | R$ 89.36 |
 
-*Última atualização: 19/10/2026 21:00:10*
+*Última atualização: 20/10/2026 02:28:10*

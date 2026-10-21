@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2419
+**Total de unidades vendidas:** 2433
 
-**Valor total vendido:** R$ 17668.24
+**Valor total vendido:** R$ 17761.60
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 599 | R$ 5813.00 |
-| DOCES | 573 | R$ 2593.32 |
-| BEBIDA ALCÓLICA | 531 | R$ 3198.67 |
-| MERCEARIA | 274 | R$ 2172.01 |
+| BEBIDA NÃO ALCÓLICA | 603 | R$ 5839.86 |
+| DOCES | 575 | R$ 2608.90 |
+| BEBIDA ALCÓLICA | 537 | R$ 3230.61 |
+| MERCEARIA | 276 | R$ 2190.99 |
 | SALGADOS E SNACKS | 125 | R$ 803.80 |
 | GELATOS | 79 | R$ 563.21 |
 | FRIOS E CONGELADOS | 58 | R$ 693.18 |
@@ -28,12 +28,12 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 173 | R$ 811.37 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 89 | R$ 488.10 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 177 | R$ 830.13 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 90 | R$ 493.59 |
 | 1395 | CERVEJA HEINEKEN 350ML | 86 | R$ 635.54 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 81 | R$ 1050.39 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 82 | R$ 1063.38 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 76 | R$ 983.64 |
-| 132 | PACOQUITA SANTA HELENA 20G | 70 | R$ 111.30 |
+| 132 | PACOQUITA SANTA HELENA 20G | 71 | R$ 112.89 |
 | 236 | BALA DE GOMA IOGURTE 32G | 60 | R$ 119.40 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 52 | R$ 72.28 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
@@ -45,7 +45,7 @@
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 24 | R$ 83.76 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 24 | R$ 47.76 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
-| 44 | H2O LIMONETO 500ML | 21 | R$ 164.46 |
+| 44 | H2O LIMONETO 500ML | 22 | R$ 172.35 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 21 | R$ 115.29 |
 | 61 | REFRIGERANTE SPRITE 310ML | 21 | R$ 115.29 |
 
@@ -111,6 +111,6 @@
 | 2026-10-18 | 34 | R$ 210.76 |
 | 2026-10-19 | 23 | R$ 138.97 |
 | 2026-10-20 | 22 | R$ 185.78 |
-| 2026-10-21 | 16 | R$ 114.24 |
+| 2026-10-21 | 30 | R$ 207.60 |
 
-*Última atualização: 21/10/2026 03:42:01*
+*Última atualização: 21/10/2026 09:30:41*

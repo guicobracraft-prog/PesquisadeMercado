@@ -1,0 +1,47 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-20
+======================================================================
+
+Total de unidades vendidas: 22
+Valor total vendido: R$ 185.78
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1318   BISCOITO COOKIES ALPINO NESTLE 60G           3     R$ 14.97
+1667   TORRONE COM AMENDOIM 70G                     2      R$ 8.98
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         2     R$ 10.98
+59     BATATA ORIGINAL PRINGLES 104G                2     R$ 31.98
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 12.99
+1735   DETERGENTE LIMAO LIMPOL 500ML                1      R$ 3.79
+1724   SALGADINHO PRESUNTO SKINY 60G                1      R$ 5.99
+1348   WAFER BAUNILHA RANCHEIRO 78G                 1      R$ 3.79
+88     BISCOITO COOKIES GALAK NESTLE 60G            1      R$ 4.99
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1412   COCO RALADO COPRA 100G                       1      R$ 5.89
+1732   PIRULITO IOGURTE DORI 11,2G                  1      R$ 1.39
+51     BARRA DE CEREAL AVEIA COM BANANA E MEL..     1      R$ 2.99
+1693   CARREGADOR TURBO 125 DUO MOTOROLA            1     R$ 38.99
+68     GATORADE LARANJA 500ML                       1      R$ 8.59
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 12.99
+1749   APRESUNTADO PERDIGAO 200G                    1     R$ 10.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        8     R$ 34.12
+BEBIDA NÃO ALCÓLICA                          4     R$ 40.06
+SALGADOS E SNACKS                            3     R$ 37.97
+BEBIDA ALCÓLICA                              2     R$ 10.98
+HIGIENE E LIMPEZA                            1      R$ 3.79
+MERCEARIA                                    1      R$ 5.89
+LINHA FIT                                    1      R$ 2.99
+MATERIAIS ELETRONICOS                        1     R$ 38.99
+FRIOS E CONGELADOS                           1     R$ 10.99
+----------------------------------------------------------------------
+
+Gerado em: 21/10/2026 03:42:01
+======================================================================

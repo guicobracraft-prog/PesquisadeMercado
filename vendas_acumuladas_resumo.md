@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2433
+**Total de unidades vendidas:** 2443
 
-**Valor total vendido:** R$ 17761.60
+**Valor total vendido:** R$ 17833.70
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 603 | R$ 5839.86 |
-| DOCES | 575 | R$ 2608.90 |
+| BEBIDA NÃO ALCÓLICA | 607 | R$ 5886.72 |
+| DOCES | 577 | R$ 2614.78 |
 | BEBIDA ALCÓLICA | 537 | R$ 3230.61 |
-| MERCEARIA | 276 | R$ 2190.99 |
-| SALGADOS E SNACKS | 125 | R$ 803.80 |
-| GELATOS | 79 | R$ 563.21 |
+| MERCEARIA | 278 | R$ 2199.37 |
+| SALGADOS E SNACKS | 126 | R$ 809.79 |
+| GELATOS | 80 | R$ 568.20 |
 | FRIOS E CONGELADOS | 58 | R$ 693.18 |
 | HIGIENE E LIMPEZA | 53 | R$ 568.25 |
 | ARTESANAIS | 30 | R$ 284.70 |
@@ -35,7 +35,7 @@
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 76 | R$ 983.64 |
 | 132 | PACOQUITA SANTA HELENA 20G | 71 | R$ 112.89 |
 | 236 | BALA DE GOMA IOGURTE 32G | 60 | R$ 119.40 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 52 | R$ 72.28 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 53 | R$ 73.67 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 30 | R$ 356.70 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 29 | R$ 342.21 |
@@ -47,7 +47,7 @@
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
 | 44 | H2O LIMONETO 500ML | 22 | R$ 172.35 |
 | 54 | REFRIGERANTE FANTA LARANJA 310ML | 21 | R$ 115.29 |
-| 61 | REFRIGERANTE SPRITE 310ML | 21 | R$ 115.29 |
+| 1467 | ENERGETICO ULTRA MONSTER 473ML | 21 | R$ 293.79 |
 
 ## 📅 Vendas por Dia
 
@@ -111,6 +111,6 @@
 | 2026-10-18 | 34 | R$ 210.76 |
 | 2026-10-19 | 23 | R$ 138.97 |
 | 2026-10-20 | 22 | R$ 185.78 |
-| 2026-10-21 | 30 | R$ 207.60 |
+| 2026-10-21 | 40 | R$ 279.70 |
 
-*Última atualização: 21/10/2026 09:30:41*
+*Última atualização: 21/10/2026 14:43:19*

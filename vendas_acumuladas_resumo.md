@@ -1,24 +1,24 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2474
+**Total de unidades vendidas:** 2484
 
-**Valor total vendido:** R$ 18002.59
+**Valor total vendido:** R$ 18077.09
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 610 | R$ 5911.19 |
-| DOCES | 589 | R$ 2649.46 |
+| BEBIDA NÃO ALCÓLICA | 613 | R$ 5937.66 |
+| DOCES | 591 | R$ 2658.54 |
 | BEBIDA ALCÓLICA | 544 | R$ 3278.54 |
-| MERCEARIA | 283 | R$ 2231.42 |
+| MERCEARIA | 285 | R$ 2247.10 |
 | SALGADOS E SNACKS | 130 | R$ 839.55 |
 | GELATOS | 80 | R$ 568.20 |
-| FRIOS E CONGELADOS | 58 | R$ 693.18 |
-| HIGIENE E LIMPEZA | 53 | R$ 568.25 |
+| FRIOS E CONGELADOS | 59 | R$ 709.67 |
+| HIGIENE E LIMPEZA | 54 | R$ 572.04 |
 | ARTESANAIS | 30 | R$ 284.70 |
+| LINHA FIT | 27 | R$ 90.62 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| LINHA FIT | 26 | R$ 87.63 |
 | DESCARTÁVEIS E UTILIDADES | 16 | R$ 96.54 |
 | CARNES | 11 | R$ 188.43 |
 | MATERIAIS ELETRONICOS | 10 | R$ 185.90 |
@@ -33,7 +33,7 @@
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 90 | R$ 493.59 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 82 | R$ 1063.38 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 76 | R$ 983.64 |
-| 132 | PACOQUITA SANTA HELENA 20G | 75 | R$ 119.25 |
+| 132 | PACOQUITA SANTA HELENA 20G | 76 | R$ 120.84 |
 | 236 | BALA DE GOMA IOGURTE 32G | 62 | R$ 123.38 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 54 | R$ 75.06 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
@@ -46,8 +46,8 @@
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 24 | R$ 47.76 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 23 | R$ 161.56 |
 | 44 | H2O LIMONETO 500ML | 22 | R$ 172.35 |
+| 1467 | ENERGETICO ULTRA MONSTER 473ML | 22 | R$ 307.78 |
 | 1731 | SMIRNOFF ICE  275ML | 22 | R$ 169.18 |
-| 54 | REFRIGERANTE FANTA LARANJA 310ML | 21 | R$ 115.29 |
 
 ## 📅 Vendas por Dia
 
@@ -112,6 +112,6 @@
 | 2026-10-19 | 23 | R$ 138.97 |
 | 2026-10-20 | 22 | R$ 185.78 |
 | 2026-10-21 | 62 | R$ 366.08 |
-| 2026-10-22 | 9 | R$ 82.51 |
+| 2026-10-22 | 19 | R$ 157.01 |
 
-*Última atualização: 22/10/2026 11:10:20*
+*Última atualização: 22/10/2026 15:54:54*

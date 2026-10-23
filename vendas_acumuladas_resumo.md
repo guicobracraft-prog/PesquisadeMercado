@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2516
+**Total de unidades vendidas:** 2520
 
-**Valor total vendido:** R$ 18260.07
+**Valor total vendido:** R$ 18275.03
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | BEBIDA NÃO ALCÓLICA | 615 | R$ 5957.14 |
-| DOCES | 602 | R$ 2692.83 |
+| DOCES | 606 | R$ 2707.79 |
 | BEBIDA ALCÓLICA | 552 | R$ 3326.86 |
 | MERCEARIA | 289 | R$ 2269.36 |
 | SALGADOS E SNACKS | 132 | R$ 850.33 |
@@ -39,8 +39,8 @@
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 30 | R$ 356.70 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 29 | R$ 342.21 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 28 | R$ 55.72 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
-| 1400 | BALA DE GOMA FRUTAS DORI 32G | 26 | R$ 51.74 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 25 | R$ 87.25 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 24 | R$ 131.76 |
@@ -113,6 +113,6 @@
 | 2026-10-20 | 22 | R$ 185.78 |
 | 2026-10-21 | 62 | R$ 366.08 |
 | 2026-10-22 | 28 | R$ 209.82 |
-| 2026-10-23 | 23 | R$ 130.17 |
+| 2026-10-23 | 27 | R$ 145.13 |
 
-*Última atualização: 23/10/2026 12:30:09*
+*Última atualização: 23/10/2026 16:36:04*

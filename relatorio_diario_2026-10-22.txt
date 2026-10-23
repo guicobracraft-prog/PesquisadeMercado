@@ -1,0 +1,52 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-22
+======================================================================
+
+Total de unidades vendidas: 28
+Valor total vendido: R$ 209.82
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1395   CERVEJA HEINEKEN 350ML                       4     R$ 29.56
+132    PACOQUITA SANTA HELENA 20G                   3      R$ 4.77
+1511   CERVEJA PURO MALTE AMSTEL 269ML              2      R$ 9.38
+88     BISCOITO COOKIES GALAK NESTLE 60G            1      R$ 4.99
+43     SUCO DE LARANJA DAFRUTA 1L                   1      R$ 6.99
+1344   PAO DE FORMA TRADICIONAL VISCONTI 400G       1     R$ 10.99
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+57     BATATA CREME E CEBOLA PRINGLES 109G          1     R$ 15.99
+1509   LASANHA BOLONHESA FORNO DE MINAS 600G        1     R$ 16.49
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 13.99
+1735   DETERGENTE LIMAO LIMPOL 500ML                1      R$ 3.79
+1424   ALHO PICADO CAMPEAO 200G                     1     R$ 11.49
+1454   SUCO DE MANGA NUTRI 1L                       1      R$ 6.99
+1674   MACARRAO NISSIN CARNE 80G                    1      R$ 4.19
+51     BARRA DE CEREAL AVEIA COM BANANA E MEL..     1      R$ 2.99
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+1514   BALA FINI MINHOCAS CITRICAS 100G             1      R$ 7.49
+1516   BALA FINI BANANAS 100G                       1      R$ 7.49
+1667   TORRONE COM AMENDOIM 70G                     1      R$ 4.49
+265    MILHO PREDILECTA 170G                        1      R$ 5.39
+1438   LINGUICA TOSCANA SUINA SEARA 600G            1     R$ 18.99
+1535   MOLHO DE TOMATE POMODORO 300G                1      R$ 3.89
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        7     R$ 29.23
+BEBIDA ALCÓLICA                              6     R$ 38.94
+BEBIDA NÃO ALCÓLICA                          5     R$ 47.45
+MERCEARIA                                    5     R$ 35.95
+SALGADOS E SNACKS                            1     R$ 15.99
+FRIOS E CONGELADOS                           1     R$ 16.49
+HIGIENE E LIMPEZA                            1      R$ 3.79
+LINHA FIT                                    1      R$ 2.99
+CARNES E AVES                                1     R$ 18.99
+----------------------------------------------------------------------
+
+Gerado em: 23/10/2026 02:31:03
+======================================================================

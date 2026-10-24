@@ -1,0 +1,60 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-23
+======================================================================
+
+Total de unidades vendidas: 45
+Valor total vendido: R$ 316.55
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1400   BALA DE GOMA FRUTAS DORI 32G                 5      R$ 9.95
+1395   CERVEJA HEINEKEN 350ML                       4     R$ 29.56
+281    BALA MENTOS FANTA LARANJA 37,5G              3     R$ 10.47
+1732   PIRULITO IOGURTE DORI 11,2G                  2      R$ 2.78
+1511   CERVEJA PURO MALTE AMSTEL 269ML              2      R$ 9.38
+132    PACOQUITA SANTA HELENA 20G                   2      R$ 3.18
+50     BARRA DE CEREAL BOLO DE CHOCOLATE NUTR..     2      R$ 5.98
+1700   TIRINHAS DE FRANGO AURORA 275G               2     R$ 25.78
+1387   VINHO CHILENO CONCHA Y TORO BRANCO SUA..     2     R$ 79.98
+82     AMENDOIM JAPONES DORI 75G                    1      R$ 6.19
+1475   SALGADINHO YOKITOS REQUEIJAO 45G             1      R$ 4.59
+1667   TORRONE COM AMENDOIM 70G                     1      R$ 4.49
+1364   FARINHA DE TRIGO TIA OFELIA 1KG              1      R$ 4.99
+18     CHOCOLATE LOLLO NESTLE 28G                   1      R$ 5.69
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1505   TORRONE ARCOR 25G                            1      R$ 1.99
+1633   LEITE SEMI DESNATADO ITALAC 1L               1      R$ 7.99
+1772   QUEIJO MUSSARELA DEALE 150G                  1      R$ 9.99
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+1516   BALA FINI BANANAS 100G                       1      R$ 7.49
+1335   GOMA DE TAPIOCA AKIO 320G                    1      R$ 5.89
+1442   CARVAO BRASA 2,5KG                           1     R$ 15.49
+1499   BISCOITO BONO CHOCOLATE 90G                  1      R$ 5.29
+1329   FIO DENTAL MENTHA HILLO 50M                  1     R$ 10.89
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+288    AGUA MINERAL COM GAS INDAIA 500ML            1      R$ 3.49
+236    BALA DE GOMA IOGURTE 32G                     1      R$ 1.99
+190    REFRIGERANTE COCA COLA ZERO 310ML            1      R$ 5.49
+1514   BALA FINI MINHOCAS CITRICAS 100G             1      R$ 7.49
+1734   DETERGENTE COCO LIMPOL 500ML                 1      R$ 3.79
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                       20     R$ 67.60
+BEBIDA ALCÓLICA                              8    R$ 118.92
+BEBIDA NÃO ALCÓLICA                          4     R$ 28.46
+MERCEARIA                                    3     R$ 18.87
+FRIOS E CONGELADOS                           3     R$ 35.77
+SALGADOS E SNACKS                            2     R$ 10.78
+LINHA FIT                                    2      R$ 5.98
+HIGIENE E LIMPEZA                            2     R$ 14.68
+DESCARTÁVEIS E UTILIDADES                    1     R$ 15.49
+----------------------------------------------------------------------
+
+Gerado em: 24/10/2026 03:36:31
+======================================================================

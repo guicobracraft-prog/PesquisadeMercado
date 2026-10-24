@@ -1,27 +1,27 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2538
+**Total de unidades vendidas:** 2548
 
-**Valor total vendido:** R$ 18446.45
+**Valor total vendido:** R$ 18537.95
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| BEBIDA NÃO ALCÓLICA | 617 | R$ 5966.12 |
-| DOCES | 615 | R$ 2741.30 |
-| BEBIDA ALCÓLICA | 554 | R$ 3406.84 |
-| MERCEARIA | 290 | R$ 2275.25 |
+| BEBIDA NÃO ALCÓLICA | 619 | R$ 5977.10 |
+| DOCES | 618 | R$ 2752.97 |
+| BEBIDA ALCÓLICA | 556 | R$ 3421.62 |
+| MERCEARIA | 291 | R$ 2279.44 |
 | SALGADOS E SNACKS | 132 | R$ 850.33 |
 | GELATOS | 80 | R$ 568.20 |
 | FRIOS E CONGELADOS | 62 | R$ 745.44 |
-| HIGIENE E LIMPEZA | 56 | R$ 586.72 |
+| HIGIENE E LIMPEZA | 57 | R$ 601.61 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | LINHA FIT | 29 | R$ 96.60 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | DESCARTÁVEIS E UTILIDADES | 17 | R$ 112.03 |
 | CARNES | 11 | R$ 188.43 |
-| MATERIAIS ELETRONICOS | 10 | R$ 185.90 |
+| MATERIAIS ELETRONICOS | 11 | R$ 220.89 |
 | CARNES E AVES | 9 | R$ 158.91 |
 
 ## 🛒 Top 20 Produtos Mais Vendidos
@@ -29,13 +29,13 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 182 | R$ 853.58 |
-| 1395 | CERVEJA HEINEKEN 350ML | 94 | R$ 694.66 |
+| 1395 | CERVEJA HEINEKEN 350ML | 96 | R$ 709.44 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 90 | R$ 493.59 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 82 | R$ 1063.38 |
 | 132 | PACOQUITA SANTA HELENA 20G | 80 | R$ 127.20 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 76 | R$ 983.64 |
 | 236 | BALA DE GOMA IOGURTE 32G | 63 | R$ 125.37 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 56 | R$ 77.84 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 57 | R$ 79.23 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 30 | R$ 356.70 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 29 | R$ 342.21 |
@@ -46,8 +46,8 @@
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 24 | R$ 168.35 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
 | 44 | H2O LIMONETO 500ML | 22 | R$ 172.35 |
+| 55 | REFRIGERANTE COCA COLA 310ML | 22 | R$ 120.78 |
 | 1467 | ENERGETICO ULTRA MONSTER 473ML | 22 | R$ 307.78 |
-| 61 | REFRIGERANTE SPRITE 310ML | 22 | R$ 120.78 |
 
 ## 📅 Vendas por Dia
 
@@ -114,5 +114,6 @@
 | 2026-10-21 | 62 | R$ 366.08 |
 | 2026-10-22 | 28 | R$ 209.82 |
 | 2026-10-23 | 45 | R$ 316.55 |
+| 2026-10-24 | 10 | R$ 91.50 |
 
-*Última atualização: 23/10/2026 22:12:55*
+*Última atualização: 24/10/2026 03:36:31*

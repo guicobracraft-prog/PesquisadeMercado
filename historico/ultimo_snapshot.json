@@ -1,6 +1,6 @@
 {
-  "timestamp": "20261025_201002",
-  "timestamp_iso": "2026-10-25T20:10:02.150699+00:00",
+  "timestamp": "20261025_225316",
+  "timestamp_iso": "2026-10-25T22:53:16.357884+00:00",
   "produtos": {
     "1349": {
       "estoque": 3,
@@ -174,6 +174,10 @@
       "estoque": 3,
       "valor": 15.99
     },
+    "1748": {
+      "estoque": 3,
+      "valor": 21.99
+    },
     "57": {
       "estoque": 3,
       "valor": 15.99
@@ -310,17 +314,13 @@
       "estoque": 10,
       "valor": 5.99
     },
-    "1395": {
-      "estoque": 9,
-      "valor": 7.39
+    "1720": {
+      "estoque": 10,
+      "valor": 6.99
     },
     "1511": {
       "estoque": 23,
       "valor": 4.69
-    },
-    "1397": {
-      "estoque": 7,
-      "valor": 5.49
     },
     "1357": {
       "estoque": 2,
@@ -806,9 +806,17 @@
       "estoque": 2,
       "valor": 6.99
     },
+    "1420": {
+      "estoque": 7,
+      "valor": 12.99
+    },
     "55": {
       "estoque": 6,
       "valor": 5.49
+    },
+    "1464": {
+      "estoque": 9,
+      "valor": 12.99
     },
     "190": {
       "estoque": 8,
@@ -818,9 +826,17 @@
       "estoque": 6,
       "valor": 5.49
     },
+    "1385": {
+      "estoque": 6,
+      "valor": 12.99
+    },
     "1407": {
       "estoque": 4,
       "valor": 5.49
+    },
+    "1406": {
+      "estoque": 6,
+      "valor": 12.99
     },
     "61": {
       "estoque": 7,
@@ -862,8 +878,12 @@
       "estoque": 5,
       "valor": 3.89
     },
+    "253": {
+      "estoque": 5,
+      "valor": 3.89
+    },
     "1512": {
-      "estoque": 3,
+      "estoque": 5,
       "valor": 3.89
     },
     "1681": {

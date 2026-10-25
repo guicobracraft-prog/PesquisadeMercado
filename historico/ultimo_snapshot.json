@@ -1,13 +1,13 @@
 {
-  "timestamp": "20261025_052701",
-  "timestamp_iso": "2026-10-25T05:27:01.598292+00:00",
+  "timestamp": "20261025_101733",
+  "timestamp_iso": "2026-10-25T10:17:33.541191+00:00",
   "produtos": {
     "1349": {
       "estoque": 3,
       "valor": 14.89
     },
     "1541": {
-      "estoque": 4,
+      "estoque": 3,
       "valor": 14.89
     },
     "275": {
@@ -315,11 +315,11 @@
       "valor": 7.39
     },
     "1511": {
-      "estoque": 32,
+      "estoque": 24,
       "valor": 4.69
     },
     "1397": {
-      "estoque": 14,
+      "estoque": 12,
       "valor": 5.49
     },
     "1357": {
@@ -504,15 +504,15 @@
     },
     "68": {
       "estoque": 3,
-      "valor": 8.59
+      "valor": 8.69
     },
     "69": {
       "estoque": 7,
-      "valor": 8.59
+      "valor": 8.69
     },
     "70": {
       "estoque": 2,
-      "valor": 8.59
+      "valor": 8.69
     },
     "1496": {
       "estoque": 4,
@@ -760,7 +760,7 @@
     },
     "1732": {
       "estoque": 39,
-      "valor": 1.39
+      "valor": 1.49
     },
     "1777": {
       "estoque": 3,

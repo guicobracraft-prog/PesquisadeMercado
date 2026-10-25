@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2582
+**Total de unidades vendidas:** 2593
 
-**Valor total vendido:** R$ 18719.81
+**Valor total vendido:** R$ 18783.20
 
 ## 🏷️ Vendas por Categoria
 
@@ -10,12 +10,12 @@
 |-----------|-----------:|------------:|
 | DOCES | 636 | R$ 2829.59 |
 | BEBIDA NÃO ALCÓLICA | 622 | R$ 6008.57 |
-| BEBIDA ALCÓLICA | 563 | R$ 3455.25 |
+| BEBIDA ALCÓLICA | 573 | R$ 3503.75 |
 | MERCEARIA | 295 | R$ 2308.70 |
 | SALGADOS E SNACKS | 133 | R$ 854.22 |
 | GELATOS | 80 | R$ 568.20 |
 | FRIOS E CONGELADOS | 62 | R$ 745.44 |
-| HIGIENE E LIMPEZA | 57 | R$ 601.61 |
+| HIGIENE E LIMPEZA | 58 | R$ 616.50 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | LINHA FIT | 29 | R$ 96.60 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -28,9 +28,9 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 188 | R$ 881.72 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 196 | R$ 919.24 |
 | 1395 | CERVEJA HEINEKEN 350ML | 96 | R$ 709.44 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 91 | R$ 499.08 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 93 | R$ 510.06 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 82 | R$ 1063.38 |
 | 132 | PACOQUITA SANTA HELENA 20G | 81 | R$ 128.79 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 76 | R$ 983.64 |
@@ -115,6 +115,6 @@
 | 2026-10-22 | 28 | R$ 209.82 |
 | 2026-10-23 | 45 | R$ 316.55 |
 | 2026-10-24 | 35 | R$ 243.75 |
-| 2026-10-25 | 9 | R$ 29.61 |
+| 2026-10-25 | 20 | R$ 93.00 |
 
-*Última atualização: 25/10/2026 02:27:01*
+*Última atualização: 25/10/2026 07:17:33*

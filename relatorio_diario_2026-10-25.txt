@@ -1,0 +1,46 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-25
+======================================================================
+
+Total de unidades vendidas: 39
+Valor total vendido: R$ 250.01
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML             11     R$ 51.59
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         7     R$ 38.43
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 3.98
+1344   PAO DE FORMA TRADICIONAL VISCONTI 400G       2     R$ 21.98
+1728   CREME DE LEITE ITALAC 200G                   2      R$ 7.98
+1395   CERVEJA HEINEKEN 350ML                       2     R$ 14.78
+1732   PIRULITO IOGURTE DORI 11,2G                  1      R$ 1.39
+281    BALA MENTOS FANTA LARANJA 37,5G              1      R$ 3.49
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 5.19
+236    BALA DE GOMA IOGURTE 32G                     1      R$ 1.99
+1675   MACARRAO NISSIN LEGUMES 80G                  1      R$ 4.19
+1541   ABSORVENTE OB MEDIO 10UN                     1     R$ 14.89
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+1789   CAFE EXTRA FORTE PILAO 250G                  1     R$ 19.99
+1587   ENERGETICO MORANGO E PESSEGO BALY 2L         1     R$ 15.99
+44     H2O LIMONETO 500ML                           1      R$ 7.89
+1512   SALGADINHO TORCIDA QUEIJO 60G                1      R$ 3.89
+288    AGUA MINERAL COM GAS INDAIA 500ML            1      R$ 3.49
+1764   VEJA PERFUMADO BUQUE DO CERRADO 2L           1     R$ 14.89
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             20    R$ 104.80
+MERCEARIA                                    7     R$ 59.33
+DOCES                                        5     R$ 10.85
+BEBIDA NÃO ALCÓLICA                          4     R$ 41.36
+HIGIENE E LIMPEZA                            2     R$ 29.78
+SALGADOS E SNACKS                            1      R$ 3.89
+----------------------------------------------------------------------
+
+Gerado em: 26/10/2026 02:31:34
+======================================================================

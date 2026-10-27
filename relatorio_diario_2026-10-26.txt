@@ -1,0 +1,68 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-26
+======================================================================
+
+Total de unidades vendidas: 72
+Valor total vendido: R$ 449.68
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML             15     R$ 70.35
+1720   CERVEJA PURE GOLD STELLA ARTOIS 269ML        6     R$ 41.94
+1420   REFRIGERANTE COCA COLA 2L                    4     R$ 51.96
+1400   BALA DE GOMA FRUTAS DORI 32G                 3      R$ 5.97
+1732   PIRULITO IOGURTE DORI 11,2G                  3      R$ 4.47
+61     REFRIGERANTE SPRITE 310ML                    2     R$ 10.98
+18     CHOCOLATE LOLLO NESTLE 28G                   2     R$ 11.38
+1407   REFRIGERANTE GUARANA ANTARCTICA 350ML        2     R$ 10.98
+132    PACOQUITA SANTA HELENA 20G                   2      R$ 3.18
+1784   CHA MATTE LIMAO LEAO 300ML                   2     R$ 10.78
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     2      R$ 5.98
+253    SALGADINHO TORCIDA CEBOLA 60G                2      R$ 7.78
+143    PICOLE ABACAXI                               1      R$ 4.99
+1754   PAPEL HIGIENICO PERSONAL VIP 12UN            1     R$ 15.49
+1786   SALGADINHO ORIGINAL SKINY 60G                1      R$ 5.99
+1454   SUCO DE MANGA NUTRI 1L                       1      R$ 6.99
+1665   BOLO DE LARANJA COM CHOCOLATE BAUDUCCO..     1     R$ 13.99
+1333   PIPOCA DE MICROONDAS NATURAL COM SAL Y..     1      R$ 7.99
+1509   LASANHA BOLONHESA FORNO DE MINAS 600G        1     R$ 16.49
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 12.99
+1373   ARROZ PARBOILIZADO URBANO 1KG                1      R$ 7.59
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 13.99
+1331   TORRADA TRADICIONAL BAUDUCCO 142G            1      R$ 7.29
+260    MACARRAO PARAFUSO ARAGUAIA 500G              1      R$ 4.99
+1787   MARGARINA COM SAL DORIANA 250G               1      R$ 8.99
+279    FLOCAO DE MILHO TIO EMILIO 400G              1      R$ 2.39
+1747   APARELHO DE BARBEAR BIC UN                   1      R$ 6.29
+1423   CALDO GALINHA MAGGI 57G                      1      R$ 4.39
+1772   QUEIJO MUSSARELA DEALE 150G                  1      R$ 9.99
+1452   SAL REFINADO GLOBO 1KG                       1      R$ 4.29
+1339   FERMENTO QUIMICO APTI 100G                   1      R$ 4.99
+213    H2O LIMAO 500ML                              1      R$ 7.89
+288    AGUA MINERAL COM GAS INDAIA 500ML            1      R$ 3.49
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+82     AMENDOIM JAPONES DORI 75G                    1      R$ 6.19
+1791   ALHO PICADO GARLIC 200G                      1     R$ 11.49
+3      HALLS MENTOL 28G                             1      R$ 2.99
+1478   TEMPERO BAIANO CHEF                          1      R$ 5.69
+1788   REQUEIJAO TRADICIONAL NESTLE 200G            1     R$ 10.59
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             21    R$ 112.29
+BEBIDA NÃO ALCÓLICA                         16    R$ 130.74
+DOCES                                       12     R$ 41.98
+MERCEARIA                                   12     R$ 71.88
+SALGADOS E SNACKS                            4     R$ 19.96
+FRIOS E CONGELADOS                           4     R$ 46.06
+HIGIENE E LIMPEZA                            2     R$ 21.78
+GELATOS                                      1      R$ 4.99
+----------------------------------------------------------------------
+
+Gerado em: 27/10/2026 03:56:55
+======================================================================

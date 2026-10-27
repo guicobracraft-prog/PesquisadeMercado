@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2684
+**Total de unidades vendidas:** 2687
 
-**Valor total vendido:** R$ 19389.89
+**Valor total vendido:** R$ 19408.26
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 648 | R$ 2871.57 |
+| DOCES | 649 | R$ 2878.36 |
 | BEBIDA NÃO ALCÓLICA | 642 | R$ 6180.67 |
-| BEBIDA ALCÓLICA | 602 | R$ 3662.96 |
+| BEBIDA ALCÓLICA | 603 | R$ 3670.65 |
 | MERCEARIA | 312 | R$ 2430.53 |
-| SALGADOS E SNACKS | 138 | R$ 878.07 |
+| SALGADOS E SNACKS | 139 | R$ 881.96 |
 | GELATOS | 81 | R$ 573.19 |
 | FRIOS E CONGELADOS | 66 | R$ 791.50 |
 | HIGIENE E LIMPEZA | 61 | R$ 653.17 |
@@ -41,7 +41,7 @@
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 30 | R$ 356.70 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 29 | R$ 342.21 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 28 | R$ 97.72 |
-| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 26 | R$ 181.93 |
+| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 27 | R$ 188.72 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 25 | R$ 137.25 |
 | 1398 | CERVEJA EISENBAHN 269ML | 24 | R$ 117.25 |
@@ -117,5 +117,6 @@
 | 2026-10-24 | 35 | R$ 243.75 |
 | 2026-10-25 | 39 | R$ 250.01 |
 | 2026-10-26 | 72 | R$ 449.68 |
+| 2026-10-27 | 3 | R$ 18.37 |
 
-*Última atualização: 26/10/2026 22:14:21*
+*Última atualização: 27/10/2026 03:56:55*

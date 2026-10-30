@@ -1,0 +1,1058 @@
+{
+  "timestamp": "20261030_021355",
+  "timestamp_iso": "2026-10-30T02:13:55.303851+00:00",
+  "produtos": {
+    "1349": {
+      "estoque": 3,
+      "valor": 14.89
+    },
+    "1541": {
+      "estoque": 3,
+      "valor": 14.89
+    },
+    "275": {
+      "estoque": 2,
+      "valor": 15.69
+    },
+    "1370": {
+      "estoque": 4,
+      "valor": 8.99
+    },
+    "1574": {
+      "estoque": 5,
+      "valor": 12.99
+    },
+    "156": {
+      "estoque": 9,
+      "valor": 4.99
+    },
+    "1563": {
+      "estoque": 2,
+      "valor": 5.89
+    },
+    "288": {
+      "estoque": 3,
+      "valor": 3.49
+    },
+    "1593": {
+      "estoque": 11,
+      "valor": 3.49
+    },
+    "1307": {
+      "estoque": 4,
+      "valor": 5.89
+    },
+    "1353": {
+      "estoque": 3,
+      "valor": 10.99
+    },
+    "1791": {
+      "estoque": 2,
+      "valor": 11.49
+    },
+    "1380": {
+      "estoque": 8,
+      "valor": 17.79
+    },
+    "1491": {
+      "estoque": 3,
+      "valor": 12.99
+    },
+    "1490": {
+      "estoque": 4,
+      "valor": 12.99
+    },
+    "1320": {
+      "estoque": 5,
+      "valor": 6.19
+    },
+    "82": {
+      "estoque": 4,
+      "valor": 6.19
+    },
+    "1343": {
+      "estoque": 4,
+      "valor": 7.49
+    },
+    "1747": {
+      "estoque": 1,
+      "valor": 6.29
+    },
+    "1790": {
+      "estoque": 3,
+      "valor": 10.99
+    },
+    "1749": {
+      "estoque": 1,
+      "valor": 10.99
+    },
+    "1374": {
+      "estoque": 2,
+      "valor": 7.59
+    },
+    "1373": {
+      "estoque": 2,
+      "valor": 7.59
+    },
+    "1771": {
+      "estoque": 3,
+      "valor": 11.99
+    },
+    "1368": {
+      "estoque": 3,
+      "valor": 11.99
+    },
+    "1405": {
+      "estoque": 4,
+      "valor": 23.59
+    },
+    "1341": {
+      "estoque": 4,
+      "valor": 9.49
+    },
+    "1400": {
+      "estoque": 12,
+      "valor": 1.99
+    },
+    "236": {
+      "estoque": 1,
+      "valor": 1.99
+    },
+    "1537": {
+      "estoque": 2,
+      "valor": 7.49
+    },
+    "1516": {
+      "estoque": 2,
+      "valor": 7.49
+    },
+    "1515": {
+      "estoque": 2,
+      "valor": 7.49
+    },
+    "1539": {
+      "estoque": 3,
+      "valor": 7.49
+    },
+    "1738": {
+      "estoque": 2,
+      "valor": 7.49
+    },
+    "1538": {
+      "estoque": 3,
+      "valor": 7.49
+    },
+    "281": {
+      "estoque": 9,
+      "valor": 3.49
+    },
+    "51": {
+      "estoque": 19,
+      "valor": 2.99
+    },
+    "209": {
+      "estoque": 4,
+      "valor": 2.99
+    },
+    "50": {
+      "estoque": 4,
+      "valor": 2.99
+    },
+    "233": {
+      "estoque": 11,
+      "valor": 2.99
+    },
+    "272": {
+      "estoque": 6,
+      "valor": 9.99
+    },
+    "223": {
+      "estoque": 7,
+      "valor": 9.99
+    },
+    "58": {
+      "estoque": 3,
+      "valor": 15.99
+    },
+    "1804": {
+      "estoque": 6,
+      "valor": 29.99
+    },
+    "1748": {
+      "estoque": 2,
+      "valor": 21.99
+    },
+    "57": {
+      "estoque": 2,
+      "valor": 15.99
+    },
+    "59": {
+      "estoque": 3,
+      "valor": 15.99
+    },
+    "1376": {
+      "estoque": 4,
+      "valor": 19.99
+    },
+    "1591": {
+      "estoque": 2,
+      "valor": 14.39
+    },
+    "163": {
+      "estoque": 3,
+      "valor": 15.99
+    },
+    "228": {
+      "estoque": 8,
+      "valor": 2.99
+    },
+    "1704": {
+      "estoque": 8,
+      "valor": 8.99
+    },
+    "227": {
+      "estoque": 3,
+      "valor": 11.19
+    },
+    "1499": {
+      "estoque": 2,
+      "valor": 5.29
+    },
+    "90": {
+      "estoque": 3,
+      "valor": 5.29
+    },
+    "1525": {
+      "estoque": 3,
+      "valor": 5.29
+    },
+    "1318": {
+      "estoque": 3,
+      "valor": 4.99
+    },
+    "88": {
+      "estoque": 1,
+      "valor": 4.99
+    },
+    "1413": {
+      "estoque": 4,
+      "valor": 6.99
+    },
+    "1457": {
+      "estoque": 2,
+      "valor": 5.29
+    },
+    "1487": {
+      "estoque": 1,
+      "valor": 13.99
+    },
+    "1793": {
+      "estoque": 2,
+      "valor": 13.99
+    },
+    "1792": {
+      "estoque": 2,
+      "valor": 13.99
+    },
+    "1510": {
+      "estoque": 4,
+      "valor": 20.99
+    },
+    "1789": {
+      "estoque": 3,
+      "valor": 19.99
+    },
+    "1629": {
+      "estoque": 1,
+      "valor": 20.99
+    },
+    "1421": {
+      "estoque": 5,
+      "valor": 4.39
+    },
+    "1423": {
+      "estoque": 5,
+      "valor": 4.39
+    },
+    "1422": {
+      "estoque": 6,
+      "valor": 4.39
+    },
+    "1432": {
+      "estoque": 1,
+      "valor": 31.7
+    },
+    "1433": {
+      "estoque": 1,
+      "valor": 28.35
+    },
+    "1434": {
+      "estoque": 1,
+      "valor": 31.38
+    },
+    "1431": {
+      "estoque": 1,
+      "valor": 31.9
+    },
+    "1693": {
+      "estoque": 1,
+      "valor": 38.99
+    },
+    "1442": {
+      "estoque": 3,
+      "valor": 15.49
+    },
+    "1727": {
+      "estoque": 4,
+      "valor": 11.99
+    },
+    "1688": {
+      "estoque": 10,
+      "valor": 5.99
+    },
+    "1801": {
+      "estoque": 6,
+      "valor": 11.99
+    },
+    "1511": {
+      "estoque": 8,
+      "valor": 4.69
+    },
+    "1357": {
+      "estoque": 2,
+      "valor": 4.99
+    },
+    "1784": {
+      "estoque": 3,
+      "valor": 5.39
+    },
+    "41": {
+      "estoque": 2,
+      "valor": 5.99
+    },
+    "1416": {
+      "estoque": 3,
+      "valor": 9.49
+    },
+    "1517": {
+      "estoque": 1,
+      "valor": 7.49
+    },
+    "1305": {
+      "estoque": 2,
+      "valor": 11.99
+    },
+    "1458": {
+      "estoque": 2,
+      "valor": 11.99
+    },
+    "21": {
+      "estoque": 2,
+      "valor": 11.99
+    },
+    "18": {
+      "estoque": 16,
+      "valor": 5.69
+    },
+    "1521": {
+      "estoque": 2,
+      "valor": 11.99
+    },
+    "19": {
+      "estoque": 2,
+      "valor": 11.99
+    },
+    "1465": {
+      "estoque": 4,
+      "valor": 6.79
+    },
+    "1589": {
+      "estoque": 17,
+      "valor": 6.79
+    },
+    "1719": {
+      "estoque": 2,
+      "valor": 11.99
+    },
+    "1412": {
+      "estoque": 2,
+      "valor": 5.89
+    },
+    "1668": {
+      "estoque": 2,
+      "valor": 7.49
+    },
+    "1328": {
+      "estoque": 10,
+      "valor": 3.59
+    },
+    "1332": {
+      "estoque": 3,
+      "valor": 35.49
+    },
+    "1728": {
+      "estoque": 2,
+      "valor": 3.99
+    },
+    "1445": {
+      "estoque": 1,
+      "valor": 10.59
+    },
+    "1306": {
+      "estoque": 4,
+      "valor": 4.49
+    },
+    "1484": {
+      "estoque": 3,
+      "valor": 4.49
+    },
+    "1460": {
+      "estoque": 7,
+      "valor": 16.89
+    },
+    "1461": {
+      "estoque": 7,
+      "valor": 16.89
+    },
+    "1309": {
+      "estoque": 6,
+      "valor": 10.89
+    },
+    "1735": {
+      "estoque": 2,
+      "valor": 3.79
+    },
+    "274": {
+      "estoque": 1,
+      "valor": 11.99
+    },
+    "204": {
+      "estoque": 3,
+      "valor": 13.99
+    },
+    "205": {
+      "estoque": 5,
+      "valor": 13.99
+    },
+    "1587": {
+      "estoque": 2,
+      "valor": 15.99
+    },
+    "67": {
+      "estoque": 6,
+      "valor": 11.99
+    },
+    "1467": {
+      "estoque": 3,
+      "valor": 13.99
+    },
+    "1330": {
+      "estoque": 3,
+      "valor": 23.99
+    },
+    "264": {
+      "estoque": 8,
+      "valor": 5.39
+    },
+    "273": {
+      "estoque": 1,
+      "valor": 9.19
+    },
+    "268": {
+      "estoque": 3,
+      "valor": 5.49
+    },
+    "1626": {
+      "estoque": 4,
+      "valor": 5.89
+    },
+    "1364": {
+      "estoque": 4,
+      "valor": 4.99
+    },
+    "1334": {
+      "estoque": 2,
+      "valor": 11.89
+    },
+    "1372": {
+      "estoque": 4,
+      "valor": 13.59
+    },
+    "1371": {
+      "estoque": 4,
+      "valor": 10.69
+    },
+    "1327": {
+      "estoque": 8,
+      "valor": 2.99
+    },
+    "1600": {
+      "estoque": 1,
+      "valor": 14.99
+    },
+    "1803": {
+      "estoque": 5,
+      "valor": 19.99
+    },
+    "1558": {
+      "estoque": 3,
+      "valor": 7.99
+    },
+    "1403": {
+      "estoque": 7,
+      "valor": 5.99
+    },
+    "1329": {
+      "estoque": 4,
+      "valor": 10.89
+    },
+    "279": {
+      "estoque": 3,
+      "valor": 2.39
+    },
+    "1561": {
+      "estoque": 2,
+      "valor": 34.99
+    },
+    "1770": {
+      "estoque": 1,
+      "valor": 14.99
+    },
+    "68": {
+      "estoque": 3,
+      "valor": 8.69
+    },
+    "69": {
+      "estoque": 7,
+      "valor": 8.69
+    },
+    "70": {
+      "estoque": 2,
+      "valor": 8.69
+    },
+    "1496": {
+      "estoque": 4,
+      "valor": 2.19
+    },
+    "1498": {
+      "estoque": 4,
+      "valor": 2.19
+    },
+    "1497": {
+      "estoque": 2,
+      "valor": 2.19
+    },
+    "1356": {
+      "estoque": 4,
+      "valor": 2.19
+    },
+    "1304": {
+      "estoque": 4,
+      "valor": 19.99
+    },
+    "1802": {
+      "estoque": 6,
+      "valor": 9.69
+    },
+    "1417": {
+      "estoque": 1,
+      "valor": 6.99
+    },
+    "1335": {
+      "estoque": 2,
+      "valor": 5.89
+    },
+    "266": {
+      "estoque": 5,
+      "valor": 3.09
+    },
+    "213": {
+      "estoque": 5,
+      "valor": 7.89
+    },
+    "44": {
+      "estoque": 4,
+      "valor": 7.89
+    },
+    "2": {
+      "estoque": 13,
+      "valor": 2.99
+    },
+    "3": {
+      "estoque": 14,
+      "valor": 2.99
+    },
+    "1418": {
+      "estoque": 23,
+      "valor": 6.99
+    },
+    "1345": {
+      "estoque": 4,
+      "valor": 8.29
+    },
+    "1325": {
+      "estoque": 1,
+      "valor": 20.89
+    },
+    "1323": {
+      "estoque": 2,
+      "valor": 20.89
+    },
+    "1324": {
+      "estoque": 1,
+      "valor": 20.89
+    },
+    "269": {
+      "estoque": 5,
+      "valor": 2.89
+    },
+    "1585": {
+      "estoque": 2,
+      "valor": 5.99
+    },
+    "1509": {
+      "estoque": 1,
+      "valor": 16.49
+    },
+    "1534": {
+      "estoque": 2,
+      "valor": 16.49
+    },
+    "1411": {
+      "estoque": 2,
+      "valor": 7.29
+    },
+    "280": {
+      "estoque": 5,
+      "valor": 26.89
+    },
+    "53": {
+      "estoque": 1,
+      "valor": 7.99
+    },
+    "1633": {
+      "estoque": 2,
+      "valor": 7.99
+    },
+    "1402": {
+      "estoque": 8,
+      "valor": 15.89
+    },
+    "1488": {
+      "estoque": 4,
+      "valor": 5.49
+    },
+    "1315": {
+      "estoque": 4,
+      "valor": 5.49
+    },
+    "92": {
+      "estoque": 1,
+      "valor": 7.99
+    },
+    "1775": {
+      "estoque": 2,
+      "valor": 7.99
+    },
+    "1773": {
+      "estoque": 2,
+      "valor": 7.99
+    },
+    "1774": {
+      "estoque": 1,
+      "valor": 7.99
+    },
+    "1741": {
+      "estoque": 3,
+      "valor": 6.99
+    },
+    "260": {
+      "estoque": 1,
+      "valor": 4.99
+    },
+    "1316": {
+      "estoque": 5,
+      "valor": 15.89
+    },
+    "1787": {
+      "estoque": 1,
+      "valor": 8.99
+    },
+    "1740": {
+      "estoque": 1,
+      "valor": 7.49
+    },
+    "1637": {
+      "estoque": 3,
+      "valor": 5.19
+    },
+    "265": {
+      "estoque": 3,
+      "valor": 5.39
+    },
+    "1535": {
+      "estoque": 3,
+      "valor": 3.89
+    },
+    "1346": {
+      "estoque": 3,
+      "valor": 7.49
+    },
+    "1338": {
+      "estoque": 3,
+      "valor": 25.99
+    },
+    "278": {
+      "estoque": 6,
+      "valor": 9.89
+    },
+    "132": {
+      "estoque": 17,
+      "valor": 1.59
+    },
+    "267": {
+      "estoque": 3,
+      "valor": 1.99
+    },
+    "1805": {
+      "estoque": 4,
+      "valor": 10.99
+    },
+    "1755": {
+      "estoque": 6,
+      "valor": 4.29
+    },
+    "1729": {
+      "estoque": 3,
+      "valor": 10.29
+    },
+    "1730": {
+      "estoque": 3,
+      "valor": 10.29
+    },
+    "1366": {
+      "estoque": 4,
+      "valor": 6.79
+    },
+    "1308": {
+      "estoque": 2,
+      "valor": 26.49
+    },
+    "1754": {
+      "estoque": 1,
+      "valor": 15.49
+    },
+    "1767": {
+      "estoque": 3,
+      "valor": 8.19
+    },
+    "143": {
+      "estoque": 1,
+      "valor": 4.99
+    },
+    "1428": {
+      "estoque": 3,
+      "valor": 7.99
+    },
+    "1427": {
+      "estoque": 3,
+      "valor": 7.99
+    },
+    "1485": {
+      "estoque": 5,
+      "valor": 7.99
+    },
+    "1333": {
+      "estoque": 3,
+      "valor": 7.99
+    },
+    "1732": {
+      "estoque": 26,
+      "valor": 1.49
+    },
+    "1777": {
+      "estoque": 3,
+      "valor": 21.99
+    },
+    "1778": {
+      "estoque": 3,
+      "valor": 21.99
+    },
+    "1776": {
+      "estoque": 3,
+      "valor": 21.99
+    },
+    "1783": {
+      "estoque": 3,
+      "valor": 21.99
+    },
+    "1419": {
+      "estoque": 4,
+      "valor": 10.69
+    },
+    "1382": {
+      "estoque": 6,
+      "valor": 5.99
+    },
+    "1383": {
+      "estoque": 4,
+      "valor": 3.99
+    },
+    "1446": {
+      "estoque": 1,
+      "valor": 11.99
+    },
+    "1772": {
+      "estoque": 8,
+      "valor": 9.99
+    },
+    "1562": {
+      "estoque": 4,
+      "valor": 7.49
+    },
+    "1377": {
+      "estoque": 2,
+      "valor": 6.99
+    },
+    "55": {
+      "estoque": 4,
+      "valor": 5.49
+    },
+    "1464": {
+      "estoque": 1,
+      "valor": 12.99
+    },
+    "190": {
+      "estoque": 7,
+      "valor": 5.49
+    },
+    "54": {
+      "estoque": 5,
+      "valor": 5.49
+    },
+    "1385": {
+      "estoque": 2,
+      "valor": 12.99
+    },
+    "1407": {
+      "estoque": 2,
+      "valor": 5.49
+    },
+    "1406": {
+      "estoque": 6,
+      "valor": 12.99
+    },
+    "61": {
+      "estoque": 5,
+      "valor": 5.49
+    },
+    "1314": {
+      "estoque": 4,
+      "valor": 18.29
+    },
+    "1788": {
+      "estoque": 2,
+      "valor": 10.59
+    },
+    "1486": {
+      "estoque": 7,
+      "valor": 13.99
+    },
+    "1401": {
+      "estoque": 10,
+      "valor": 3.89
+    },
+    "1350": {
+      "estoque": 6,
+      "valor": 7.59
+    },
+    "1351": {
+      "estoque": 5,
+      "valor": 9.89
+    },
+    "1362": {
+      "estoque": 4,
+      "valor": 5.89
+    },
+    "1452": {
+      "estoque": 2,
+      "valor": 4.29
+    },
+    "165": {
+      "estoque": 5,
+      "valor": 3.89
+    },
+    "253": {
+      "estoque": 1,
+      "valor": 3.89
+    },
+    "1512": {
+      "estoque": 5,
+      "valor": 3.89
+    },
+    "1681": {
+      "estoque": 3,
+      "valor": 4.59
+    },
+    "1355": {
+      "estoque": 1,
+      "valor": 4.59
+    },
+    "1622": {
+      "estoque": 2,
+      "valor": 4.59
+    },
+    "1475": {
+      "estoque": 1,
+      "valor": 4.59
+    },
+    "1441": {
+      "estoque": 3,
+      "valor": 14.49
+    },
+    "1367": {
+      "estoque": 4,
+      "valor": 8.89
+    },
+    "1753": {
+      "estoque": 3,
+      "valor": 8.89
+    },
+    "1731": {
+      "estoque": 2,
+      "valor": 7.69
+    },
+    "136": {
+      "estoque": 1,
+      "valor": 11.99
+    },
+    "1769": {
+      "estoque": 3,
+      "valor": 14.99
+    },
+    "43": {
+      "estoque": 3,
+      "valor": 6.99
+    },
+    "72": {
+      "estoque": 4,
+      "valor": 6.99
+    },
+    "1493": {
+      "estoque": 1,
+      "valor": 5.69
+    },
+    "1477": {
+      "estoque": 2,
+      "valor": 5.69
+    },
+    "1478": {
+      "estoque": 2,
+      "valor": 5.69
+    },
+    "1483": {
+      "estoque": 3,
+      "valor": 5.69
+    },
+    "1480": {
+      "estoque": 1,
+      "valor": 5.69
+    },
+    "1476": {
+      "estoque": 1,
+      "valor": 5.69
+    },
+    "1481": {
+      "estoque": 1,
+      "valor": 5.69
+    },
+    "1494": {
+      "estoque": 3,
+      "valor": 5.69
+    },
+    "1313": {
+      "estoque": 6,
+      "valor": 16.49
+    },
+    "1331": {
+      "estoque": 2,
+      "valor": 7.29
+    },
+    "1505": {
+      "estoque": 1,
+      "valor": 1.99
+    },
+    "1667": {
+      "estoque": 11,
+      "valor": 4.49
+    },
+    "1785": {
+      "estoque": 5,
+      "valor": 10.99
+    },
+    "7": {
+      "estoque": 8,
+      "valor": 3.99
+    },
+    "131": {
+      "estoque": 18,
+      "valor": 3.99
+    },
+    "1311": {
+      "estoque": 6,
+      "valor": 12.59
+    },
+    "1764": {
+      "estoque": 1,
+      "valor": 14.89
+    },
+    "1312": {
+      "estoque": 1,
+      "valor": 14.89
+    },
+    "1492": {
+      "estoque": 2,
+      "valor": 4.49
+    },
+    "1698": {
+      "estoque": 2,
+      "valor": 39.99
+    },
+    "1388": {
+      "estoque": 2,
+      "valor": 39.99
+    },
+    "1389": {
+      "estoque": 1,
+      "valor": 39.99
+    },
+    "1390": {
+      "estoque": 2,
+      "valor": 46.99
+    },
+    "1348": {
+      "estoque": 2,
+      "valor": 3.79
+    },
+    "1503": {
+      "estoque": 3,
+      "valor": 3.79
+    },
+    "1682": {
+      "estoque": 3,
+      "valor": 3.79
+    },
+    "1602": {
+      "estoque": 2,
+      "valor": 12.69
+    },
+    "1392": {
+      "estoque": 2,
+      "valor": 78.89
+    },
+    "1391": {
+      "estoque": 2,
+      "valor": 98.89
+    }
+  }
+}

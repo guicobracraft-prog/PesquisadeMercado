@@ -1,0 +1,45 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-30
+======================================================================
+
+Total de unidades vendidas: 25
+Valor total vendido: R$ 184.45
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+69     GATORADE LIMAO 500ML                         4     R$ 34.76
+1704   BEBIDA MISTA ABSOLUT VODKA SPRITE 269ML      3     R$ 26.97
+1318   BISCOITO COOKIES ALPINO NESTLE 60G           2      R$ 9.98
+280    LEITE EM PO NINHO INTEGRAL 380G              1     R$ 26.89
+156    AGUA DE COCO MARI COCO 200ML                 1      R$ 4.99
+213    H2O LIMAO 500ML                              1      R$ 7.89
+209    BARRA DE CEREAL AVELA COM CHOCOLATE NU..     1      R$ 2.99
+1367   SARDINHA EM OLEO ROBINSON CRUSOE 125G        1      R$ 8.89
+1591   BATATA PALHA TRADICIONAL YOKI 105G           1     R$ 14.39
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+1400   BALA DE GOMA FRUTAS DORI 32G                 1      R$ 1.99
+1728   CREME DE LEITE ITALAC 200G                   1      R$ 3.99
+1682   WAFER MORANGO RANCHEIRO 78G                  1      R$ 3.79
+1305   CHOCOLATE AO LEITE CLASSIC NESTLE 80G        1     R$ 11.99
+279    FLOCAO DE MILHO TIO EMILIO 400G              1      R$ 2.39
+132    PACOQUITA SANTA HELENA 20G                   1      R$ 1.59
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+1755   PAO DE MEL BAUDUCCO 30G                      1      R$ 4.29
+1626   EXTRATO DE TOMATE POMODORO 300G              1      R$ 5.89
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        9     R$ 44.41
+MERCEARIA                                    6     R$ 62.44
+BEBIDA NÃO ALCÓLICA                          6     R$ 47.64
+BEBIDA ALCÓLICA                              3     R$ 26.97
+LINHA FIT                                    1      R$ 2.99
+----------------------------------------------------------------------
+
+Gerado em: 31/10/2026 04:39:01
+======================================================================

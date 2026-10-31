@@ -1,14 +1,14 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2826
+**Total de unidades vendidas:** 2828
 
-**Valor total vendido:** R$ 20463.17
+**Valor total vendido:** R$ 20474.15
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 688 | R$ 3029.47 |
+| DOCES | 689 | R$ 3033.46 |
 | BEBIDA NÃO ALCÓLICA | 679 | R$ 6535.70 |
 | BEBIDA ALCÓLICA | 618 | R$ 3762.00 |
 | MERCEARIA | 336 | R$ 2664.09 |
@@ -19,7 +19,7 @@
 | LINHA FIT | 31 | R$ 109.58 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
-| DESCARTÁVEIS E UTILIDADES | 18 | R$ 119.02 |
+| DESCARTÁVEIS E UTILIDADES | 19 | R$ 126.01 |
 | CARNES | 11 | R$ 188.43 |
 | MATERIAIS ELETRONICOS | 11 | R$ 220.89 |
 | CARNES E AVES | 10 | R$ 178.90 |
@@ -121,6 +121,6 @@
 | 2026-10-28 | 21 | R$ 135.19 |
 | 2026-10-29 | 52 | R$ 416.48 |
 | 2026-10-30 | 25 | R$ 184.45 |
-| 2026-10-31 | 27 | R$ 180.33 |
+| 2026-10-31 | 29 | R$ 191.31 |
 
-*Última atualização: 31/10/2026 10:57:53*
+*Última atualização: 31/10/2026 15:07:36*

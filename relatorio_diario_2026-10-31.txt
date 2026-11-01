@@ -1,0 +1,65 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-10-31
+======================================================================
+
+Total de unidades vendidas: 58
+Valor total vendido: R$ 373.92
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML             16     R$ 75.04
+1400   BALA DE GOMA FRUTAS DORI 32G                 4      R$ 7.96
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         3     R$ 16.47
+1593   AGUA MINERAL NATURAL MARIZA 500ML            3     R$ 10.47
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 27.98
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1806   MACARRAO NISSIN CALABRESA PICANTE 80G        1      R$ 4.19
+1515   BALA FINI BEIJOS DE MORANGO 100G             1      R$ 7.49
+1724   SALGADINHO PRESUNTO SKINY 60G                1      R$ 5.99
+1675   MACARRAO NISSIN LEGUMES 80G                  1      R$ 4.19
+82     AMENDOIM JAPONES DORI 75G                    1      R$ 6.19
+1516   BALA FINI BANANAS 100G                       1      R$ 7.49
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           1     R$ 13.99
+1803   FILE DE PEITO SEARA 1KG                      1     R$ 19.99
+19     CHOCOLATE SHOT LACTA 80G                     1     R$ 11.99
+1786   SALGADINHO ORIGINAL SKINY 60G                1      R$ 5.99
+1773   MACARRAO CUP NOODLES CURRY 70G               1      R$ 7.99
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              1      R$ 5.99
+253    SALGADINHO TORCIDA CEBOLA 60G                1      R$ 3.89
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+1418   ISQUEIRO COLORIDO UN                         1      R$ 6.99
+1574   AGUA DE COCO  PURO COCO 1L                   1     R$ 12.99
+54     REFRIGERANTE FANTA LARANJA 310ML             1      R$ 5.49
+1735   DETERGENTE LIMAO LIMPOL 500ML                1      R$ 3.79
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 5.19
+1667   TORRONE COM AMENDOIM 70G                     1      R$ 4.49
+1494   TEMPERO SAL PARRILLA CHEF                    1      R$ 5.69
+1732   PIRULITO IOGURTE DORI 11,2G                  1      R$ 1.49
+132    PACOQUITA SANTA HELENA 20G                   1      R$ 1.59
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      1     R$ 13.99
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+1687   SUCO DE PESSEGO NUTRI 1L                     1      R$ 6.99
+1805   PAO DE LEITE SEVEN BOYS 450G                 1     R$ 10.99
+1778   PIZZA DE CALABRESA SADIA 460G                1     R$ 21.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             20     R$ 97.50
+BEBIDA NÃO ALCÓLICA                         13    R$ 116.87
+DOCES                                       11     R$ 46.49
+MERCEARIA                                    6     R$ 38.24
+SALGADOS E SNACKS                            4     R$ 22.06
+CARNES E AVES                                1     R$ 19.99
+DESCARTÁVEIS E UTILIDADES                    1      R$ 6.99
+HIGIENE E LIMPEZA                            1      R$ 3.79
+FRIOS E CONGELADOS                           1     R$ 21.99
+----------------------------------------------------------------------
+
+Gerado em: 01/11/2026 03:57:47
+======================================================================

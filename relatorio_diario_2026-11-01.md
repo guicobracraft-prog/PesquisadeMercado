@@ -1,0 +1,44 @@
+# 📊 Relatório Diário de Vendas - 2026-11-01
+
+**Total de unidades vendidas:** 34
+**Valor total vendido:** R$ 337.26
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 4 | R$ 21.96 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 4 | R$ 55.96 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 3 | R$ 4.47 |
+| 1593 | AGUA MINERAL NATURAL MARIZA 500ML | 2 | R$ 6.98 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 2 | R$ 27.98 |
+| 18 | CHOCOLATE LOLLO NESTLE 28G | 2 | R$ 11.38 |
+| 72 | SUCO DE UVA DAFRUTA 1L | 1 | R$ 6.99 |
+| 1768 | LEITE CONDENSADO PIRACANJUBA 395G | 1 | R$ 7.99 |
+| 44 | H2O LIMONETO 500ML | 1 | R$ 7.89 |
+| 53 | LEITE INTEGRAL ITALAC 1L | 1 | R$ 7.99 |
+| 1376 | BATATA PALHA TRADICIONAL SULLPER 400G | 1 | R$ 19.99 |
+| 1803 | FILE DE PEITO SEARA 1KG | 1 | R$ 19.99 |
+| 1629 | CAIXA DE BOMBOM LACTA 250G | 1 | R$ 20.99 |
+| 1719 | CHOCOLATE SUFLAIR AO LEITE NESTLE 80G | 1 | R$ 11.99 |
+| 1338 | NESCAFE MATINAL 100G | 1 | R$ 25.99 |
+| 2 | HALLS MELANCIA 28G | 1 | R$ 2.99 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 1 | R$ 13.99 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 1 | R$ 13.99 |
+| 21 | CHOCOLATE LAKA LACTA 80G | 1 | R$ 11.99 |
+| 1688 | CERVEJA BRAHMA SEM ALCOOL 350ML | 1 | R$ 5.99 |
+| 1587 | ENERGETICO MORANGO E PESSEGO BALY 2L | 1 | R$ 15.99 |
+| 1454 | SUCO DE MANGA NUTRI 1L | 1 | R$ 6.99 |
+| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 1 | R$ 6.79 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 14 | R$ 156.76 |
+| DOCES | 10 | R$ 70.60 |
+| BEBIDA ALCÓLICA | 5 | R$ 27.95 |
+| MERCEARIA | 4 | R$ 61.96 |
+| CARNES E AVES | 1 | R$ 19.99 |
+
+*Gerado em 02/11/2026 05:42:38*

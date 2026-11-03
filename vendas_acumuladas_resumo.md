@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2947
+**Total de unidades vendidas:** 2951
 
-**Valor total vendido:** R$ 21484.26
+**Valor total vendido:** R$ 21513.42
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 720 | R$ 3182.75 |
-| BEBIDA NÃO ALCÓLICA | 711 | R$ 6878.78 |
+| BEBIDA NÃO ALCÓLICA | 712 | R$ 6884.27 |
 | BEBIDA ALCÓLICA | 640 | R$ 3916.38 |
-| MERCEARIA | 357 | R$ 2885.18 |
-| SALGADOS E SNACKS | 153 | R$ 976.62 |
+| MERCEARIA | 358 | R$ 2901.07 |
+| SALGADOS E SNACKS | 155 | R$ 984.40 |
 | GELATOS | 82 | R$ 585.18 |
 | FRIOS E CONGELADOS | 76 | R$ 931.80 |
 | HIGIENE E LIMPEZA | 69 | R$ 719.39 |
@@ -43,9 +43,9 @@
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 29 | R$ 202.30 |
 | 44 | H2O LIMONETO 500ML | 28 | R$ 219.69 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 28 | R$ 97.72 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 27 | R$ 148.23 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 27 | R$ 91.43 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
-| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 26 | R$ 142.74 |
 | 55 | REFRIGERANTE COCA COLA 310ML | 26 | R$ 142.74 |
 | 61 | REFRIGERANTE SPRITE 310ML | 25 | R$ 137.25 |
 
@@ -124,5 +124,6 @@
 | 2026-10-31 | 58 | R$ 373.92 |
 | 2026-11-01 | 34 | R$ 337.26 |
 | 2026-11-02 | 56 | R$ 490.24 |
+| 2026-11-03 | 4 | R$ 29.16 |
 
-*Última atualização: 02/11/2026 22:24:44*
+*Última atualização: 03/11/2026 05:45:31*

@@ -1,0 +1,68 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-02
+======================================================================
+
+Total de unidades vendidas: 56
+Valor total vendido: R$ 490.24
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+132    PACOQUITA SANTA HELENA 20G                   4      R$ 6.36
+1796   CERVEJA HEINEKEN 269ML                       4     R$ 25.96
+281    BALA MENTOS FANTA LARANJA 37,5G              4     R$ 15.16
+82     AMENDOIM JAPONES DORI 75G                    2     R$ 12.38
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 27.98
+44     H2O LIMONETO 500ML                           2     R$ 15.78
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              2     R$ 11.98
+1457   BISCOITO RECHEADO DE CHOCOLATE PASSATE..     2     R$ 10.58
+72     SUCO DE UVA DAFRUTA 1L                       2     R$ 13.98
+1673   MACARRAO NISSIN GALINHA CAIPIRA 80G          2      R$ 8.38
+1535   MOLHO DE TOMATE POMODORO 300G                1      R$ 3.89
+1730   PAO DE QUEIJO PALITON SABOR EM QUEIJO ..     1     R$ 10.29
+1768   LEITE CONDENSADO PIRACANJUBA 395G            1      R$ 7.99
+1388   VINHO CHILENO CONCHA Y TORO CARMENERE ..     1     R$ 39.99
+1791   ALHO PICADO GARLIC 200G                      1     R$ 11.49
+1332   CREME DE AVELA NUTELLA 350G                  1     R$ 35.49
+1724   SALGADINHO PRESUNTO SKINY 60G                1      R$ 5.99
+1400   BALA DE GOMA FRUTAS DORI 32G                 1      R$ 1.99
+1788   REQUEIJAO TRADICIONAL NESTLE 200G            1     R$ 10.59
+1741   MACARRAO ESPAGUETE 8 SEMOLADO GALO 500G      1      R$ 6.99
+1562   QUEIJO RALADO IPANEMA 40G                    1      R$ 7.49
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 13.99
+1775   MACARRAO CUP NOODLES CHEDDAR 69G             1      R$ 7.99
+1755   PAO DE MEL BAUDUCCO 30G                      1      R$ 4.29
+1380   AMACIANTE CONCENTRADO DOWNY 500ML            1     R$ 17.79
+1328   COTONETE COTTON LINE 75UN                    1      R$ 3.59
+1805   PAO DE LEITE SEVEN BOYS 450G                 1     R$ 10.99
+1351   SACO DE LIXO BULNEZ 50L                      1      R$ 9.89
+1413   BISCOITO CREAM CRACKER RANCHEIRO 300G        1      R$ 6.99
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           1     R$ 13.99
+69     GATORADE LIMAO 500ML                         1      R$ 8.69
+1348   WAFER BAUNILHA RANCHEIRO 78G                 1      R$ 3.79
+275    ACHOCOLATADO NESCAU 350G                     1     R$ 15.69
+1485   PIPOCA DE MICROONDAS MANTEIGA DE CINEM..     1      R$ 7.99
+1629   CAIXA DE BOMBOM LACTA 250G                   1     R$ 20.99
+1687   SUCO DE PESSEGO NUTRI 1L                     1      R$ 6.99
+1772   QUEIJO MUSSARELA DEALE 150G                  1      R$ 9.99
+57     BATATA CREME E CEBOLA PRINGLES 109G          1     R$ 15.99
+1626   EXTRATO DE TOMATE POMODORO 300G              1      R$ 5.89
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+MERCEARIA                                   14    R$ 137.26
+DOCES                                       14     R$ 63.16
+BEBIDA NÃO ALCÓLICA                         11    R$ 115.39
+BEBIDA ALCÓLICA                              7     R$ 77.93
+SALGADOS E SNACKS                            4     R$ 34.36
+FRIOS E CONGELADOS                           3     R$ 30.87
+HIGIENE E LIMPEZA                            3     R$ 31.27
+----------------------------------------------------------------------
+
+Gerado em: 03/11/2026 05:45:31
+======================================================================

@@ -1,0 +1,37 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-03
+======================================================================
+
+Total de unidades vendidas: 13
+Valor total vendido: R$ 111.17
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              2     R$ 13.58
+1316   MAIONESE HELLMANNS 500G                      1     R$ 15.89
+1512   SALGADINHO TORCIDA QUEIJO 60G                1      R$ 3.89
+253    SALGADINHO TORCIDA CEBOLA 60G                1      R$ 3.89
+190    REFRIGERANTE COCA COLA ZERO 310ML            1      R$ 5.49
+67     ENERGETICO MORANGO E PESSEGO BALY 473ML      1     R$ 11.99
+59     BATATA ORIGINAL PRINGLES 104G                1     R$ 15.99
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     1      R$ 2.99
+7      TRIDENT HORTELA 8G                           1      R$ 3.99
+55     REFRIGERANTE COCA COLA 310ML                 1      R$ 5.49
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 13.99
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 13.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                          6     R$ 53.94
+SALGADOS E SNACKS                            3     R$ 23.77
+DOCES                                        3     R$ 17.57
+MERCEARIA                                    1     R$ 15.89
+----------------------------------------------------------------------
+
+Gerado em: 04/11/2026 07:04:19
+======================================================================

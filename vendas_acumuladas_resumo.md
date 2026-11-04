@@ -1,21 +1,21 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2960
+**Total de unidades vendidas:** 2968
 
-**Valor total vendido:** R$ 21595.43
+**Valor total vendido:** R$ 21667.45
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 723 | R$ 3200.32 |
-| BEBIDA NÃO ALCÓLICA | 717 | R$ 6932.72 |
+| BEBIDA NÃO ALCÓLICA | 720 | R$ 6967.69 |
 | BEBIDA ALCÓLICA | 640 | R$ 3916.38 |
 | MERCEARIA | 358 | R$ 2901.07 |
-| SALGADOS E SNACKS | 156 | R$ 1000.39 |
+| SALGADOS E SNACKS | 160 | R$ 1020.55 |
 | GELATOS | 82 | R$ 585.18 |
 | FRIOS E CONGELADOS | 76 | R$ 931.80 |
-| HIGIENE E LIMPEZA | 69 | R$ 719.39 |
+| HIGIENE E LIMPEZA | 70 | R$ 736.28 |
 | LINHA FIT | 31 | R$ 109.58 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -31,7 +31,7 @@
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 228 | R$ 1069.32 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 105 | R$ 575.94 |
 | 1395 | CERVEJA HEINEKEN 350ML | 98 | R$ 724.22 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 95 | R$ 1239.25 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 96 | R$ 1253.24 |
 | 132 | PACOQUITA SANTA HELENA 20G | 90 | R$ 143.10 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 89 | R$ 1157.51 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 78 | R$ 110.12 |
@@ -47,7 +47,7 @@
 | 55 | REFRIGERANTE COCA COLA 310ML | 27 | R$ 148.23 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 27 | R$ 91.43 |
 | 1322 | PIZZA SABORES | 26 | R$ 220.74 |
-| 1467 | ENERGETICO ULTRA MONSTER 473ML | 25 | R$ 349.75 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 25 | R$ 349.75 |
 
 ## 📅 Vendas por Dia
 
@@ -125,5 +125,6 @@
 | 2026-11-01 | 34 | R$ 337.26 |
 | 2026-11-02 | 56 | R$ 490.24 |
 | 2026-11-03 | 13 | R$ 111.17 |
+| 2026-11-04 | 8 | R$ 72.02 |
 
-*Última atualização: 03/11/2026 23:48:19*
+*Última atualização: 04/11/2026 07:04:19*

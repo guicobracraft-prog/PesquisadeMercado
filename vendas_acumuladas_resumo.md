@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 2968
+**Total de unidades vendidas:** 2970
 
-**Valor total vendido:** R$ 21667.45
+**Valor total vendido:** R$ 21683.73
 
 ## 🏷️ Vendas por Categoria
 
@@ -14,8 +14,8 @@
 | MERCEARIA | 358 | R$ 2901.07 |
 | SALGADOS E SNACKS | 160 | R$ 1020.55 |
 | GELATOS | 82 | R$ 585.18 |
-| FRIOS E CONGELADOS | 76 | R$ 931.80 |
-| HIGIENE E LIMPEZA | 70 | R$ 736.28 |
+| FRIOS E CONGELADOS | 77 | R$ 941.79 |
+| HIGIENE E LIMPEZA | 71 | R$ 742.57 |
 | LINHA FIT | 31 | R$ 109.58 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
@@ -125,6 +125,6 @@
 | 2026-11-01 | 34 | R$ 337.26 |
 | 2026-11-02 | 56 | R$ 490.24 |
 | 2026-11-03 | 13 | R$ 111.17 |
-| 2026-11-04 | 8 | R$ 72.02 |
+| 2026-11-04 | 10 | R$ 88.30 |
 
-*Última atualização: 04/11/2026 07:04:19*
+*Última atualização: 04/11/2026 15:18:09*

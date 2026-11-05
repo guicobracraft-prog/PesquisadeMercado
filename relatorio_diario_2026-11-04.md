@@ -1,0 +1,35 @@
+# 📊 Relatório Diário de Vendas - 2026-11-04
+
+**Total de unidades vendidas:** 17
+**Valor total vendido:** R$ 132.63
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1454 | SUCO DE MANGA NUTRI 1L | 2 | R$ 13.98 |
+| 165 | SALGADINHO TORCIDA BACON 60G | 2 | R$ 7.78 |
+| 83 | AMENDOIM SALSA E CEBOLA DORI 70G | 2 | R$ 12.38 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 1 | R$ 13.99 |
+| 1312 | VEJA PERFUMADO LAVANDA 2L | 1 | R$ 16.89 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 1 | R$ 13.99 |
+| 1747 | APARELHO DE BARBEAR BIC UN | 1 | R$ 6.29 |
+| 1772 | QUEIJO MUSSARELA DEALE 150G | 1 | R$ 9.99 |
+| 1757 | FETTUCCINE LOMBO E BROCOLIS SEARA 350G | 1 | R$ 14.99 |
+| 1503 | WAFER CHOCOLATE RANCHEIRO 78G | 1 | R$ 3.79 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 1 | R$ 5.49 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 1 | R$ 1.49 |
+| 1475 | SALGADINHO YOKITOS REQUEIJAO 45G | 1 | R$ 4.59 |
+| 43 | SUCO DE LARANJA DAFRUTA 1L | 1 | R$ 6.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 6 | R$ 54.44 |
+| SALGADOS E SNACKS | 5 | R$ 24.75 |
+| HIGIENE E LIMPEZA | 2 | R$ 23.18 |
+| FRIOS E CONGELADOS | 2 | R$ 24.98 |
+| DOCES | 2 | R$ 5.28 |
+
+*Gerado em 05/11/2026 04:29:00*

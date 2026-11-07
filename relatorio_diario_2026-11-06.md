@@ -1,0 +1,41 @@
+# 📊 Relatório Diário de Vendas - 2026-11-06
+
+**Total de unidades vendidas:** 40
+**Valor total vendido:** R$ 305.30
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 12 | R$ 56.28 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 4 | R$ 55.96 |
+| 18 | CHOCOLATE LOLLO NESTLE 28G | 2 | R$ 11.38 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 2 | R$ 27.98 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 2 | R$ 10.98 |
+| 281 | BALA MENTOS FANTA LARANJA 37,5G | 2 | R$ 7.58 |
+| 55 | REFRIGERANTE COCA COLA 310ML | 2 | R$ 10.98 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 2 | R$ 27.98 |
+| 288 | AGUA MINERAL COM GAS INDAIA 500ML | 1 | R$ 3.49 |
+| 1805 | PAO DE LEITE SEVEN BOYS 450G | 1 | R$ 10.99 |
+| 1754 | PAPEL HIGIENICO PERSONAL VIP 12UN | 1 | R$ 15.49 |
+| 7 | TRIDENT HORTELA 8G | 1 | R$ 3.99 |
+| 1499 | BISCOITO BONO CHOCOLATE 90G | 1 | R$ 5.29 |
+| 1400 | BALA DE GOMA FRUTAS DORI 32G | 1 | R$ 2.49 |
+| 1801 | CERVEJA HEINEKEN ULTIMATE 330ML | 1 | R$ 11.99 |
+| 100 | REFRIGERANTE GUARANA ANTARCTICA ZERO 269ML | 1 | R$ 5.49 |
+| 54 | REFRIGERANTE FANTA LARANJA 310ML | 1 | R$ 5.49 |
+| 72 | SUCO DE UVA DAFRUTA 1L | 1 | R$ 6.99 |
+| 1376 | BATATA PALHA TRADICIONAL SULLPER 400G | 1 | R$ 19.99 |
+| 1667 | TORRONE COM AMENDOIM 70G | 1 | R$ 4.49 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 16 | R$ 155.34 |
+| BEBIDA ALCÓLICA | 13 | R$ 68.27 |
+| DOCES | 8 | R$ 35.22 |
+| MERCEARIA | 2 | R$ 30.98 |
+| HIGIENE E LIMPEZA | 1 | R$ 15.49 |
+
+*Gerado em 07/11/2026 04:55:12*

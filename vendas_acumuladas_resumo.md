@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3122
+**Total de unidades vendidas:** 3125
 
-**Valor total vendido:** R$ 22732.01
+**Valor total vendido:** R$ 22758.98
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 767 | R$ 3375.68 |
-| BEBIDA NÃO ALCÓLICA | 758 | R$ 7328.31 |
+| DOCES | 768 | R$ 3383.17 |
+| BEBIDA NÃO ALCÓLICA | 760 | R$ 7347.79 |
 | BEBIDA ALCÓLICA | 671 | R$ 4085.77 |
 | MERCEARIA | 379 | R$ 3069.86 |
 | SALGADOS E SNACKS | 167 | R$ 1067.78 |
@@ -39,9 +39,9 @@
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 50 | R$ 102.00 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 36 | R$ 436.14 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 34 | R$ 412.66 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 35 | R$ 426.65 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 33 | R$ 229.46 |
-| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 30 | R$ 164.70 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 31 | R$ 170.19 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 30 | R$ 104.70 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 30 | R$ 102.80 |
 | 55 | REFRIGERANTE COCA COLA 310ML | 29 | R$ 159.21 |
@@ -129,5 +129,6 @@
 | 2026-11-05 | 49 | R$ 383.11 |
 | 2026-11-06 | 40 | R$ 305.30 |
 | 2026-11-07 | 56 | R$ 315.54 |
+| 2026-11-08 | 3 | R$ 26.97 |
 
-*Última atualização: 07/11/2026 23:59:29*
+*Última atualização: 08/11/2026 06:54:12*

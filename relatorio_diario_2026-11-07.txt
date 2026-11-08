@@ -1,0 +1,63 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-07
+======================================================================
+
+Total de unidades vendidas: 56
+Valor total vendido: R$ 315.54
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1511   CERVEJA PURO MALTE AMSTEL 269ML              6     R$ 28.14
+132    PACOQUITA SANTA HELENA 20G                   6      R$ 9.54
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         5     R$ 27.45
+1732   PIRULITO IOGURTE DORI 11,2G                  5      R$ 7.45
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      2     R$ 27.98
+72     SUCO DE UVA DAFRUTA 1L                       2     R$ 13.98
+1401   SABONETE DE AMENDOAS JOHNSONS 80G            2      R$ 7.78
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 4.98
+1674   MACARRAO NISSIN CARNE 80G                    1      R$ 4.19
+90     BISCOITO BONO DOCE DE LEITE 90G              1      R$ 5.29
+1796   CERVEJA HEINEKEN 269ML                       1      R$ 6.49
+1806   MACARRAO NISSIN CALABRESA PICANTE 80G        1      R$ 4.19
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 13.99
+1772   QUEIJO MUSSARELA DEALE 150G                  1      R$ 9.99
+1399   CAIXA DE BOMBOM NESTLE 220G                  1     R$ 20.99
+1731   SMIRNOFF ICE  275ML                          1      R$ 8.99
+1538   BALA FINI TUBES TWISTER 80G                  1      R$ 7.49
+156    AGUA DE COCO MARI COCO 200ML                 1      R$ 4.99
+1535   MOLHO DE TOMATE POMODORO 300G                1      R$ 3.89
+1755   PAO DE MEL BAUDUCCO 30G                      1      R$ 4.29
+209    BARRA DE CEREAL AVELA COM CHOCOLATE NU..     1      R$ 2.99
+70     GATORADE UVA 500ML                           1      R$ 8.69
+1802   GIN TONICA PINK AMORA SCHWEPPES 269ML        1      R$ 9.69
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 5.19
+253    SALGADINHO TORCIDA CEBOLA 60G                1      R$ 3.89
+1525   BISCOITO BONO MORANGO 90G                    1      R$ 5.29
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 13.99
+1784   CHA MATTE LIMAO LEAO 300ML                   1      R$ 5.39
+1458   CHOCOLATE CRUNCH NESTLE 80G                  1     R$ 11.99
+1725   SALGADINHO QUEIJO SKINY 60G                  1      R$ 5.99
+1675   MACARRAO NISSIN LEGUMES 80G                  1      R$ 4.19
+1364   FARINHA DE TRIGO TIA OFELIA 1KG              1      R$ 4.99
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1407   REFRIGERANTE GUARANA ANTARCTICA 350ML        1      R$ 5.69
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                       19     R$ 77.31
+BEBIDA ALCÓLICA                             14     R$ 80.76
+BEBIDA NÃO ALCÓLICA                         11    R$ 100.19
+MERCEARIA                                    6     R$ 26.64
+SALGADOS E SNACKS                            2      R$ 9.88
+HIGIENE E LIMPEZA                            2      R$ 7.78
+FRIOS E CONGELADOS                           1      R$ 9.99
+LINHA FIT                                    1      R$ 2.99
+----------------------------------------------------------------------
+
+Gerado em: 08/11/2026 06:54:12
+======================================================================

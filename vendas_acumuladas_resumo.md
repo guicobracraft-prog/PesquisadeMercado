@@ -1,26 +1,26 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3145
+**Total de unidades vendidas:** 3155
 
-**Valor total vendido:** R$ 22877.98
+**Valor total vendido:** R$ 23038.58
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 776 | R$ 3411.59 |
-| BEBIDA NÃO ALCÓLICA | 767 | R$ 7395.12 |
-| BEBIDA ALCÓLICA | 671 | R$ 4085.77 |
-| MERCEARIA | 380 | R$ 3077.45 |
-| SALGADOS E SNACKS | 168 | R$ 1073.77 |
-| FRIOS E CONGELADOS | 82 | R$ 1007.74 |
+| BEBIDA NÃO ALCÓLICA | 769 | R$ 7414.60 |
+| BEBIDA ALCÓLICA | 673 | R$ 4137.75 |
+| MERCEARIA | 383 | R$ 3124.12 |
+| SALGADOS E SNACKS | 169 | R$ 1079.76 |
+| FRIOS E CONGELADOS | 83 | R$ 1024.23 |
 | GELATOS | 82 | R$ 585.18 |
 | HIGIENE E LIMPEZA | 78 | R$ 810.20 |
 | LINHA FIT | 32 | R$ 112.57 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | DESCARTÁVEIS E UTILIDADES | 19 | R$ 126.01 |
-| CARNES E AVES | 12 | R$ 218.88 |
+| CARNES E AVES | 13 | R$ 238.87 |
 | CARNES | 11 | R$ 188.43 |
 | MATERIAIS ELETRONICOS | 11 | R$ 220.89 |
 
@@ -33,7 +33,7 @@
 | 1420 | REFRIGERANTE COCA COLA 2L | 101 | R$ 1323.19 |
 | 132 | PACOQUITA SANTA HELENA 20G | 101 | R$ 160.59 |
 | 1395 | CERVEJA HEINEKEN 350ML | 98 | R$ 724.22 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 93 | R$ 1213.47 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 94 | R$ 1227.46 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 87 | R$ 123.53 |
 | 236 | BALA DE GOMA IOGURTE 32G | 65 | R$ 129.35 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 50 | R$ 102.00 |
@@ -130,5 +130,6 @@
 | 2026-11-06 | 40 | R$ 305.30 |
 | 2026-11-07 | 56 | R$ 315.54 |
 | 2026-11-08 | 23 | R$ 145.97 |
+| 2026-11-09 | 10 | R$ 160.60 |
 
-*Última atualização: 08/11/2026 21:13:03*
+*Última atualização: 09/11/2026 04:21:22*

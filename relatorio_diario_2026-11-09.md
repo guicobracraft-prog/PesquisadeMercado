@@ -1,0 +1,39 @@
+# 📊 Relatório Diário de Vendas - 2026-11-09
+
+**Total de unidades vendidas:** 17
+**Valor total vendido:** R$ 188.43
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 278 | OLEO DE SOJA SOYA 900ML | 2 | R$ 19.78 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 2 | R$ 2.98 |
+| 1698 | VINHO CHILENO CONCHA Y TORO CABERNET 750ML | 1 | R$ 39.99 |
+| 1803 | FILE DE PEITO SEARA 1KG | 1 | R$ 19.99 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 1 | R$ 13.99 |
+| 1801 | CERVEJA HEINEKEN ULTIMATE 330ML | 1 | R$ 11.99 |
+| 280 | LEITE EM PO NINHO INTEGRAL 380G | 1 | R$ 26.89 |
+| 54 | REFRIGERANTE FANTA LARANJA 310ML | 1 | R$ 5.49 |
+| 1786 | SALGADINHO ORIGINAL SKINY 60G | 1 | R$ 5.99 |
+| 1509 | LASANHA BOLONHESA FORNO DE MINAS 600G | 1 | R$ 16.49 |
+| 228 | BEBIDA LACTEA CHOCOLATE PIRACANJUBA 200ML | 1 | R$ 2.99 |
+| 90 | BISCOITO BONO DOCE DE LEITE 90G | 1 | R$ 5.29 |
+| 1767 | PAPEL TOALHA SCALA 120 TOALHAS 2UN | 1 | R$ 8.19 |
+| 132 | PACOQUITA SANTA HELENA 20G | 1 | R$ 1.59 |
+| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 1 | R$ 6.79 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| DOCES | 5 | R$ 16.65 |
+| BEBIDA NÃO ALCÓLICA | 3 | R$ 22.47 |
+| MERCEARIA | 3 | R$ 46.67 |
+| BEBIDA ALCÓLICA | 2 | R$ 51.98 |
+| CARNES E AVES | 1 | R$ 19.99 |
+| SALGADOS E SNACKS | 1 | R$ 5.99 |
+| FRIOS E CONGELADOS | 1 | R$ 16.49 |
+| DESCARTÁVEIS E UTILIDADES | 1 | R$ 8.19 |
+
+*Gerado em 10/11/2026 04:53:37*

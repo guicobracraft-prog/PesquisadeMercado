@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3184
+**Total de unidades vendidas:** 3187
 
-**Valor total vendido:** R$ 23210.19
+**Valor total vendido:** R$ 23227.16
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 788 | R$ 3456.97 |
-| BEBIDA NÃO ALCÓLICA | 777 | R$ 7467.02 |
+| BEBIDA NÃO ALCÓLICA | 779 | R$ 7478.00 |
 | BEBIDA ALCÓLICA | 677 | R$ 4163.71 |
 | MERCEARIA | 384 | R$ 3134.01 |
-| SALGADOS E SNACKS | 171 | R$ 1087.54 |
+| SALGADOS E SNACKS | 172 | R$ 1093.53 |
 | FRIOS E CONGELADOS | 84 | R$ 1046.22 |
 | GELATOS | 82 | R$ 585.18 |
 | HIGIENE E LIMPEZA | 78 | R$ 810.20 |
@@ -43,9 +43,9 @@
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 35 | R$ 426.65 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 33 | R$ 115.17 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 31 | R$ 170.19 |
+| 61 | REFRIGERANTE SPRITE 310ML | 31 | R$ 170.19 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 31 | R$ 106.59 |
 | 55 | REFRIGERANTE COCA COLA 310ML | 30 | R$ 164.70 |
-| 61 | REFRIGERANTE SPRITE 310ML | 30 | R$ 164.70 |
 | 44 | H2O LIMONETO 500ML | 29 | R$ 227.58 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 28 | R$ 391.72 |
 
@@ -131,6 +131,6 @@
 | 2026-11-07 | 56 | R$ 315.54 |
 | 2026-11-08 | 23 | R$ 145.97 |
 | 2026-11-09 | 17 | R$ 188.43 |
-| 2026-11-10 | 22 | R$ 143.78 |
+| 2026-11-10 | 25 | R$ 160.75 |
 
-*Última atualização: 10/11/2026 04:53:38*
+*Última atualização: 10/11/2026 12:53:37*

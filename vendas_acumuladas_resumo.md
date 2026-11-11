@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3229
+**Total de unidades vendidas:** 3237
 
-**Valor total vendido:** R$ 23593.34
+**Valor total vendido:** R$ 23668.46
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 794 | R$ 3485.21 |
-| BEBIDA NÃO ALCÓLICA | 790 | R$ 7593.19 |
+| DOCES | 795 | R$ 3497.20 |
+| BEBIDA NÃO ALCÓLICA | 795 | R$ 7632.34 |
 | BEBIDA ALCÓLICA | 689 | R$ 4264.09 |
-| MERCEARIA | 394 | R$ 3218.91 |
-| SALGADOS E SNACKS | 172 | R$ 1093.53 |
+| MERCEARIA | 395 | R$ 3226.90 |
+| SALGADOS E SNACKS | 173 | R$ 1109.52 |
 | FRIOS E CONGELADOS | 85 | R$ 1062.71 |
 | GELATOS | 82 | R$ 585.18 |
 | HIGIENE E LIMPEZA | 79 | R$ 824.19 |
@@ -30,7 +30,7 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 248 | R$ 1163.12 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 123 | R$ 674.76 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 104 | R$ 1365.16 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 105 | R$ 1379.15 |
 | 132 | PACOQUITA SANTA HELENA 20G | 104 | R$ 165.36 |
 | 1395 | CERVEJA HEINEKEN 350ML | 98 | R$ 724.22 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 95 | R$ 1241.45 |
@@ -42,10 +42,10 @@
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 36 | R$ 436.14 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 36 | R$ 440.64 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 33 | R$ 115.17 |
+| 55 | REFRIGERANTE COCA COLA 310ML | 33 | R$ 181.17 |
 | 61 | REFRIGERANTE SPRITE 310ML | 33 | R$ 181.17 |
 | 44 | H2O LIMONETO 500ML | 31 | R$ 243.36 |
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 31 | R$ 170.19 |
-| 55 | REFRIGERANTE COCA COLA 310ML | 31 | R$ 170.19 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 31 | R$ 106.59 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 29 | R$ 405.71 |
 
@@ -132,6 +132,6 @@
 | 2026-11-08 | 23 | R$ 145.97 |
 | 2026-11-09 | 17 | R$ 188.43 |
 | 2026-11-10 | 43 | R$ 364.47 |
-| 2026-11-11 | 24 | R$ 162.46 |
+| 2026-11-11 | 32 | R$ 237.58 |
 
-*Última atualização: 11/11/2026 13:43:36*
+*Última atualização: 11/11/2026 20:11:09*

@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3255
+**Total de unidades vendidas:** 3260
 
-**Valor total vendido:** R$ 23753.08
+**Valor total vendido:** R$ 23823.03
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 801 | R$ 3507.14 |
-| BEBIDA NÃO ALCÓLICA | 796 | R$ 7639.33 |
+| BEBIDA NÃO ALCÓLICA | 798 | R$ 7667.31 |
 | BEBIDA ALCÓLICA | 697 | R$ 4304.81 |
-| MERCEARIA | 396 | R$ 3238.89 |
+| MERCEARIA | 399 | R$ 3280.86 |
 | SALGADOS E SNACKS | 174 | R$ 1115.51 |
 | FRIOS E CONGELADOS | 86 | R$ 1071.70 |
 | GELATOS | 82 | R$ 585.18 |
@@ -30,7 +30,7 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 252 | R$ 1181.88 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 127 | R$ 696.72 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 105 | R$ 1379.15 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 106 | R$ 1393.14 |
 | 132 | PACOQUITA SANTA HELENA 20G | 104 | R$ 165.36 |
 | 1395 | CERVEJA HEINEKEN 350ML | 98 | R$ 724.22 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 97 | R$ 138.43 |
@@ -38,9 +38,9 @@
 | 236 | BALA DE GOMA IOGURTE 32G | 65 | R$ 129.35 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 51 | R$ 104.49 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
+| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 37 | R$ 454.63 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 36 | R$ 249.83 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 36 | R$ 436.14 |
-| 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 36 | R$ 440.64 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 33 | R$ 115.17 |
 | 55 | REFRIGERANTE COCA COLA 310ML | 33 | R$ 181.17 |
 | 61 | REFRIGERANTE SPRITE 310ML | 33 | R$ 181.17 |
@@ -133,6 +133,6 @@
 | 2026-11-09 | 17 | R$ 188.43 |
 | 2026-11-10 | 43 | R$ 364.47 |
 | 2026-11-11 | 32 | R$ 237.58 |
-| 2026-11-12 | 18 | R$ 84.62 |
+| 2026-11-12 | 23 | R$ 154.57 |
 
-*Última atualização: 12/11/2026 01:39:57*
+*Última atualização: 12/11/2026 10:23:53*

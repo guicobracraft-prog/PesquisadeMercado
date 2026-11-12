@@ -1,0 +1,42 @@
+# 📊 Relatório Diário de Vendas - 2026-11-11
+
+**Total de unidades vendidas:** 32
+**Valor total vendido:** R$ 237.58
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 11 | R$ 60.39 |
+| 55 | REFRIGERANTE COCA COLA 310ML | 3 | R$ 16.47 |
+| 44 | H2O LIMONETO 500ML | 2 | R$ 15.78 |
+| 1509 | LASANHA BOLONHESA FORNO DE MINAS 600G | 1 | R$ 16.49 |
+| 1535 | MOLHO DE TOMATE POMODORO 300G | 1 | R$ 3.89 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 1 | R$ 1.49 |
+| 1675 | MACARRAO NISSIN LEGUMES 80G | 1 | R$ 4.19 |
+| 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 1 | R$ 6.79 |
+| 1486 | SABÃO EM  PO MINUANO FLORAL 800G | 1 | R$ 13.99 |
+| 1417 | GOIABADA PREDILECTA 300G | 1 | R$ 6.99 |
+| 1562 | QUEIJO RALADO IPANEMA 40G | 1 | R$ 7.49 |
+| 61 | REFRIGERANTE SPRITE 310ML | 1 | R$ 5.49 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 1 | R$ 13.99 |
+| 21 | CHOCOLATE LAKA LACTA 80G | 1 | R$ 11.99 |
+| 69 | GATORADE LIMAO 500ML | 1 | R$ 8.69 |
+| 54 | REFRIGERANTE FANTA LARANJA 310ML | 1 | R$ 5.49 |
+| 163 | BATATA QUEIJO PRINGLES 109G | 1 | R$ 15.99 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 1 | R$ 13.99 |
+| 1485 | PIPOCA DE MICROONDAS MANTEIGA DE CINEMA YOKI 100G | 1 | R$ 7.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA ALCÓLICA | 11 | R$ 60.39 |
+| BEBIDA NÃO ALCÓLICA | 10 | R$ 79.90 |
+| MERCEARIA | 5 | R$ 30.55 |
+| DOCES | 3 | R$ 20.27 |
+| FRIOS E CONGELADOS | 1 | R$ 16.49 |
+| HIGIENE E LIMPEZA | 1 | R$ 13.99 |
+| SALGADOS E SNACKS | 1 | R$ 15.99 |
+
+*Gerado em 12/11/2026 01:39:57*

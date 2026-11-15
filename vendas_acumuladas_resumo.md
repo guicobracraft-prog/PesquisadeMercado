@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3391
+**Total de unidades vendidas:** 3400
 
-**Valor total vendido:** R$ 24767.92
+**Valor total vendido:** R$ 24808.33
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 834 | R$ 3612.21 |
-| BEBIDA NÃO ALCÓLICA | 830 | R$ 7946.09 |
-| BEBIDA ALCÓLICA | 728 | R$ 4516.20 |
-| MERCEARIA | 417 | R$ 3468.48 |
+| DOCES | 839 | R$ 3619.66 |
+| BEBIDA NÃO ALCÓLICA | 832 | R$ 7969.37 |
+| BEBIDA ALCÓLICA | 729 | R$ 4521.69 |
+| MERCEARIA | 418 | R$ 3472.67 |
 | SALGADOS E SNACKS | 183 | R$ 1197.02 |
 | FRIOS E CONGELADOS | 88 | R$ 1103.18 |
 | GELATOS | 83 | R$ 594.17 |
@@ -29,9 +29,9 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 258 | R$ 1210.02 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 144 | R$ 790.05 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 145 | R$ 795.54 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 114 | R$ 163.76 |
 | 132 | PACOQUITA SANTA HELENA 20G | 109 | R$ 173.31 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 109 | R$ 156.31 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 107 | R$ 1407.13 |
 | 1395 | CERVEJA HEINEKEN 350ML | 98 | R$ 724.22 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 97 | R$ 1269.43 |
@@ -47,7 +47,7 @@
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 34 | R$ 118.66 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 34 | R$ 117.96 |
 | 44 | H2O LIMONETO 500ML | 32 | R$ 251.25 |
-| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 30 | R$ 419.70 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 31 | R$ 434.29 |
 
 ## 📅 Vendas por Dia
 
@@ -136,6 +136,6 @@
 | 2026-11-12 | 47 | R$ 287.53 |
 | 2026-11-13 | 26 | R$ 189.44 |
 | 2026-11-14 | 55 | R$ 451.35 |
-| 2026-11-15 | 26 | R$ 171.14 |
+| 2026-11-15 | 35 | R$ 211.55 |
 
-*Última atualização: 15/11/2026 05:33:31*
+*Última atualização: 15/11/2026 12:56:44*

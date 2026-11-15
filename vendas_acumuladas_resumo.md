@@ -1,18 +1,18 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3361
+**Total de unidades vendidas:** 3365
 
-**Valor total vendido:** R$ 24573.82
+**Valor total vendido:** R$ 24596.78
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 825 | R$ 3576.80 |
-| BEBIDA NÃO ALCÓLICA | 821 | R$ 7859.68 |
+| DOCES | 827 | R$ 3579.78 |
+| BEBIDA NÃO ALCÓLICA | 822 | R$ 7873.67 |
 | BEBIDA ALCÓLICA | 719 | R$ 4464.09 |
 | MERCEARIA | 416 | R$ 3463.29 |
-| SALGADOS E SNACKS | 182 | R$ 1191.03 |
+| SALGADOS E SNACKS | 183 | R$ 1197.02 |
 | FRIOS E CONGELADOS | 88 | R$ 1103.18 |
 | HIGIENE E LIMPEZA | 82 | R$ 853.26 |
 | GELATOS | 82 | R$ 585.18 |
@@ -30,9 +30,9 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 257 | R$ 1205.33 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 140 | R$ 768.09 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 107 | R$ 1407.13 |
 | 132 | PACOQUITA SANTA HELENA 20G | 107 | R$ 170.13 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 106 | R$ 1393.14 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 105 | R$ 150.35 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 107 | R$ 153.33 |
 | 1395 | CERVEJA HEINEKEN 350ML | 98 | R$ 724.22 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 96 | R$ 1255.44 |
 | 236 | BALA DE GOMA IOGURTE 32G | 65 | R$ 129.35 |
@@ -135,6 +135,6 @@
 | 2026-11-11 | 32 | R$ 237.58 |
 | 2026-11-12 | 47 | R$ 287.53 |
 | 2026-11-13 | 26 | R$ 189.44 |
-| 2026-11-14 | 51 | R$ 428.39 |
+| 2026-11-14 | 55 | R$ 451.35 |
 
-*Última atualização: 14/11/2026 18:45:24*
+*Última atualização: 14/11/2026 22:24:36*

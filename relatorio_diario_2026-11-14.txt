@@ -1,0 +1,64 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-14
+======================================================================
+
+Total de unidades vendidas: 55
+Valor total vendido: R$ 451.35
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         9     R$ 49.41
+1732   PIRULITO IOGURTE DORI 11,2G                  4      R$ 5.96
+103    REFRIGERANTE GUARANA ANTARCTICA 269ML        3     R$ 16.47
+190    REFRIGERANTE COCA COLA ZERO 310ML            2     R$ 10.98
+83     AMENDOIM SALSA E CEBOLA DORI 70G             2     R$ 12.38
+277    CREME DE LEITE PIRACANJUBA 200G              2      R$ 8.98
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 4.98
+57     BATATA CREME E CEBOLA PRINGLES 109G          2     R$ 31.98
+1511   CERVEJA PURO MALTE AMSTEL 269ML              2      R$ 9.38
+280    LEITE EM PO NINHO INTEGRAL 380G              2     R$ 53.78
+1725   SALGADINHO QUEIJO SKINY 60G                  2     R$ 11.98
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 13.99
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+53     LEITE INTEGRAL ITALAC 1L                     1      R$ 7.99
+1768   LEITE CONDENSADO PIRACANJUBA 395G            1      R$ 7.99
+233    BARRA DE CEREAL CASTANHA DE CAJU COM C..     1      R$ 2.99
+1367   SARDINHA EM OLEO ROBINSON CRUSOE 125G        1      R$ 8.89
+1801   CERVEJA HEINEKEN ULTIMATE 330ML              1     R$ 11.99
+1509   LASANHA BOLONHESA FORNO DE MINAS 600G        1     R$ 16.49
+288    AGUA MINERAL COM GAS INDAIA 500ML            1      R$ 3.49
+44     H2O LIMONETO 500ML                           1      R$ 7.89
+1332   CREME DE AVELA NUTELLA 350G                  1     R$ 35.49
+1562   QUEIJO RALADO IPANEMA 40G                    1      R$ 7.49
+100    REFRIGERANTE GUARANA ANTARCTICA ZERO 2..     1      R$ 5.49
+1422   CALDO LEGUMES MAGGI 57G                      1      R$ 4.39
+1758   FETTUCCINE BOLONHESA SEARA 350G              1     R$ 14.99
+1796   CERVEJA HEINEKEN 269ML                       1      R$ 6.49
+1428   PILHA ELGIN  AA 04 UN                        1      R$ 7.99
+38     PIPOCA DOCE IEIE 40G                         1      R$ 2.49
+278    OLEO DE SOJA SOYA 900ML                      1      R$ 9.89
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      1     R$ 13.99
+1764   VEJA PERFUMADO BUQUE DO CERRADO 2L           1     R$ 16.89
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 13.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                             13     R$ 77.27
+BEBIDA NÃO ALCÓLICA                         12     R$ 93.28
+MERCEARIA                                   11    R$ 144.89
+DOCES                                        8     R$ 20.22
+SALGADOS E SNACKS                            6     R$ 56.34
+FRIOS E CONGELADOS                           2     R$ 31.48
+LINHA FIT                                    1      R$ 2.99
+MATERIAIS ELETRONICOS                        1      R$ 7.99
+HIGIENE E LIMPEZA                            1     R$ 16.89
+----------------------------------------------------------------------
+
+Gerado em: 15/11/2026 05:33:31
+======================================================================

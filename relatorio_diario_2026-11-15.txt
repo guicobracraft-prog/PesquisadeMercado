@@ -1,0 +1,57 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-15
+======================================================================
+
+Total de unidades vendidas: 57
+Valor total vendido: R$ 375.83
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1732   PIRULITO IOGURTE DORI 11,2G                  9     R$ 13.41
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         8     R$ 43.92
+126    PICOLE SABORITO                              3     R$ 26.97
+1796   CERVEJA HEINEKEN 269ML                       3     R$ 19.47
+132    PACOQUITA SANTA HELENA 20G                   2      R$ 3.18
+1467   ENERGETICO ULTRA MONSTER 473ML               2     R$ 29.18
+1464   REFRIGERANTE COCA COLA ZERO  2L              2     R$ 27.98
+61     REFRIGERANTE SPRITE 310ML                    2     R$ 10.98
+1537   BALA FINI AMORAS 100G                        2     R$ 14.98
+190    REFRIGERANTE COCA COLA ZERO 310ML            2     R$ 10.98
+69     GATORADE LIMAO 500ML                         2     R$ 17.38
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 27.98
+50     BARRA DE CEREAL BOLO DE CHOCOLATE NUTR..     2      R$ 5.98
+1820   CHOC LACTA 80G LAKA OREO                     1     R$ 11.99
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           1     R$ 13.99
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              1      R$ 5.99
+213    H2O LIMAO 500ML                              1      R$ 7.89
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 5.19
+1511   CERVEJA PURO MALTE AMSTEL 269ML              1      R$ 4.69
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 14.59
+1673   MACARRAO NISSIN GALINHA CAIPIRA 80G          1      R$ 4.19
+288    AGUA MINERAL COM GAS INDAIA 500ML            1      R$ 3.49
+1348   WAFER BAUNILHA RANCHEIRO 78G                 1      R$ 3.79
+68     GATORADE LARANJA 500ML                       1      R$ 8.69
+1733   BALA FINI TUBES MORANGO 80G                  1      R$ 7.49
+83     AMENDOIM SALSA E CEBOLA DORI 70G             1      R$ 6.19
+1468   ENERGETICO CEREJA ZERO BALY 2L               1     R$ 15.99
+1400   BALA DE GOMA FRUTAS DORI 32G                 1      R$ 2.49
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                       18     R$ 64.12
+BEBIDA NÃO ALCÓLICA                         18    R$ 189.12
+BEBIDA ALCÓLICA                             13     R$ 74.07
+GELATOS                                      3     R$ 26.97
+MERCEARIA                                    2      R$ 9.38
+LINHA FIT                                    2      R$ 5.98
+SALGADOS E SNACKS                            1      R$ 6.19
+----------------------------------------------------------------------
+
+Gerado em: 16/11/2026 04:26:14
+======================================================================

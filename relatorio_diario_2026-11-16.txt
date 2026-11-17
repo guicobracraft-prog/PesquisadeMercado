@@ -1,0 +1,55 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-16
+======================================================================
+
+Total de unidades vendidas: 30
+Valor total vendido: R$ 222.00
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1667   TORRONE COM AMENDOIM 70G                     2      R$ 8.98
+132    PACOQUITA SANTA HELENA 20G                   2      R$ 3.18
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 27.98
+190    REFRIGERANTE COCA COLA ZERO 310ML            1      R$ 5.49
+1738   BALA FINI FAZENDO ARTE 80G                   1      R$ 7.49
+233    BARRA DE CEREAL CASTANHA DE CAJU COM C..     1      R$ 2.99
+1400   BALA DE GOMA FRUTAS DORI 32G                 1      R$ 2.49
+1593   AGUA MINERAL NATURAL MARIZA 500ML            1      R$ 3.49
+213    H2O LIMAO 500ML                              1      R$ 7.89
+1757   FETTUCCINE LOMBO E BROCOLIS SEARA 350G       1     R$ 14.99
+1732   PIRULITO IOGURTE DORI 11,2G                  1      R$ 1.49
+1768   LEITE CONDENSADO PIRACANJUBA 395G            1      R$ 7.99
+1485   PIPOCA DE MICROONDAS MANTEIGA DE CINEM..     1      R$ 7.99
+1344   PAO DE FORMA TRADICIONAL VISCONTI 400G       1     R$ 10.99
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 13.99
+1682   WAFER MORANGO RANCHEIRO 78G                  1      R$ 3.79
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 14.59
+1681   SALGADINHO YOKITOS CEBOLA 54G                1      R$ 4.59
+1416   CHAMPIGNON FATIADO VALE FERTIL 100G          1      R$ 9.49
+1503   WAFER CHOCOLATE RANCHEIRO 78G                1      R$ 3.79
+1349   ABSORVENTE COM ABAS INTIMUS GEL 16UN         1     R$ 14.89
+1700   TIRINHAS DE FRANGO AURORA 275G               1     R$ 12.89
+61     REFRIGERANTE SPRITE 310ML                    1      R$ 5.49
+1355   SALGADINHO YOKITOS PRESUNTO 54G              1      R$ 4.59
+1787   MARGARINA COM SAL DORIANA 250G               1      R$ 8.99
+277    CREME DE LEITE PIRACANJUBA 200G              1      R$ 4.49
+1417   GOIABADA PREDILECTA 300G                     1      R$ 6.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        9     R$ 31.21
+BEBIDA NÃO ALCÓLICA                          8     R$ 78.92
+MERCEARIA                                    6     R$ 47.94
+FRIOS E CONGELADOS                           3     R$ 36.87
+SALGADOS E SNACKS                            2      R$ 9.18
+LINHA FIT                                    1      R$ 2.99
+HIGIENE E LIMPEZA                            1     R$ 14.89
+----------------------------------------------------------------------
+
+Gerado em: 17/11/2026 06:50:52
+======================================================================

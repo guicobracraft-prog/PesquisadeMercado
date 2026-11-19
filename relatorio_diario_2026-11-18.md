@@ -1,0 +1,41 @@
+# 📊 Relatório Diário de Vendas - 2026-11-18
+
+**Total de unidades vendidas:** 26
+**Valor total vendido:** R$ 214.14
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 7 | R$ 10.43 |
+| 132 | PACOQUITA SANTA HELENA 20G | 2 | R$ 3.18 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 2 | R$ 27.98 |
+| 1781 | MACARRAO CUP NOODLES COSTELA 68G | 1 | R$ 7.99 |
+| 72 | SUCO DE UVA DAFRUTA 1L | 1 | R$ 6.99 |
+| 1349 | ABSORVENTE COM ABAS INTIMUS GEL 16UN | 1 | R$ 14.89 |
+| 1801 | CERVEJA HEINEKEN ULTIMATE 330ML | 1 | R$ 11.99 |
+| 1819 | LACTA AO LEITE 80G | 1 | R$ 11.99 |
+| 272 | BARRA DE PROTEINA AMENDOIM COM COCO ABSOLUT 45G | 1 | R$ 9.99 |
+| 1484 | CREME DENTAL TRIPLE HORTELA CLOSE UP 70G | 1 | R$ 4.49 |
+| 1804 | BATATA CONGELADA PRIME FRIES 2KG | 1 | R$ 29.99 |
+| 279 | FLOCAO DE MILHO TIO EMILIO 400G | 1 | R$ 2.39 |
+| 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 1 | R$ 14.59 |
+| 1344 | PAO DE FORMA TRADICIONAL VISCONTI 400G | 1 | R$ 10.99 |
+| 1792 | BURGUER X BACON COM REQUEIJAO AURORA 145G | 1 | R$ 13.99 |
+| 67 | ENERGETICO MORANGO E PESSEGO BALY 473ML | 1 | R$ 11.99 |
+| 1395 | CERVEJA HEINEKEN 350ML | 1 | R$ 7.39 |
+| 1700 | TIRINHAS DE FRANGO AURORA 275G | 1 | R$ 12.89 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| DOCES | 10 | R$ 25.60 |
+| BEBIDA NÃO ALCÓLICA | 5 | R$ 61.55 |
+| MERCEARIA | 3 | R$ 21.37 |
+| FRIOS E CONGELADOS | 3 | R$ 56.87 |
+| HIGIENE E LIMPEZA | 2 | R$ 19.38 |
+| BEBIDA ALCÓLICA | 2 | R$ 19.38 |
+| LINHA FIT | 1 | R$ 9.99 |
+
+*Gerado em 19/11/2026 05:06:11*

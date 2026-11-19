@@ -1,22 +1,22 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3484
+**Total de unidades vendidas:** 3499
 
-**Valor total vendido:** R$ 25453.99
+**Valor total vendido:** R$ 25549.14
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 865 | R$ 3702.20 |
-| BEBIDA NÃO ALCÓLICA | 855 | R$ 8222.74 |
+| DOCES | 873 | R$ 3747.52 |
+| BEBIDA NÃO ALCÓLICA | 857 | R$ 8242.22 |
 | BEBIDA ALCÓLICA | 734 | R$ 4557.54 |
 | MERCEARIA | 430 | R$ 3566.25 |
-| SALGADOS E SNACKS | 186 | R$ 1212.39 |
+| SALGADOS E SNACKS | 187 | R$ 1216.28 |
 | FRIOS E CONGELADOS | 94 | R$ 1196.92 |
-| HIGIENE E LIMPEZA | 85 | R$ 887.53 |
+| HIGIENE E LIMPEZA | 87 | R$ 908.01 |
 | GELATOS | 85 | R$ 612.15 |
-| LINHA FIT | 37 | R$ 134.52 |
+| LINHA FIT | 39 | R$ 140.50 |
 | ARTESANAIS | 30 | R$ 284.70 |
 | FRIOS E LATICINIOS | 26 | R$ 279.68 |
 | DESCARTÁVEIS E UTILIDADES | 21 | R$ 141.19 |
@@ -30,10 +30,10 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 258 | R$ 1210.02 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 148 | R$ 812.01 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 125 | R$ 180.15 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 128 | R$ 184.62 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 113 | R$ 1491.07 |
 | 132 | PACOQUITA SANTA HELENA 20G | 113 | R$ 179.67 |
-| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 100 | R$ 1311.40 |
+| 1464 | REFRIGERANTE COCA COLA ZERO  2L | 101 | R$ 1325.39 |
 | 1395 | CERVEJA HEINEKEN 350ML | 99 | R$ 731.61 |
 | 236 | BALA DE GOMA IOGURTE 32G | 65 | R$ 129.35 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 56 | R$ 116.94 |
@@ -140,5 +140,6 @@
 | 2026-11-16 | 30 | R$ 222.00 |
 | 2026-11-17 | 6 | R$ 45.24 |
 | 2026-11-18 | 26 | R$ 214.14 |
+| 2026-11-19 | 15 | R$ 95.15 |
 
-*Última atualização: 18/11/2026 21:50:01*
+*Última atualização: 19/11/2026 05:06:11*

@@ -1,8 +1,8 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3519
+**Total de unidades vendidas:** 3520
 
-**Valor total vendido:** R$ 25742.34
+**Valor total vendido:** R$ 25747.03
 
 ## 🏷️ Vendas por Categoria
 
@@ -10,7 +10,7 @@
 |-----------|-----------:|------------:|
 | DOCES | 878 | R$ 3772.27 |
 | BEBIDA NÃO ALCÓLICA | 864 | R$ 8330.85 |
-| BEBIDA ALCÓLICA | 735 | R$ 4563.53 |
+| BEBIDA ALCÓLICA | 736 | R$ 4568.22 |
 | MERCEARIA | 431 | R$ 3586.24 |
 | SALGADOS E SNACKS | 189 | R$ 1238.26 |
 | FRIOS E CONGELADOS | 96 | R$ 1217.90 |
@@ -28,7 +28,7 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 258 | R$ 1210.02 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 259 | R$ 1214.71 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 148 | R$ 812.01 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 128 | R$ 184.62 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 115 | R$ 1519.05 |
@@ -141,6 +141,6 @@
 | 2026-11-17 | 6 | R$ 45.24 |
 | 2026-11-18 | 26 | R$ 214.14 |
 | 2026-11-19 | 25 | R$ 205.05 |
-| 2026-11-20 | 10 | R$ 83.30 |
+| 2026-11-20 | 11 | R$ 87.99 |
 
-*Última atualização: 20/11/2026 02:38:24*
+*Última atualização: 20/11/2026 11:30:30*

@@ -1,0 +1,51 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-19
+======================================================================
+
+Total de unidades vendidas: 25
+Valor total vendido: R$ 205.05
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1732   PIRULITO IOGURTE DORI 11,2G                  3      R$ 4.47
+1499   BISCOITO BONO CHOCOLATE 90G                  2     R$ 10.58
+51     BARRA DE CEREAL AVEIA COM BANANA E MEL..     2      R$ 5.98
+1328   COTONETE COTTON LINE 75UN                    1      R$ 3.59
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+1464   REFRIGERANTE COCA COLA ZERO  2L              1     R$ 13.99
+1457   BISCOITO RECHEADO DE CHOCOLATE PASSATE..     1      R$ 5.29
+1629   CAIXA DE BOMBOM LACTA 250G                   1     R$ 20.99
+1460   DESODORANTE AEROSOL ORIGINAL  PROTECT ..     1     R$ 16.89
+165    SALGADINHO TORCIDA BACON 60G                 1      R$ 3.89
+100    REFRIGERANTE GUARANA ANTARCTICA ZERO 2..     1      R$ 5.49
+1789   CAFE EXTRA FORTE PILAO 250G                  1     R$ 19.99
+1772   QUEIJO MUSSARELA DEALE 150G                  1      R$ 9.99
+1786   SALGADINHO ORIGINAL SKINY 60G                1      R$ 5.99
+138    PICOLE MALTINE                               1      R$ 4.99
+48     ENERGETICO FRUTAS TROPICAIS BALY 473ML       1     R$ 11.99
+1688   CERVEJA BRAHMA SEM ALCOOL 350ML              1      R$ 5.99
+1790   APRESUNTADO AURORA 180G                      1     R$ 10.99
+1458   CHOCOLATE CRUNCH NESTLE 80G                  1     R$ 11.99
+163    BATATA QUEIJO PRINGLES 109G                  1     R$ 15.99
+67     ENERGETICO MORANGO E PESSEGO BALY 473ML      1     R$ 11.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        9     R$ 57.31
+BEBIDA NÃO ALCÓLICA                          4     R$ 43.46
+SALGADOS E SNACKS                            3     R$ 25.87
+HIGIENE E LIMPEZA                            2     R$ 20.48
+LINHA FIT                                    2      R$ 5.98
+FRIOS E CONGELADOS                           2     R$ 20.98
+MERCEARIA                                    1     R$ 19.99
+GELATOS                                      1      R$ 4.99
+BEBIDA ALCÓLICA                              1      R$ 5.99
+----------------------------------------------------------------------
+
+Gerado em: 20/11/2026 02:38:24
+======================================================================

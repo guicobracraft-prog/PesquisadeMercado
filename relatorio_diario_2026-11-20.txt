@@ -1,0 +1,56 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-20
+======================================================================
+
+Total de unidades vendidas: 36
+Valor total vendido: R$ 277.74
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+138    PICOLE MALTINE                               3     R$ 14.97
+1420   REFRIGERANTE COCA COLA 2L                    2     R$ 27.98
+1400   BALA DE GOMA FRUTAS DORI 32G                 2      R$ 4.98
+1464   REFRIGERANTE COCA COLA ZERO  2L              2     R$ 27.98
+1512   SALGADINHO TORCIDA QUEIJO 60G                2      R$ 7.78
+190    REFRIGERANTE COCA COLA ZERO 310ML            2     R$ 10.98
+146    PICOLE MEIO AMARGO                           2      R$ 9.98
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           2     R$ 27.98
+90     BISCOITO BONO DOCE DE LEITE 90G              1      R$ 5.29
+38     PIPOCA DOCE IEIE 40G                         1      R$ 2.49
+1307   AGUA SANITARIA YPE 1L                        1      R$ 5.89
+70     GATORADE UVA 500ML                           1      R$ 8.69
+1511   CERVEJA PURO MALTE AMSTEL 269ML              1      R$ 4.69
+1623   FERMENTO EM PO ROYAL 100G                    1      R$ 7.99
+72     SUCO DE UVA DAFRUTA 1L                       1      R$ 6.99
+1591   BATATA PALHA TRADICIONAL YOKI 105G           1     R$ 14.39
+132    PACOQUITA SANTA HELENA 20G                   1      R$ 1.59
+1734   DETERGENTE COCO LIMPOL 500ML                 1      R$ 3.79
+1428   PILHA ELGIN  AA 04 UN                        1      R$ 7.99
+281    BALA MENTOS FANTA LARANJA 37,5G              1      R$ 3.79
+58     BATATA CHURRASCO PRINGLES 109G               1     R$ 15.99
+1427   PILHA ELGIN AAA 04 UN                        1      R$ 7.99
+1741   MACARRAO ESPAGUETE 8 SEMOLADO GALO 500G      1      R$ 6.99
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 14.59
+1535   MOLHO DE TOMATE POMODORO 300G                1      R$ 3.89
+1346   MOSTARDA OLE 180G                            1      R$ 7.49
+205    ENERGETICO MANGO MONSTER 473ML               1     R$ 14.59
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         12    R$ 139.78
+DOCES                                        6     R$ 18.14
+MERCEARIA                                    5     R$ 40.75
+GELATOS                                      5     R$ 24.95
+SALGADOS E SNACKS                            3     R$ 23.77
+HIGIENE E LIMPEZA                            2      R$ 9.68
+MATERIAIS ELETRONICOS                        2     R$ 15.98
+BEBIDA ALCÓLICA                              1      R$ 4.69
+----------------------------------------------------------------------
+
+Gerado em: 21/11/2026 00:36:56
+======================================================================

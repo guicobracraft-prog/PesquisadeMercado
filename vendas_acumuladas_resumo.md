@@ -1,19 +1,19 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3569
+**Total de unidades vendidas:** 3586
 
-**Valor total vendido:** R$ 26145.24
+**Valor total vendido:** R$ 26248.67
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 888 | R$ 3813.77 |
-| BEBIDA NÃO ALCÓLICA | 874 | R$ 8438.05 |
-| BEBIDA ALCÓLICA | 743 | R$ 4624.55 |
-| MERCEARIA | 438 | R$ 3648.07 |
+| DOCES | 894 | R$ 3829.01 |
+| BEBIDA NÃO ALCÓLICA | 877 | R$ 8472.72 |
+| BEBIDA ALCÓLICA | 747 | R$ 4643.31 |
+| MERCEARIA | 441 | R$ 3669.94 |
 | SALGADOS E SNACKS | 193 | R$ 1268.02 |
-| FRIOS E CONGELADOS | 99 | R$ 1274.77 |
+| FRIOS E CONGELADOS | 100 | R$ 1287.66 |
 | GELATOS | 91 | R$ 642.09 |
 | HIGIENE E LIMPEZA | 89 | R$ 917.69 |
 | LINHA FIT | 39 | R$ 140.50 |
@@ -28,9 +28,9 @@
 
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
-| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 259 | R$ 1214.71 |
+| 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 263 | R$ 1233.47 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 148 | R$ 812.01 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 129 | R$ 186.11 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 132 | R$ 190.58 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 115 | R$ 1519.05 |
 | 132 | PACOQUITA SANTA HELENA 20G | 115 | R$ 182.85 |
 | 1395 | CERVEJA HEINEKEN 350ML | 104 | R$ 768.56 |
@@ -42,8 +42,8 @@
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 40 | R$ 276.99 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 39 | R$ 478.11 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
+| 281 | BALA MENTOS FANTA LARANJA 37,5G | 37 | R$ 129.33 |
 | 61 | REFRIGERANTE SPRITE 310ML | 36 | R$ 197.64 |
-| 281 | BALA MENTOS FANTA LARANJA 37,5G | 36 | R$ 125.54 |
 | 288 | AGUA MINERAL COM GAS INDAIA 500ML | 35 | R$ 122.15 |
 | 55 | REFRIGERANTE COCA COLA 310ML | 35 | R$ 192.15 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 34 | R$ 478.06 |
@@ -142,6 +142,6 @@
 | 2026-11-18 | 26 | R$ 214.14 |
 | 2026-11-19 | 25 | R$ 205.05 |
 | 2026-11-20 | 36 | R$ 277.74 |
-| 2026-11-21 | 24 | R$ 208.46 |
+| 2026-11-21 | 41 | R$ 311.89 |
 
-*Última atualização: 21/11/2026 15:22:54*
+*Última atualização: 21/11/2026 20:37:39*

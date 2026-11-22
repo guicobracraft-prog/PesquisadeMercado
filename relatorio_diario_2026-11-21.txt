@@ -1,0 +1,54 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-21
+======================================================================
+
+Total de unidades vendidas: 41
+Valor total vendido: R$ 311.89
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1395   CERVEJA HEINEKEN 350ML                       5     R$ 36.95
+1732   PIRULITO IOGURTE DORI 11,2G                  4      R$ 5.96
+1511   CERVEJA PURO MALTE AMSTEL 269ML              4     R$ 18.76
+281    BALA MENTOS FANTA LARANJA 37,5G              2      R$ 7.58
+7      TRIDENT HORTELA 8G                           2      R$ 7.98
+1700   TIRINHAS DE FRANGO AURORA 275G               2     R$ 25.78
+1802   GIN TONICA PINK AMORA SCHWEPPES 269ML        2     R$ 19.38
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 14.59
+190    REFRIGERANTE COCA COLA ZERO 310ML            1      R$ 5.49
+1777   PIZZA  DE 4 QUEIJOS SADIA 460G               1     R$ 21.99
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 5.19
+1776   PIZZA DE FRANGO COM REQUEIJAO E MUSSAR..     1     R$ 21.99
+1724   SALGADINHO PRESUNTO SKINY 60G                1      R$ 5.99
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+1316   MAIONESE HELLMANNS 500G                      1     R$ 15.89
+1400   BALA DE GOMA FRUTAS DORI 32G                 1      R$ 2.49
+1465   CHOCOLATE SNICKERS ORIGINAL 40G              1      R$ 6.79
+19     CHOCOLATE SHOT LACTA 80G                     1     R$ 11.99
+132    PACOQUITA SANTA HELENA 20G                   1      R$ 1.59
+67     ENERGETICO MORANGO E PESSEGO BALY 473ML      1     R$ 11.99
+1626   EXTRATO DE TOMATE POMODORO 300G              1      R$ 5.89
+1775   MACARRAO CUP NOODLES CHEDDAR 69G             1      R$ 7.99
+3      HALLS MENTOL 28G                             1      R$ 2.99
+103    REFRIGERANTE GUARANA ANTARCTICA 269ML        1      R$ 5.49
+205    ENERGETICO MANGO MONSTER 473ML               1     R$ 14.59
+1623   FERMENTO EM PO ROYAL 100G                    1      R$ 7.99
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 14.59
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                       14     R$ 51.36
+BEBIDA ALCÓLICA                             11     R$ 75.09
+BEBIDA NÃO ALCÓLICA                          6     R$ 66.74
+MERCEARIA                                    5     R$ 42.95
+FRIOS E CONGELADOS                           4     R$ 69.76
+SALGADOS E SNACKS                            1      R$ 5.99
+----------------------------------------------------------------------
+
+Gerado em: 22/11/2026 00:49:06
+======================================================================

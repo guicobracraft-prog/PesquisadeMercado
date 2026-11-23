@@ -1,0 +1,48 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-22
+======================================================================
+
+Total de unidades vendidas: 30
+Valor total vendido: R$ 221.10
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1732   PIRULITO IOGURTE DORI 11,2G                  5      R$ 7.45
+100    REFRIGERANTE GUARANA ANTARCTICA ZERO 2..     2     R$ 10.98
+228    BEBIDA LACTEA CHOCOLATE PIRACANJUBA 20..     2      R$ 5.98
+53     LEITE INTEGRAL ITALAC 1L                     2     R$ 15.98
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         2     R$ 10.98
+1380   AMACIANTE CONCENTRADO DOWNY 500ML            2     R$ 35.58
+1587   ENERGETICO MORANGO E PESSEGO BALY 2L         1     R$ 15.99
+1637   MILHO PARA PIPOCA PREMIUM KICALDO 500G       1      R$ 5.19
+1623   FERMENTO EM PO ROYAL 100G                    1      R$ 7.99
+7      TRIDENT HORTELA 8G                           1      R$ 3.99
+103    REFRIGERANTE GUARANA ANTARCTICA 269ML        1      R$ 5.49
+1316   MAIONESE HELLMANNS 500G                      1     R$ 15.89
+265    MILHO PREDILECTA 170G                        1      R$ 5.39
+1772   QUEIJO MUSSARELA DEALE 150G                  1      R$ 9.99
+48     ENERGETICO FRUTAS TROPICAIS BALY 473ML       1     R$ 11.99
+1801   CERVEJA HEINEKEN ULTIMATE 330ML              1     R$ 11.99
+1790   APRESUNTADO AURORA 180G                      1     R$ 10.99
+38     PIPOCA DOCE IEIE 40G                         1      R$ 2.49
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+1411   LEITE DE COCO MENINA  200ML                  1      R$ 7.29
+1754   PAPEL HIGIENICO PERSONAL VIP 12UN            1     R$ 15.49
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+DOCES                                        8     R$ 17.92
+BEBIDA NÃO ALCÓLICA                          7     R$ 50.43
+MERCEARIA                                    7     R$ 57.73
+BEBIDA ALCÓLICA                              3     R$ 22.97
+HIGIENE E LIMPEZA                            3     R$ 51.07
+FRIOS E CONGELADOS                           2     R$ 20.98
+----------------------------------------------------------------------
+
+Gerado em: 23/11/2026 06:56:47
+======================================================================

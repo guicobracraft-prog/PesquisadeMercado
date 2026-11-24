@@ -1,0 +1,38 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-23
+======================================================================
+
+Total de unidades vendidas: 17
+Valor total vendido: R$ 117.83
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         5     R$ 27.45
+1511   CERVEJA PURO MALTE AMSTEL 269ML              2      R$ 9.38
+1732   PIRULITO IOGURTE DORI 11,2G                  2      R$ 2.98
+1816   SALGADINHO DE BATATA BACONFEST ALEMANH..     1     R$ 15.99
+1768   LEITE CONDENSADO PIRACANJUBA 395G            1      R$ 7.99
+1821   CHOC LACTA AMARO 80G                         1     R$ 11.99
+103    REFRIGERANTE GUARANA ANTARCTICA 269ML        1      R$ 5.49
+1687   SUCO DE PESSEGO NUTRI 1L                     1      R$ 6.99
+100    REFRIGERANTE GUARANA ANTARCTICA ZERO 2..     1      R$ 5.49
+1534   LASANHA QUATRO QUEIJOS FORNO DE MINAS ..     1     R$ 16.49
+1374   ARROZ BRANCO URBANO 1KG                      1      R$ 7.59
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA ALCÓLICA                              7     R$ 36.83
+DOCES                                        3     R$ 14.97
+BEBIDA NÃO ALCÓLICA                          3     R$ 17.97
+MERCEARIA                                    2     R$ 15.58
+SALGADOS E SNACKS                            1     R$ 15.99
+FRIOS E CONGELADOS                           1     R$ 16.49
+----------------------------------------------------------------------
+
+Gerado em: 24/11/2026 02:39:43
+======================================================================

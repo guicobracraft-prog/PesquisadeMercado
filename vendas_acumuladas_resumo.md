@@ -1,17 +1,17 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3641
+**Total de unidades vendidas:** 3653
 
-**Valor total vendido:** R$ 26632.52
+**Valor total vendido:** R$ 26721.70
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
 | DOCES | 907 | R$ 3864.88 |
-| BEBIDA NÃO ALCÓLICA | 890 | R$ 8553.19 |
-| BEBIDA ALCÓLICA | 757 | R$ 4703.11 |
-| MERCEARIA | 452 | R$ 3757.13 |
+| BEBIDA NÃO ALCÓLICA | 893 | R$ 8584.96 |
+| BEBIDA ALCÓLICA | 763 | R$ 4736.05 |
+| MERCEARIA | 455 | R$ 3781.60 |
 | SALGADOS E SNACKS | 195 | R$ 1300.00 |
 | FRIOS E CONGELADOS | 103 | R$ 1325.13 |
 | HIGIENE E LIMPEZA | 92 | R$ 968.76 |
@@ -29,15 +29,15 @@
 | ID | Produto | Quantidade | Valor Total |
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 265 | R$ 1242.85 |
-| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 155 | R$ 850.44 |
+| 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 161 | R$ 883.38 |
 | 1732 | PIRULITO IOGURTE DORI 11,2G | 141 | R$ 203.99 |
-| 1420 | REFRIGERANTE COCA COLA 2L | 115 | R$ 1519.05 |
+| 1420 | REFRIGERANTE COCA COLA 2L | 116 | R$ 1533.04 |
 | 132 | PACOQUITA SANTA HELENA 20G | 115 | R$ 182.85 |
 | 1395 | CERVEJA HEINEKEN 350ML | 104 | R$ 768.56 |
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 103 | R$ 1353.37 |
 | 236 | BALA DE GOMA IOGURTE 32G | 65 | R$ 129.35 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 59 | R$ 124.41 |
-| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 42 | R$ 230.58 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 43 | R$ 236.37 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 41 | R$ 510.59 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 40 | R$ 276.99 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 39 | R$ 478.11 |
@@ -145,6 +145,6 @@
 | 2026-11-21 | 41 | R$ 311.89 |
 | 2026-11-22 | 30 | R$ 221.10 |
 | 2026-11-23 | 17 | R$ 117.83 |
-| 2026-11-24 | 8 | R$ 44.92 |
+| 2026-11-24 | 20 | R$ 134.10 |
 
-*Última atualização: 24/11/2026 02:39:44*
+*Última atualização: 24/11/2026 13:37:57*

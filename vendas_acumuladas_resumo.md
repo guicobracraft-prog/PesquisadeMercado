@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3674
+**Total de unidades vendidas:** 3678
 
-**Valor total vendido:** R$ 26889.09
+**Valor total vendido:** R$ 26909.95
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 916 | R$ 3914.39 |
-| BEBIDA NÃO ALCÓLICA | 899 | R$ 8657.50 |
+| DOCES | 919 | R$ 3921.26 |
+| BEBIDA NÃO ALCÓLICA | 900 | R$ 8671.49 |
 | BEBIDA ALCÓLICA | 765 | R$ 4747.53 |
 | MERCEARIA | 456 | R$ 3789.59 |
 | SALGADOS E SNACKS | 197 | R$ 1321.98 |
@@ -30,7 +30,7 @@
 |----|---------|-----------:|------------:|
 | 1511 | CERVEJA PURO MALTE AMSTEL 269ML | 265 | R$ 1242.85 |
 | 1397 | CERVEJA PURO MALTE AMSTEL LATA 350ML | 162 | R$ 888.87 |
-| 1732 | PIRULITO IOGURTE DORI 11,2G | 141 | R$ 203.99 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 143 | R$ 206.97 |
 | 1420 | REFRIGERANTE COCA COLA 2L | 117 | R$ 1547.03 |
 | 132 | PACOQUITA SANTA HELENA 20G | 116 | R$ 184.44 |
 | 1395 | CERVEJA HEINEKEN 350ML | 104 | R$ 768.56 |
@@ -40,7 +40,7 @@
 | 190 | REFRIGERANTE COCA COLA ZERO 310ML | 43 | R$ 236.37 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 42 | R$ 524.58 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 41 | R$ 283.78 |
-| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 39 | R$ 478.11 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 40 | R$ 492.10 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 37 | R$ 129.33 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 36 | R$ 507.84 |
@@ -146,5 +146,6 @@
 | 2026-11-22 | 30 | R$ 221.10 |
 | 2026-11-23 | 17 | R$ 117.83 |
 | 2026-11-24 | 41 | R$ 301.49 |
+| 2026-11-25 | 4 | R$ 20.86 |
 
-*Última atualização: 24/11/2026 22:11:07*
+*Última atualização: 25/11/2026 07:38:21*

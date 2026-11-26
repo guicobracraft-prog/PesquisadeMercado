@@ -1,0 +1,28 @@
+# 📊 Relatório Diário de Vendas - 2026-11-25
+
+**Total de unidades vendidas:** 18
+**Valor total vendido:** R$ 178.70
+
+## 🛒 Vendas por Produto
+
+| ID | Produto | Quantidade | Valor Total |
+|----|---------|-----------:|------------:|
+| 1420 | REFRIGERANTE COCA COLA 2L | 7 | R$ 97.93 |
+| 1732 | PIRULITO IOGURTE DORI 11,2G | 3 | R$ 4.47 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 2 | R$ 11.58 |
+| 1708 | LASANHA BOLONHESA SEARA 300G | 2 | R$ 29.96 |
+| 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 1 | R$ 13.99 |
+| 1348 | WAFER BAUNILHA RANCHEIRO 78G | 1 | R$ 3.89 |
+| 1367 | SARDINHA EM OLEO ROBINSON CRUSOE 125G | 1 | R$ 8.89 |
+| 213 | H2O LIMAO 500ML | 1 | R$ 7.99 |
+
+## 🏷️ Vendas por Categoria
+
+| Categoria | Quantidade | Valor Total |
+|-----------|-----------:|------------:|
+| BEBIDA NÃO ALCÓLICA | 11 | R$ 131.49 |
+| DOCES | 4 | R$ 8.36 |
+| FRIOS E CONGELADOS | 2 | R$ 29.96 |
+| MERCEARIA | 1 | R$ 8.89 |
+
+*Gerado em 26/11/2026 00:15:41*

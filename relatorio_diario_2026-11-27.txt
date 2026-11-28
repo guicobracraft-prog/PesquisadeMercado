@@ -1,0 +1,46 @@
+======================================================================
+RELATÓRIO DIÁRIO DE VENDAS - 2026-11-27
+======================================================================
+
+Total de unidades vendidas: 26
+Valor total vendido: R$ 246.14
+
+VENDAS POR PRODUTO
+----------------------------------------------------------------------
+ID     Produto                                    Qtd  Valor Total
+----------------------------------------------------------------------
+55     REFRIGERANTE COCA COLA 310ML                 3     R$ 17.37
+1511   CERVEJA PURO MALTE AMSTEL 269ML              2      R$ 9.38
+1406   REFRIGERANTE GUARANA ANTARCTICA ZERO 2L      2     R$ 27.98
+1385   REFRIGERANTE GUARANA ANTARCTICA 2L           2     R$ 27.98
+132    PACOQUITA SANTA HELENA 20G                   2      R$ 3.18
+204    ENERGETICO ENERGY ORIGINAL MONSTER 473ML     1     R$ 14.89
+1499   BISCOITO BONO CHOCOLATE 90G                  1      R$ 5.29
+1420   REFRIGERANTE COCA COLA 2L                    1     R$ 13.99
+1467   ENERGETICO ULTRA MONSTER 473ML               1     R$ 14.89
+190    REFRIGERANTE COCA COLA ZERO 310ML            1      R$ 5.79
+1698   VINHO CHILENO CONCHA Y TORO CABERNET 7..     1     R$ 39.99
+1824   BISCOITO RECHEADO DE CHOCOLATE PASSATE..     1      R$ 5.49
+13     CHOCOLATE AO LEITE KITKAT NESTLE 41,5G       1      R$ 6.79
+103    REFRIGERANTE GUARANA ANTARCTICA 269ML        1      R$ 5.79
+1368   ATUM RALADO MOLHO DE TOMATE 88 140G          1     R$ 11.99
+1397   CERVEJA PURO MALTE AMSTEL LATA 350ML         1      R$ 5.49
+1781   MACARRAO CUP NOODLES COSTELA 68G             1      R$ 7.99
+205    ENERGETICO MANGO MONSTER 473ML               1     R$ 14.89
+51     BARRA DE CEREAL AVEIA COM BANANA E MEL..     1      R$ 2.99
+131    TRIDENT MORANGO 8G                           1      R$ 3.99
+----------------------------------------------------------------------
+
+VENDAS POR CATEGORIA
+----------------------------------------------------------------------
+Categoria                                  Qtd  Valor Total
+----------------------------------------------------------------------
+BEBIDA NÃO ALCÓLICA                         13    R$ 143.57
+DOCES                                        6     R$ 24.74
+BEBIDA ALCÓLICA                              4     R$ 54.86
+MERCEARIA                                    2     R$ 19.98
+LINHA FIT                                    1      R$ 2.99
+----------------------------------------------------------------------
+
+Gerado em: 28/11/2026 02:16:54
+======================================================================

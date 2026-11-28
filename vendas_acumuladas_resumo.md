@@ -1,15 +1,15 @@
 # 📊 Resumo de Vendas Acumuladas
 
-**Total de unidades vendidas:** 3746
+**Total de unidades vendidas:** 3752
 
-**Valor total vendido:** R$ 27560.75
+**Valor total vendido:** R$ 27602.39
 
 ## 🏷️ Vendas por Categoria
 
 | Categoria | Quantidade | Valor Total |
 |-----------|-----------:|------------:|
-| DOCES | 933 | R$ 3987.92 |
-| BEBIDA NÃO ALCÓLICA | 933 | R$ 9021.46 |
+| BEBIDA NÃO ALCÓLICA | 937 | R$ 9050.82 |
+| DOCES | 935 | R$ 4000.20 |
 | BEBIDA ALCÓLICA | 774 | R$ 4850.84 |
 | MERCEARIA | 462 | R$ 3850.73 |
 | SALGADOS E SNACKS | 197 | R$ 1321.98 |
@@ -37,11 +37,11 @@
 | 1464 | REFRIGERANTE COCA COLA ZERO  2L | 103 | R$ 1353.37 |
 | 236 | BALA DE GOMA IOGURTE 32G | 65 | R$ 129.35 |
 | 1400 | BALA DE GOMA FRUTAS DORI 32G | 60 | R$ 126.90 |
-| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 47 | R$ 259.53 |
+| 190 | REFRIGERANTE COCA COLA ZERO 310ML | 48 | R$ 265.32 |
 | 1406 | REFRIGERANTE GUARANA ANTARCTICA ZERO 2L | 45 | R$ 566.55 |
 | 1385 | REFRIGERANTE GUARANA ANTARCTICA 2L | 42 | R$ 520.08 |
 | 1465 | CHOCOLATE SNICKERS ORIGINAL 40G | 41 | R$ 283.78 |
-| 55 | REFRIGERANTE COCA COLA 310ML | 38 | R$ 209.52 |
+| 55 | REFRIGERANTE COCA COLA 310ML | 40 | R$ 221.10 |
 | 1511 | CERVEJA AMSTEL PURO MALTE 269ML | 37 | R$ 173.53 |
 | 204 | ENERGETICO ENERGY ORIGINAL MONSTER 473ML | 37 | R$ 522.73 |
 | 281 | BALA MENTOS FANTA LARANJA 37,5G | 37 | R$ 129.33 |
@@ -149,5 +149,6 @@
 | 2026-11-25 | 18 | R$ 178.70 |
 | 2026-11-26 | 28 | R$ 246.82 |
 | 2026-11-27 | 26 | R$ 246.14 |
+| 2026-11-28 | 6 | R$ 41.64 |
 
-*Última atualização: 27/11/2026 20:03:18*
+*Última atualização: 28/11/2026 02:16:54*
